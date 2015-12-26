@@ -18,14 +18,14 @@
     {
       "Name": "Contact1",
       "Social": {
-        "Website": "www.zsquad.in",
+        "Website": "http://www.zsquad.in",
         "Email": "something@somewhere.com"
       }
     },
     {
       "Name": "Contact2",
       "Social": {
-        "Website": "www.ganshani.com",
+        "Website": "http://www.ganshani.com",
         "Email": "something@somewhere.com"
       }
     }
@@ -33,18 +33,18 @@
   "Sponsors": [
     {
       "Name": "Microsoft",
-      "Image": "http://globalazurebootcampsg.azurewebsites.net/assets/img/sponsors/msft.png",
-      "Link": "www.microsoft.com"
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/demo/where.png",
+      "Link": "http://www.microsoft.com"
     },
     {
       "Name": "Microsoft",
-      "Image": "http://globalazurebootcampsg.azurewebsites.net/assets/img/sponsors/msft.png",
-      "Link": "www.microsoft.com"
+      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
+      "Link": "http://www.microsoft.com"
     },
     {
       "Name": "Microsoft",
-      "Image": "http://globalazurebootcampsg.azurewebsites.net/assets/img/sponsors/msft.png",
-      "Link": "www.microsoft.com"
+      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
+      "Link": "http://www.microsoft.com"
     }
   ],
   "Prizes": [
