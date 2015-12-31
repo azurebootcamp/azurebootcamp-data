@@ -1,6 +1,16 @@
 {
   "Locations": [
-    "Singapore",
-    "Demo"
+    { 
+        "Name":"Singapore",
+        "Folder":"Singapore",
+        "WebsiteUrl":"http://sg-azurebootcamp.azurewebsites.net", 
+        "Show": true
+    },
+    { 
+        "Name":"Demo Site",
+        "Folder":"Demo",
+        "WebsiteUrl":"http://demo-azurebootcamp.azurewebsites.net",
+        "Show": false
+    }
   ]
 }
