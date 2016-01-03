@@ -6,12 +6,39 @@
     "Address": "One Marina Boulevard, Singapore"
   },
   "Social": {
-    "Meetup": "http://www.meetup.com/mssgug/",
+    "Meetup": "http://www.meetup.com/mssgug/events/227791830/",
     "Facebook": "https://www.facebook.com/MWAPSG"
   },
   "Callout": {
-    "Text": "Stay tuned for updates!",
-    "Link": "https://www.facebook.com/MWAPSG",
+    "Text": "RSVP today!",
+    "Link": "http://www.meetup.com/mssgug/events/227791830/",
     "Type": "info"
-  }
+  },
+  "Organizers": [
+    {
+      "Name": "Faizal Mohamed",
+      "Social": {
+        "Email": "kmdfaizal@yahoo.com"
+      }
+    },
+    {
+      "Name": "Alvin Lau",
+      "Social": {
+        "Email": "microlau@gmail.com"
+      }
+    },
+    {
+      "Name": "Punit Ganshani",
+      "Social": {
+        "Email": "punit.ganshani@gmail.com"
+      }
+    },
+    {
+      "Name": "Senthamil Selvan",
+      "Social": {
+        "Email": "altfo@hotmail.com"
+      }
+    }
+    
+  ]
 }
