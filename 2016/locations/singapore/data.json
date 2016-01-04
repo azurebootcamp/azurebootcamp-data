@@ -35,6 +35,13 @@
 			"Email": "altfo@hotmail.com"
 		}
 	}],
+   "Sponsors": [
+    {
+      "Name": "Microsoft",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
+      "Link": "http://www.microsoft.com"
+    }
+  ],
   "Prizes": [
     {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
