@@ -10,9 +10,9 @@
 		"Facebook": "https://www.facebook.com/MWAPSG"
 	},
 	"Callout": {
-		"Text": "RSVP today!",
+		"Text": "Registrations Open. RSVP today!",
 		"Link": "http://www.meetup.com/mssgug/events/227791830/",
-		"Type": "info"
+		"Type": "success"
 	},
 	"Organizers": [{
 		"Name": "Faizal Mohamed",
@@ -35,7 +35,7 @@
 			"Email": "altfo@hotmail.com"
 		}
 	}],
-    "Prizes": [
+  "Prizes": [
     {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
       "Link": "#",
