@@ -34,15 +34,5 @@
 		"Social": {
 			"Email": "altfo@hotmail.com"
 		}
-	}],
-	"Sponsors": [{
-		"Name": "Microsoft",
-		"Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/demo/where.png",
-		"Link": "http://www.microsoft.com"
-	}],
-	"Prizes": [{
-		"ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Comingsoon.png",
-		"Link": "#",
-		"Name": "Coming Soon"
 	}]
 }
