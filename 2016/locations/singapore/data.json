@@ -34,5 +34,12 @@
 		"Social": {
 			"Email": "altfo@hotmail.com"
 		}
-	}]
+	}],
+ "Prizes": [
+    {
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
+  ]
 }
