@@ -39,6 +39,125 @@
         "Email": "altfo@hotmail.com"
       }
     }
-    
+  ],
+  "Sponsors": [
+    {
+      "Name": "Microsoft",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/demo/where.png",
+      "Link": "http://www.microsoft.com"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+        {
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": "",
+          }
+        },
+        {
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "10:00 AM - 11:00 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "12:00 PM - 1:00 PM",
+          "Title": "Lunch",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "2:00 PM - 3:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "3:00 PM - 4:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "4:00 PM - 4:30 PM",
+          "Title": "Break",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        },
+        {
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing Ceremony",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": ""
+          }
+        }
+      ]
+    }
+  ],
+  "Prizes":[
+  {
+      "ImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
   ]
 }
