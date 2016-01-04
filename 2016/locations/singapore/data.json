@@ -50,6 +50,10 @@
     {
       "Name": "IT Pro Track",
       "Sessions": [ ]
+    },
+    {
+      "Name": "Data Track",
+      "Sessions": [ ]
     }
   ]
 }
