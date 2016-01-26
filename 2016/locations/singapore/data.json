@@ -1,41 +1,46 @@
 {
-	"Location": {
-		"Name": "Singapore",
-		"Latitude": 1.282387,
-		"Longitude": 103.850243,
-		"Address": "One Marina Boulevard, Singapore"
-	},
-	"Social": {
-		"Meetup": "http://www.meetup.com/mssgug/events/227791830/",
-		"Facebook": "https://www.facebook.com/MWAPSG"
-	},
-	"Callout": {
-		"Text": "Registrations Open. RSVP today!",
-		"Link": "http://www.meetup.com/mssgug/events/227791830/",
-		"Type": "success"
-	},
-	"Organizers": [{
-		"Name": "Faizal Mohamed",
-		"Social": {
-			"Email": "kmdfaizal@yahoo.com"
-		}
-	}, {
-		"Name": "Alvin Lau",
-		"Social": {
-			"Email": "microlau@gmail.com"
-		}
-	}, {
-		"Name": "Punit Ganshani",
-		"Social": {
-			"Email": "punit.ganshani@gmail.com"
-		}
-	}, {
-		"Name": "Senthamil Selvan",
-		"Social": {
-			"Email": "altfo@hotmail.com"
-		}
-	}],
-   "Sponsors": [
+  "Location": {
+    "Name": "Singapore",
+    "Latitude": 1.282387,
+    "Longitude": 103.850243,
+    "Address": "One Marina Boulevard, Singapore"
+  },
+  "Social": {
+    "Meetup": "http://www.meetup.com/mssgug/events/227791830/",
+    "Facebook": "https://www.facebook.com/MWAPSG"
+  },
+  "Callout": {
+    "Text": "Registrations Open. RSVP today!",
+    "Link": "http://www.meetup.com/mssgug/events/227791830/",
+    "Type": "success"
+  },
+  "Organizers": [
+    {
+      "Name": "Faizal Mohamed",
+      "Social": {
+        "Email": "kmdfaizal@yahoo.com"
+      }
+    },
+    {
+      "Name": "Alvin Lau",
+      "Social": {
+        "Email": "microlau@gmail.com"
+      }
+    },
+    {
+      "Name": "Punit Ganshani",
+      "Social": {
+        "Email": "punit.ganshani@gmail.com"
+      }
+    },
+    {
+      "Name": "Senthamil Selvan",
+      "Social": {
+        "Email": "altfo@hotmail.com"
+      }
+    }
+  ],
+  "Sponsors": [
     {
       "Name": "Microsoft",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
@@ -52,15 +57,282 @@
   "Tracks": [
     {
       "Name": "Developer Track",
-      "Sessions": [ ]
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "Keynote",
+          "Speaker": {
+            "Name": "Joey Tan",
+            "Description": "Cloud and Enterprise Business Group Lead"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV1",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "Azure Service Fabric",
+          "Speaker": {
+            "Name": "Saranya Sriram",
+            "Description": "Microsoft"
+          }
+        },
+        {
+          "SessionId": "DEV2",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "Using HSM in Azure Keyvault for ASP.NET Core 1.0 and Entity Framework Core 1.0",
+          "Speaker": {
+            "Name": "Riza Marhaban",
+            "Description": "Microsoft"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV3",
+          "Time": "1:15 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "Punit Ganshani",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "2:15 PM - 2:13 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "Ujjwal Kumar",
+            "Description": "Microsoft"
+          }
+        },
+        {
+          "SessionId": "DEV6",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing & Luck Draw"
+        }
+      ]
     },
     {
       "Name": "IT Pro Track",
-      "Sessions": [ ]
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "Keynote",
+          "Speaker": {
+            "Name": "Joey Tan",
+            "Description": "Cloud and Enterprise Business Group Lead"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO1",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "Operational Guidance for Azure",
+          "Speaker": {
+            "Name": "Anand MS",
+            "Description": "Microsoft"
+          }
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "Azure Automation DSC",
+          "Speaker": {
+            "Name": "Milton Goh",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "1:15 PM - 2:15 PM",
+          "Title": "Building an IaaS in Azure: Tales from the field",
+          "Speaker": {
+            "Name": "Matthew Hitchcock",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "2:15 PM - 2:13 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "Triston",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "ITPRO5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "ITPRO6",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing & Luck Draw"
+        }
+      ]
     },
     {
       "Name": "Data Track",
-      "Sessions": [ ]
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "Keynote",
+          "Speaker": {
+            "Name": "Joey Tan",
+            "Description": "Cloud and Enterprise Business Group Lead"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DATA1",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "TBC",
+          "Speaker": {
+            "Name": "Mohamed Faizal",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "DATA2",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "TBC",
+          "Speaker": {
+            "Name": "Milan Gross",
+            "Description": "SharePoint UG Lead"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DATA3",
+          "Time": "1:15 PM - 2:15 PM",
+          "Title": "Planning & Deploying your SharePoint farm in Microsoft Azure",
+          "Speaker": {
+            "Name": "Thuan Nguyen",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "2:15 PM - 2:13 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DATA4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "PowerApps",
+          "Speaker": {
+            "Name": "Riwut Libinuko",
+            "Description": "Microsoft MVP"
+          }
+        },
+        {
+          "SessionId": "DATA5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "DATA6",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing & Luck Draw"
+        }
+
+      ]
     }
   ]
 }
