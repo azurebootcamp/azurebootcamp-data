@@ -69,7 +69,8 @@
           "Title": "Keynote",
           "Speaker": {
             "Name": "Joey Tan",
-            "Description": "Cloud and Enterprise Business Group Lead"
+            "Description": "Cloud and Enterprise Business Group Lead",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/joeytan.jpg"
           }
         },
         {
@@ -83,7 +84,8 @@
           "Title": "Azure Service Fabric",
           "Speaker": {
             "Name": "Saranya Sriram",
-            "Description": "Microsoft"
+            "Description": "Microsoft",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/saranya.jpg"
           }
         },
         {
@@ -106,7 +108,8 @@
           "Title": "TBD",
           "Speaker": {
             "Name": "Punit Ganshani",
-            "Description": "Microsoft MVP"
+            "Description": "Microsoft MVP",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg"
           }
         },
         {
@@ -120,7 +123,8 @@
           "Title": "TBD",
           "Speaker": {
             "Name": "Senthamil Selvan",
-            "Description": "Microsoft MVP"
+            "Description": "Microsoft MVP",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg"
           }
         },
         {
@@ -161,7 +165,8 @@
           "Title": "Keynote",
           "Speaker": {
             "Name": "Joey Tan",
-            "Description": "Cloud and Enterprise Business Group Lead"
+            "Description": "Cloud and Enterprise Business Group Lead",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/joeytan.jpg"
           }
         },
         {
@@ -198,7 +203,8 @@
           "Title": "Building an IaaS in Azure: Tales from the field",
           "Speaker": {
             "Name": "Matthew Hitchcock",
-            "Description": "Microsoft MVP"
+            "Description": "Microsoft MVP",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/matt.jpg"
           }
         },
         {
@@ -211,8 +217,9 @@
           "Time": "2:30 PM - 3:30 PM",
           "Title": "TBD",
           "Speaker": {
-            "Name": "Triston",
-            "Description": "Microsoft MVP"
+            "Name": "Triston Wan",
+            "Description": "Microsoft MVP",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/triston.jpg"
           }
         },
         {
@@ -254,7 +261,8 @@
           "Title": "Keynote",
           "Speaker": {
             "Name": "Joey Tan",
-            "Description": "Cloud and Enterprise Business Group Lead"
+            "Description": "Cloud and Enterprise Business Group Lead",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/joeytan.jpg"
           }
         },
         {
@@ -268,7 +276,8 @@
           "Title": "TBC",
           "Speaker": {
             "Name": "Mohamed Faizal",
-            "Description": "Microsoft MVP"
+            "Description": "Microsoft MVP",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg"
           }
         },
         {
@@ -277,7 +286,8 @@
           "Title": "TBC",
           "Speaker": {
             "Name": "Milan Gross",
-            "Description": "SharePoint UG Lead"
+            "Description": "SharePoint UG Lead",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/profiles_gross.jpg"
           }
         },
         {
@@ -291,7 +301,8 @@
           "Title": "Planning & Deploying your SharePoint farm in Microsoft Azure",
           "Speaker": {
             "Name": "Thuan Nguyen",
-            "Description": "Microsoft MVP"
+            "Description": "Microsoft MVP",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Thuan-Nguyen.jpg"
           }
         },
         {
@@ -305,7 +316,8 @@
           "Title": "PowerApps",
           "Speaker": {
             "Name": "Riwut Libinuko",
-            "Description": "Microsoft MVP"
+            "Description": "Microsoft MVP",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Riwut-Libinoko.jpg"
           }
         },
         {
