@@ -85,7 +85,10 @@
           "Speaker": {
             "Name": "Saranya Sriram",
             "Description": "Microsoft",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/saranya.jpg"
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/saranya.jpg",
+            "Social": {
+                "Twitter" :"https://twitter.com/sharan779"
+            }
           }
         },
         {
@@ -94,7 +97,11 @@
           "Title": "Using HSM in Azure Keyvault for ASP.NET Core 1.0 and Entity Framework Core 1.0",
           "Speaker": {
             "Name": "Riza Marhaban",
-            "Description": "Microsoft"
+            "Description": "Microsoft",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/joeytan.jpg",
+            "Social": {
+                "Facebook" :"https://www.facebook.com/riza.marhaban"
+            }
           }
         },
         {
@@ -108,8 +115,13 @@
           "Title": "TBD",
           "Speaker": {
             "Name": "Punit Ganshani",
-            "Description": "Microsoft MVP",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg"
+            "Description": "Punit, a Microsoft MVP, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various international forums in Asia, UK, Brazil and US",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+            "Social": {
+                "Twitter": "http://www.twitter.com/ganshani",
+                "Website": "http://www.ganshani.com",
+                "Facebook" :"http://www.facebook.com/1gigtech.dev"
+            }
           }
         },
         {
@@ -124,7 +136,11 @@
           "Speaker": {
             "Name": "Senthamil Selvan",
             "Description": "Microsoft MVP",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg"
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
+            "Social": {
+                "Twitter": "http://www.twitter.com/altfo",
+                "Facebook" :"https://www.facebook.com/altfo"
+            }
           }
         },
         {
@@ -180,7 +196,8 @@
           "Title": "Operational Guidance for Azure",
           "Speaker": {
             "Name": "Anand MS",
-            "Description": "Microsoft"
+            "Description": "Microsoft",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/anandms.jpg"
           }
         },
         {
@@ -189,7 +206,11 @@
           "Title": "Azure Automation DSC",
           "Speaker": {
             "Name": "Milton Goh",
-            "Description": "Microsoft MVP"
+            "Description": "Microsoft MVP",
+            "Social": {
+                "Twitter": "https://twitter.com/miltongoh",
+                "Facebook" :"https://www.facebook.com/miltongoh"
+            }
           }
         },
         {
@@ -204,7 +225,11 @@
           "Speaker": {
             "Name": "Matthew Hitchcock",
             "Description": "Microsoft MVP",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/matt.jpg"
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/matt.jpg",
+            "Social": {
+                "Twitter": "https://twitter.com/hitchysg",
+                "Facebook" :"https://www.facebook.com/hitchysan"
+            }
           }
         },
         {
@@ -277,7 +302,11 @@
           "Speaker": {
             "Name": "Mohamed Faizal",
             "Description": "Microsoft MVP",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg"
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
+            "Social": {
+                "Twitter": "http://www.twitter.com/kmdfaizal",
+                "Facebook" :"https://www.facebook.com/kmdfaizal"
+            }
           }
         },
         {
