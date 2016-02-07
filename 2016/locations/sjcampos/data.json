@@ -58,6 +58,7 @@
       "Name": "Trilha Developer",
       "Sessions": [
         {
+          "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
@@ -77,6 +78,7 @@
       "Name": "Trilha IT Pro",
       "Sessions": [
         {
+          "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
@@ -96,6 +98,7 @@
       "Name": "Trilha Business",
       "Sessions": [
         {
+          "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
@@ -115,6 +118,7 @@
       "Name": "Trilha Express",
       "Sessions": [
         {
+          "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
