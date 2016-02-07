@@ -1,0 +1,132 @@
+{
+  "Location": {
+    "Name": "Sao Jose dos Campos",
+    "Latitude": -23.1991216,
+    "Longitude": -45.9079626,
+    "Address": "Av. Barao do Rio Branco, 882 - Jardim Esplanada, Sao Jose dos Campos - SP, 12242-800"
+  },
+  "Social": {
+    "Facebook": "https://www.facebook.com/GlobalAzureBootcampBR"
+  },
+  "Callout": {
+    "Text": "Call 4 Papers",
+    "Link": "http://bit.ly/C4PGAB16SJC",
+    "Type": "info"
+  },
+  "Organizers": [
+    {
+      "Name": "Thiago Lunardi, MVP",
+      "Social": {
+        "Website": "thiagolunardi.net",
+        "Email": "thiago@thiagolunardi.net"
+      }
+    },
+    {
+      "Name": "Julio Arruda, MTAC",
+      "Social": {
+        "Website": "julioarruda.com.br",
+        "Email": "julio.arruda@outlook.com"
+      }
+    }
+  ],
+  "Sponsors": [
+    {
+      "Name": "Microsoft",
+      "Image": "http://globalazurebootcampsg.azurewebsites.net/assets/img/sponsors/msft.png",
+      "Link": "www.microsoft.com"
+    },
+    {
+      "Name": "Urmet Daruma",
+      "Image": "http://itpower.com.br/PT/Clientes/img/urmet-daruma-logo-primary.jpg",
+      "Link": "www.daruma.com.br"
+    },
+    {
+      "Name": "Pronext",
+      "Image": "https://media.licdn.com/media/p/6/005/0a3/2e1/2c55196.png",
+      "Link": "www.pronext.com.br"
+    }
+  ],
+  "Prizes": [
+    {
+      "ImageUrl": "https://i-1.prod-cdn.webapps.microsoft.com/r/image/view/-/5020854/respXLFixed/5/-/Lumia-435-DSIM-catalogue-orange-png.png",
+      "Link": "https://www.microsoft.com/pt-br/celulares/celular/lumia435-dual-sim/",
+      "Name": "Microsoft Lumia 435"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "Trilha Developer",
+      "Sessions": [
+        {
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Keynote - Abertura",
+          "Speaker": {
+            "Name": "Thiago Lunardi, MVP",
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+            "Description": "Microsoft Azure MVP",
+            "Social": {
+              "Facebook": "www.facebook.com/ThiagoLunardi",
+              "Twitter": "www.twitter.com/ThiagoLunardi13",
+              "Website": "thiagolunardi.net"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Trilha IT Pro",
+      "Sessions": [
+        {
+          "Title": "Keynote - Abertura",
+          "Speaker": {
+            "Name": "Thiago Lunardi, MVP",
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+            "Description": "Microsoft Azure MVP",
+            "Social": {
+              "Facebook": "www.facebook.com/ThiagoLunardi",
+              "Twitter": "www.twitter.com/ThiagoLunardi13",
+              "Website": "thiagolunardi.net"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Trilha Business",
+      "Sessions": [
+        {
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Keynote - Abertura",
+          "Speaker": {
+            "Name": "Thiago Lunardi, MVP",
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+            "Description": "Microsoft Azure MVP",
+            "Social": {
+              "Facebook": "www.facebook.com/ThiagoLunardi",
+              "Twitter": "www.twitter.com/ThiagoLunardi13",
+              "Website": "thiagolunardi.net"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Trilha Express",
+      "Sessions": [
+        {
+          "Title": "Keynote - Abertura",
+          "Speaker": {
+            "Name": "Thiago Lunardi, MVP",
+            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
+            "Description": "Microsoft Azure MVP",
+            "Social": {
+              "Facebook": "www.facebook.com/ThiagoLunardi",
+              "Twitter": "www.twitter.com/ThiagoLunardi13",
+              "Website": "thiagolunardi.net"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
