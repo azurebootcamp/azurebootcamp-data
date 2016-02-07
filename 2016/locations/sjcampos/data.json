@@ -58,6 +58,11 @@
       "Name": "Trilha Developer",
       "Sessions": [
         {
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
+        {
           "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
           "Title": "Keynote - Abertura",
@@ -77,6 +82,11 @@
     {
       "Name": "Trilha IT Pro",
       "Sessions": [
+        {
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
         {
           "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
@@ -98,6 +108,11 @@
       "Name": "Trilha Business",
       "Sessions": [
         {
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
+        {
           "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
           "Title": "Keynote - Abertura",
@@ -117,6 +132,11 @@
     {
       "Name": "Trilha Express",
       "Sessions": [
+        {
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
         {
           "SessionId": "Common1",
           "Time": "8:00 AM - 8:45 AM",
