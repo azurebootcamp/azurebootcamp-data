@@ -65,9 +65,9 @@
             "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
             "Description": "Microsoft Azure MVP",
             "Social": {
-              "Facebook": "www.facebook.com/ThiagoLunardi",
-              "Twitter": "www.twitter.com/ThiagoLunardi13",
-              "Website": "thiagolunardi.net"
+              "Facebook": "http://www.facebook.com/ThiagoLunardi",
+              "Twitter": "http://www.twitter.com/ThiagoLunardi13",
+              "Website": "http://thiagolunardi.net"
             }
           }
         }
