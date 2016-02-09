@@ -13,6 +13,10 @@
     "Link": "http://bit.ly/C4PGAB16SJC",
     "Type": "info"
   },
+    "Registration": {
+    "Status": "Close",
+    "Link": "https://www.sympla.com.br/global-azure-bootcampo-2016-sao-jose-dos-campos__49892"
+  },
   "Organizers": [
     {
       "Name": "Thiago Lunardi, MVP",
@@ -44,6 +48,11 @@
       "Name": "Pronext",
       "Image": "https://media.licdn.com/media/p/6/005/0a3/2e1/2c55196.png",
       "Link": "www.pronext.com.br"
+    },
+    {
+      "Name": "TreinaWeb",
+      "Image": "https://yt3.ggpht.com/-tm5k8U3Gfsw/AAAAAAAAAAI/AAAAAAAAAAA/hlyBgIb0wig/s900-c-k-no/photo.jpg",
+      "Link": "https://www.treinaweb.com.br"
     }
   ],
   "Prizes": [
@@ -58,16 +67,22 @@
       "Name": "Trilha Developer",
       "Sessions": [
         {
-          "Time": "8:00 AM - 8:45 AM",
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:20 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
-            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
-            "Description": "Microsoft Azure MVP",
+            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAWpAAAAJGQ5YmY1OGQ5LTk1ZDAtNDE4ZS04ZGM3LWQ4YWI1NDlhMmVkOA.jpg",
+            "Description": "Atua profissionalmente desde 1999 com desenvolvimento de software com ênfase em web. Começou a estudar e implementação soluções em nuvem com Microsoft Azure em 2012, hoje é arquiteto líder de sistemas na Its4Company. Convidado a fazer parte do programa Microsoft MTAC em 2013, e premiado como Microsoft MVP na competência Azure em 2014, após realizar várias contribuições técnicas entre artigos, palestras e eventos organizados para comunidade Microsoft. E também treinamentos publicado na MVA - Microsoft Virtual Academy.",
             "Social": {
-              "Facebook": "www.facebook.com/ThiagoLunardi",
-              "Twitter": "www.twitter.com/ThiagoLunardi13",
-              "Website": "thiagolunardi.net"
+              "Facebook": "http://www.facebook.com/ThiagoLunardi",
+              "Twitter": "http://www.twitter.com/ThiagoLunardi13",
+              "Website": "http://thiagolunardi.net"
             }
           }
         }
@@ -77,6 +92,13 @@
       "Name": "Trilha IT Pro",
       "Sessions": [
         {
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:20 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
@@ -95,7 +117,13 @@
       "Name": "Trilha Business",
       "Sessions": [
         {
-          "Time": "8:00 AM - 8:45 AM",
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:20 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",
@@ -114,6 +142,13 @@
       "Name": "Trilha Express",
       "Sessions": [
         {
+          "SessionId": "Registration",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Checkin - Welcome coffe"
+        },
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:20 AM",
           "Title": "Keynote - Abertura",
           "Speaker": {
             "Name": "Thiago Lunardi, MVP",

@@ -7,6 +7,12 @@
         "Show": true
     },
     { 
+        "Name":"Sao Jose dos Campos",
+        "Folder":"SJCampos",
+        "WebsiteUrl":"http://gabsjcampos.azurewebsites.net", 
+        "Show": true
+    },
+    { 
         "Name":"Demo Site",
         "Folder":"Demo",
         "WebsiteUrl":"http://demo-azurebootcamp.azurewebsites.net",
