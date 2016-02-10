@@ -45,6 +45,16 @@
       "Name": "Microsoft",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
       "Link": "http://www.microsoft.com"
+    },
+    {
+      "Name": "Aspose",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-aspose.png",
+      "Link": "http://www.aspose.com/"
+    },
+    {
+      "Name": "RedGate",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-redgate.png",
+      "Link": "http://rd.gt/1x5Mx7O"
     }
   ],
   "Prizes": [
@@ -84,7 +94,7 @@
           "Title": "Azure Service Fabric",
           "Speaker": {
             "Name": "Saranya Sriram",
-            "Description": "Microsoft",
+            "Description": "Saranya is Azure Partner Technical Lead at Microsoft Asia",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/saranya.jpg",
             "Social": {
                 "Twitter" :"https://twitter.com/sharan779"
@@ -97,10 +107,10 @@
           "Title": "Using HSM in Azure Keyvault for ASP.NET Core 1.0 and Entity Framework Core 1.0",
           "Speaker": {
             "Name": "Riza Marhaban",
-            "Description": "Microsoft",
+            "Description": "Riza is a long time developers and he is managing communities such as the .NET Developers Community and Azure Community in Singapore. He is also a speaker and trainer. His motto is \"I'm just a simple developer\".",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/riza.jpg",
             "Social": {
-                "Facebook" :"https://www.facebook.com/riza.marhaban"
+              "Facebook": "https://www.facebook.com/riza.marhaban"
             }
           }
         },
@@ -112,10 +122,10 @@
         {
           "SessionId": "DEV3",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "TBD",
+          "Title": "Internet Of Things - Wiring the data on Azure",
           "Speaker": {
             "Name": "Punit Ganshani",
-            "Description": "Punit, a Microsoft MVP, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various international forums in Asia, UK, Brazil and US",
+            "Description": "Punit, a Microsoft MVP, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a Book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various International forums in Asia, UK, Brazil and US",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
             "Social": {
                 "Twitter": "http://www.twitter.com/ganshani",
@@ -135,11 +145,11 @@
           "Title": "TBD",
           "Speaker": {
             "Name": "Senthamil Selvan",
-            "Description": "Microsoft MVP",
+            "Description": "Senthamil Selvan is a Windows Development MVP. He has over 13+ years of experience in IT industry. He has experience in pre-sales, design, development and deployment of SharePoint and Office 365 Applications. He is passionate on Windows Phone and Windows tablet app design and development. He is managing his own Windows Phone UG in Singapore. He had developed several Apps for windows phone and tablet.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
             "Social": {
-                "Twitter": "http://www.twitter.com/altfo",
-                "Facebook" :"https://www.facebook.com/altfo"
+              "Twitter": "http://www.twitter.com/altfo",
+              "Facebook": "https://www.facebook.com/altfo"
             }
           }
         },
@@ -155,9 +165,11 @@
         {
           "SessionId": "DEV6",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "TBD",
+          "Title": "DevOps Delimma - Steps to make it work!",
           "Speaker": {
-            "Name": "TBC"
+            "Name": "Sandeep Joshi",
+            "Description": "An accomplished technology leader with a successful track record for building high growth engineering organizations and tranforming traditional organization teams to be agile. He builds usable software products and known for his delivery exellence in technology circles. He is a MVP for Visual Studio Application Lifecycle and loves to talk about architecture, cloud, devops and developer productivity.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sandeepjoshi.jpg"
           }
         },
         {
@@ -196,7 +208,7 @@
           "Title": "Operational Guidance for Azure",
           "Speaker": {
             "Name": "Anand MS",
-            "Description": "Microsoft",
+            "Description": "As a Cloud Solution Architect with Microsoft, Anand's current role involves enabling partners & customers to envision, design and deploy the right Microsoft Azure solutions to meet their exact needs. Apart from Microsoft Azure, his areas of expertise include Directory Services, Virtualization, Private and Hybrid clouds. With a wide range of technological experience over 18 years in the industry, he been assisting partners & customers in rapidly finding solutions to their technology challenges.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/anandms.jpg"
           }
         },
@@ -224,11 +236,11 @@
           "Title": "Building an IaaS in Azure: Tales from the field",
           "Speaker": {
             "Name": "Matthew Hitchcock",
-            "Description": "Microsoft MVP",
+            "Description": "Matthew, a Microsoft MVP, has deep experience of Identity & Directory Services including Hybrid Identity for Cloud. He now specializes in Microsoft Azure and currently works at Microsoft Services, helping customers to automate their operations, start dealing with Infrastructure-as-Code and to adopt Cloud solutions.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/matt.jpg",
             "Social": {
-                "Twitter": "https://twitter.com/hitchysg",
-                "Facebook" :"https://www.facebook.com/hitchysan"
+              "Twitter": "https://twitter.com/hitchysg",
+              "Facebook": "https://www.facebook.com/hitchysan"
             }
           }
         },
@@ -312,10 +324,10 @@
         {
           "SessionId": "DATA2",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "TBC",
+          "Title": "Virtualizing SharePoint 2016 in Azure",
           "Speaker": {
             "Name": "Milan Gross",
-            "Description": "SharePoint UG Lead",
+            "Description": "Milan Gross is the head of the Asia Pacific arm of Synergy and a consultant and trainer with over 15 years experience as an architect and developer of Microsoft technologies. Milan has been working with SharePoint technologies since their inception in 2001 and has developed solutions for customers worldwide using SharePoint as the application platform of choice. <br>Milan is a frequent invited speaker at Tech Ed conferences throughout the Asia and Pacific region.  <br>He has contributed to two books on SharePoint 2007 from Microsoft Press: The SharePoint 2007 Administrator's Companion and The SharePoint 2007 Pocket Consultant. <br> Milan co-authored, with Randy Williams, the SharePoint 2010 Administration Instant Reference. <br>Milan also co-authored the book Microsoft SharePoint 2013, Administration Inside Out. <br>In addition to consulting, Milan is also a professional trainer delivering the Synergy technical SharePoint courses around the world. Helping others understand the technology is something he admits to being passionate about. <br> Milan is dedicated to building long-term customer relationships by leading a diverse team of highly-skilled professionals. As an experienced project manager, he works with his staff to keep all focused on constantly exceeding customer expectations. <br> Milan is based in Singapore where he assists in supporting the Singapore SharePoint User Group",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/profiles_gross.jpg"
           }
         },
@@ -330,7 +342,7 @@
           "Title": "Planning & Deploying your SharePoint farm in Microsoft Azure",
           "Speaker": {
             "Name": "Thuan Nguyen",
-            "Description": "Microsoft MVP",
+            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many “crazy” ideas that can arouse the community and market.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Thuan-Nguyen.jpg"
           }
         },
