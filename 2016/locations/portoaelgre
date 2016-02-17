@@ -1,0 +1,172 @@
+{
+  "Location": {
+    "Name": "Porto Alegre",
+    "Latitude": -30.0606116,
+    "Longitude": -51.1743877,
+    "Address": "PUCRS - Prédio 32 - Av. Ipiranga, 6681 - Partenon, Porto Alegre - RS, 90619-900"
+  },
+  "Callout": {
+    "Text": "Inscrições Abertas",
+    "Link": "http://globalazurepoa.eventday.com/",
+    "Type": "success"
+  },
+  "Organizers": [
+    {
+      "Name": "Lucas Chies, MSP",
+      "Social": {
+        "Website": "lucaschies.azurewebsites.net",
+        "Email": "lucas.chies@studentpartner.com"
+      }
+    },
+  ],
+  "Sponsors": [
+    {
+      "Name": "Microsoft",
+      "Image": "http://globalazurebootcampsg.azurewebsites.net/assets/img/sponsors/msft.png",
+      "Link": "www.microsoft.com"
+    },
+    {
+      "Name": "NGXit",
+      "Image": "http://www.seprorgs.org.br/upload/site_associese/116_g.jpg",
+      "Link": "http://ngxit.com.br/"
+    },
+  ],
+  "Prizes": [
+    {
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "",
+      "Name": "Em Breve"
+    }
+  ],
+  "Tracks": [
+      {
+        "Name": "Track",
+        "Sessions": [
+          {
+            "SessionId": "Common1",
+            "Time": "8:30 AM - 8:45 AM",
+            "Title": "Registration"
+          },
+          {
+            "SessionId": "Common2",
+            "Time": "8:45 AM - 09:00 AM",
+            "Title": "Keynote",
+            "Speaker": {
+              "Name": "Lucas Chies - MSP",
+              "Description": "Profissional com larga experiência na área de Infraestrutura e Custormer First. Passando por empresas como HP, Souza Cruz e Dell. Em 2014 foi selecionado para fazer parte do Microsoft Student Partner (MSP), esta focado na área de virtualização e nuvem desde 2012 e desde então vem participando de projetos de migração para nuvem com o Azure. Também atua como blogueiro e palestrante em eventos de TI.",
+              "ImageUrl": "http://lucaschies.azurewebsites.net/wp-content/uploads/2015/11/14b9842-150x150.jpg",
+              "Social": {
+                "Facebook": "https://www.facebook.com/Lucas-Chies-624443254328233/?ref=hl",
+                "Twitter": "http://www.twitter.com/lchies",
+                "Website": "http://lucaschies.azurewebsites.net"
+              }
+            },
+            {
+              "SessionId": "DEV1",
+              "Time": "09:05 AM - 09:50 AM",
+              "Title": "Em Breve",
+              "Speaker": {
+                "Name": "",
+                "Description": "",
+                "ImageUrl": "",
+                "Social": {
+                  "Twitter": ""
+                },
+                {
+                  "SessionId": "Common3",
+                  "Time": "09:50 AM - 10:05 AM",
+                  "Title": "Break"
+                },
+                {
+                  "SessionId": "DEV1",
+                  "Time": "10:10 AM - 11:00 AM",
+                  "Title": "Em Breve",
+                  "Speaker": {
+                    "Name": "",
+                    "Description": "",
+                    "ImageUrl": "",
+                    "Social": {
+                      "Twitter": ""
+                    }
+                  }
+                },
+                {
+                  "SessionId": "DEV2",
+                  "Time": "11:05 AM - 11:45 PM",
+                  "Title": "Em Breve",
+                  "Speaker": {
+                    "Name": "",
+                    "Description": "",
+                    "ImageUrl": "",
+                    "Social": {
+                      "Facebook": ""
+                    }
+                  }
+                },
+                {
+                  "SessionId": "Common4",
+                  "Time": "11:50 PM - 12:55 PM",
+                  "Title": "Lunch"
+                },
+                {
+                  "SessionId": "DEV3",
+                  "Time": "1:00 PM - 1:50 PM",
+                  "Title": "Em Breve",
+                  "Speaker": {
+                    "Name": "",
+                    "Description": "",
+                    "ImageUrl": "",
+                    "Social": {
+                      "Twitter": "",
+                      "Website": "",
+                      "Facebook": ""
+                    }
+                  }
+                },
+                {
+                  "SessionId": "Common5",
+                  "Time": "1:55 PM - 2:10 PM",
+                  "Title": "Break"
+                },
+                {
+                  "SessionId": "DEV4",
+                  "Time": "2:15 PM - 3:05 PM",
+                  "Title": "Em Breve",
+                  "Speaker": {
+                    "Name": "",
+                    "Description": "",
+                    "ImageUrl": "",
+                    "Social": {
+                      "Twitter": "",
+                      "Facebook": ""
+                    }
+                  }
+                },
+                {
+                  "SessionId": "DEV5",
+                  "Time": "3:10 PM - 4:00 PM",
+                  "Title": "Em Breve",
+                  "Speaker": {
+                    "Name": "",
+                    "Description": ""
+                  }
+                },
+                {
+                  "SessionId": "DEV6",
+                  "Time": "4:05 PM - 4:55 PM",
+                  "Title": "Em Breve",
+                  "Speaker": {
+                    "Name": "",
+                    "Description": "",
+                    "ImageUrl": ""
+                  }
+                },
+                {
+                  "SessionId": "Common6",
+                  "Time": "5:00 PM - 5:15 PM",
+                  "Title": "Encerramento"
+                }
+                ]
+              }
+              ]
+            }
