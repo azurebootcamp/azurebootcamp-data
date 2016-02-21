@@ -13,16 +13,6 @@
     "Link": "http://www.instant.ly/s/HmeK9",
     "Type": "success"
   },
-  "Callout": {
-    "Text": "Call for content",
-    "Link": "http://www.instant.ly/s/nHHiw",
-    "Type": "info"
-  },
-  "Callout": {
-    "Text": "Tickets",
-    "Link": "http://melgab2016.eventbrite.com.au/",
-    "Type": "warning"
-  },
   "Organizers": [
     {
       "Name": "Daniel Mar",
