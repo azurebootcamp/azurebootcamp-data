@@ -13,6 +13,12 @@
         "Show": true
     },
     { 
+        "Name":"Melbourne",
+        "Folder":"Melbourne",
+        "WebsiteUrl":"http://melgab.azurewebsites.net", 
+        "Show": true
+    },
+    { 
         "Name":"Demo Site",
         "Folder":"Demo",
         "WebsiteUrl":"http://demo-azurebootcamp.azurewebsites.net",
