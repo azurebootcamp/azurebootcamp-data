@@ -1,98 +1,162 @@
 ﻿{
   "Location": {
     "Name": "Melbourne",
-    "Latitude": 1.282387,
-    "Longitude": 103.850243,
+    "Latitude": -37.817588,
+    "Longitude": 144.960273,
     "Address": "Melbourne"
   },
   "Social": {
-    "Meetup": "http://www.meetup.com/mssgug/",
-    "Facebook": "https://www.facebook.com/MWAPSG"
+    "Meetup": "http://www.meetup.com/MelbourneAzure/"
   },
   "Callout": {
-    "Text": "Call for speakers",
-    "Link": "https://www.facebook.com/MWAPSG",
+    "Text": "Register interest",
+    "Link": "http://www.instant.ly/s/HmeK9",
+    "Type": "success"
+  },
+  "Callout": {
+    "Text": "Call for content",
+    "Link": "http://www.instant.ly/s/nHHiw",
     "Type": "info"
+  },
+  "Callout": {
+    "Text": "Tickets",
+    "Link": "http://melgab2016.eventbrite.com.au/",
+    "Type": "warning"
   },
   "Organizers": [
     {
-      "Name": "Contact1",
+      "Name": "Daniel Mar",
       "Social": {
-        "Website": "http://www.zsquad.in",
-        "Email": "something@somewhere.com"
+        "Email": "daniel.mar@infrontconsulting.com"
       }
     },
     {
-      "Name": "Contact2",
+      "Name": "Mahesh Krishnan",
       "Social": {
-        "Website": "http://www.ganshani.com",
-        "Email": "something@somewhere.com"
+        "Email": "mail@mahe.sh"
       }
     }
   ],
   "Sponsors": [
     {
       "Name": "Microsoft",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/demo/where.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/msft.png",
       "Link": "http://www.microsoft.com"
     },
     {
-      "Name": "Microsoft",
-      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
-      "Link": "http://www.microsoft.com"
+      "Name": "Readify",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/readify.jpg",
+      "Link": "http://readify.net/"
     },
     {
-      "Name": "Microsoft",
-      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
-      "Link": "http://www.microsoft.com"
+      "Name": "Kloud",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/kloud.jpg",
+      "Link": "http://www.kloud.com.au/"
+    }
+    {
+      "Name": "Infront Consulting",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/infront.jpg",
+      "Link": "http://www.infrontconsulting.com/"
     }
   ],
   "Prizes": [
     {
-      "ImageUrl": "http://www.gadgetreview.com/wp-content/uploads/2012/09/Soundstick-Wireless.jpeg",
-      "Link": "http://sg.harmankardon.com/harman-kardon-product-detail_sg/soundsticks-wireless.html",
-      "Name": "SoundSticks Wireless"
-    },
-    {
-      "ImageUrl": "https://dbvc4uanumi2d.cloudfront.net/cdn/4.5.22/wp-content/themes/oculus/img/order/dk2-product.jpg",
-      "Link": "https://www1.oculus.com/order/dk1",
-      "Name": "Oculus Rift"
-    },
-    {
-      "ImageUrl": "https://dbvc4uanumi2d.cloudfront.net/cdn/4.5.22/wp-content/themes/oculus/img/order/dk2-product.jpg",
-      "Link": "https://www1.oculus.com/order/dk1",
-      "Name": "Oculus Rift"
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "#",
+      "Name": "Coming Soon"
     }
   ],
-  "Tracks": [
+ "Tracks": [
     {
       "Name": "Developer Track",
       "Sessions": [
+{
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Registration"
+        },
         {
-          "Time": "8:00 AM - 8:45 AM",
-          "Title": "Some New Session",
+          "SessionId": "DEV1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "Dilbert",
-            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
-            "Description": "I know this author",
-            "Social": {
-              "Twitter": "www.twitter.com/Dilbert",
-              "Website": "www.Dilbert.com"
-            }
+            "Name": "TBC",
+            "Description": "TBC",
           }
         },
         {
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "Another Session",
+          "SessionId": "DEV2",
+          "Time": "9:45 AM - 10:30 AM",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "Mickey",
-            "ImageUrl": "",
-            "Description": "I know this author",
-            "Social": {
-              "Twitter": "www.twitter.com/Mickey",
-              "Website": "www.Mickey.com"
-            }
+            "Name": "TBC",
+            "Description": "TBC",
           }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "10:30 AM - 11:00 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "11:45 AM - 12:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "12:30 PM - 1:30 PM",
+          "Title": "Lunch Break"
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "1:30 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "DEV6",
+          "Time": "2:15 PM - 3:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Afternoon Tea Break"
+        },
+        {
+          "SessionId": "DEV7",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "4:15 PM - 5:00 PM",
+          "Title": "Closing"
         }
       ]
     },
@@ -100,30 +164,92 @@
       "Name": "IT Pro Track",
       "Sessions": [
         {
-          "Time": "8:00 AM - 8:45 AM",
-          "Title": "Some New Session",
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "ITPRO1",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "Dilbert",
-            "ImageUrl": "https://www.marketingtechblog.com/wp-content/uploads/2011/06/dilbert.gif",
-            "Description": "I know this author",
-            "Social": {
-              "Twitter": "www.twitter.com/dilbert",
-              "Website": "www.dilbert.com"
-            }
+            "Name": "TBC",
+            "Description": "TBC",
           }
         },
         {
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "Another Session",
+          "SessionId": "ITPRO2",
+          "Time": "9:45 AM - 10:30 AM",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "Don",
-            "ImageUrl": "",
-            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum id nibh ut eleifend. Quisque id nisl neque. Nullam porta iaculis urna et laoreet. Maecenas imperdiet porta eros, a tempor lacus imperdiet vel. Vestibulum orci orci, semper eget venenatis eu, bibendum mollis justo. Donec elementum justo a venenatis placerat. Aenean pellentesque sem et diam auctor dictum. <br />Aenean ultrices viverra sollicitudin. Quisque quis ornare nisi. Praesent vestibulum augue a lorem placerat vulputate. Ut feugiat dignissim leo vel euismod. Nam et dolor mattis lorem facilisis vehicula. Maecenas lorem eros, egestas blandit vulputate sit amet, cursus a tortor. Vestibulum elementum, metus ut dictum placerat, nibh risus venenatis ex, ut viverra lacus nisl sed arcu. Fusce euismod magna non porta ornare. Nullam bibendum fermentum erat eu sollicitudin. Pellentesque egestas tortor lectus, a efficitur magna blandit vitae. <br />Quisque venenatis nisl enim, a laoreet mi porttitor et. Fusce pretium eleifend scelerisque. Donec sodales sapien mauris, vel commodo nunc posuere id. Donec pulvinar nunc quis sollicitudin posuere. Aliquam ut cursus tortor, in hendrerit velit. In porta facilisis neque, quis efficitur tortor malesuada id. Nulla et nunc ac risus laoreet interdum quis et velit. Donec sodales enim et lectus interdum, et tristique nulla placerat. Pellentesque aliquam fermentum nibh.",
-            "Social": {
-              "Twitter": "www.twitter.com/don",
-              "Website": "www.don.com"
-            }
+            "Name": "TBC",
+            "Description": "TBC",
           }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "10:30 AM - 11:00 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "11:00 AM - 11:45 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "ITPRO4",
+          "Time": "11:45 AM - 12:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "12:30 PM - 1:30 PM",
+          "Title": "Lunch Break"
+        },
+        {
+          "SessionId": "ITPRO5",
+          "Time": "1:30 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+          }
+        },
+        {
+          "SessionId": "ITPRO6",
+          "Time": "2:15 PM - 3:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "3:00 PM - 3:30 PM",
+          "Title": "Afternoon Tea Break"
+        },
+        {
+          "SessionId": "ITPRO7",
+          "Time": "3:30 PM - 4:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "4:15 PM - 5:00 PM",
+          "Title": "Closing"
         }
       ]
     }
