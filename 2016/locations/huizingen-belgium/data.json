@@ -1,0 +1,57 @@
+﻿{
+  "Location": {
+    "Name": "GAB Huizingen",
+    "Latitude": 50.7525945,
+    "Longitude": 4.2625683,
+    "Address": "A. Vaucampslaan 42, 1654 Huizingen, Belgium"
+  },
+  "Social": {
+    "Twitter": "@RealDolmen"
+  },
+  "Callout": {
+    "Text": "Call for Speakers",
+    "Link": "https://t.co/sXkFkmVTHD",
+    "Type": "info"
+  },
+  "Organizers": [
+    {
+      "Name": "Maarten Balliauw",
+      "Social": {
+        "Website": "http://blog.maartenballiauw.be/",
+        "Email": "maarten@balliauw.be",
+        "Twitter": "@maartenballiauw"
+      }
+    },
+    {
+      "Name": "Wesley Cabus",
+      "Social": {
+        "Website": "https://wesleycabus.be",
+        "Email": "wesley.cabus@realdolmen.com",
+        "Twitter": "@wesleycabus"
+      }
+    },
+    {
+      "Name": "Glenn Colpaert",
+      "Social": {
+        "Email": "glenn.colpaert@codit.eu",
+        "Twitter": "@glenncolpaert"
+      }
+    },
+    {
+      "Name": "Tom Kerkhove",
+      "Social": {
+        "Website": "http://tomkerkhove.ghost.io/",
+        "Email": "kerkhove.tom@gmail.com",
+        "Twitter": "@tomkerkhove"
+      }
+    },
+    {
+      "Name": "Kris van der Mast",
+      "Social": {
+        "Website": "http://blog.krisvandermast.com/",
+        "Email": "kris.vandermast@gmail.com",
+        "Twitter": "@KvdM"
+      }
+    }
+  ]
+}
