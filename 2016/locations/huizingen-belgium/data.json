@@ -6,12 +6,12 @@
     "Address": "A. Vaucampslaan 42, 1654 Huizingen, Belgium"
   },
   "Social": {
-    "Twitter": "@RealDolmen"
+    "Twitter": "https://twitter.com/AZUGbe"
   },
   "Callout": {
-    "Text": "Call for Speakers",
-    "Link": "https://t.co/sXkFkmVTHD",
-    "Type": "info"
+    "Text": "Register Now!",
+    "Link": "https://www.eventbrite.com/e/2016-04-16-global-azure-bootcamp-huizingen-tickets-21449025613",
+    "Type": "success"
   },
   "Organizers": [
     {
@@ -19,7 +19,7 @@
       "Social": {
         "Website": "http://blog.maartenballiauw.be/",
         "Email": "maarten@balliauw.be",
-        "Twitter": "@maartenballiauw"
+        "Twitter": "https://twitter.com/maartenballiauw"
       }
     },
     {
@@ -27,14 +27,14 @@
       "Social": {
         "Website": "https://wesleycabus.be",
         "Email": "wesley.cabus@realdolmen.com",
-        "Twitter": "@wesleycabus"
+        "Twitter": "https://twitter.com/wesleycabus"
       }
     },
     {
       "Name": "Glenn Colpaert",
       "Social": {
         "Email": "glenn.colpaert@codit.eu",
-        "Twitter": "@glenncolpaert"
+        "Twitter": "https://twitter.com/glenncolpaert"
       }
     },
     {
@@ -42,7 +42,7 @@
       "Social": {
         "Website": "http://tomkerkhove.ghost.io/",
         "Email": "kerkhove.tom@gmail.com",
-        "Twitter": "@tomkerkhove"
+        "Twitter": "https://twitter.com/tomkerkhove"
       }
     },
     {
@@ -50,7 +50,7 @@
       "Social": {
         "Website": "http://blog.krisvandermast.com/",
         "Email": "kris.vandermast@gmail.com",
-        "Twitter": "@KvdM"
+        "Twitter": "https://twitter.com/KvdM"
       }
     }
   ]
