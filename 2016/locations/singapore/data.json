@@ -252,10 +252,10 @@
         {
           "SessionId": "ITPRO4",
           "Time": "2:30 PM - 3:30 PM",
-          "Title": "TBD",
+          "Title": "Tips & Trick of PowerShell for Azure",
           "Speaker": {
             "Name": "Triston Wan",
-            "Description": "Microsoft MVP",
+            "Description": "Triston Wan is Skype for Business MVP. He has over 10 years of experience in IT industry. He has experience in deployment, project management, pre-sales and consulting practice. He is passionate about technology and he is an active contributor/speaker in local technology communities.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/triston.jpg"
           }
         },
@@ -342,7 +342,7 @@
           "Title": "Planning & Deploying your SharePoint farm in Microsoft Azure",
           "Speaker": {
             "Name": "Thuan Nguyen",
-            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many “crazy” ideas that can arouse the community and market.",
+            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many Â“crazyÂ” ideas that can arouse the community and market.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Thuan-Nguyen.jpg"
           }
         },
