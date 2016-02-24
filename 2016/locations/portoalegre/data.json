@@ -60,7 +60,8 @@
                 "Twitter": "http://www.twitter.com/lchies",
                 "Website": "http://lucaschies.azurewebsites.net"
               }
-            },
+            }
+          },
             {
               "SessionId": "DEV1",
               "Time": "09:05 AM - 09:50 AM",
