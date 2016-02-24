@@ -55,13 +55,33 @@
       "Name": "RedGate",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-redgate.png",
       "Link": "http://rd.gt/1x5Mx7O"
+    },
+    {
+      "Name": "Parallels",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-parallels.png",
+      "Link": "http://www.parallels.com/products/desktop/"
     }
   ],
   "Prizes": [
+     {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-parallels.png",
+      "Link": "http://www.parallels.com/products/desktop/",
+      "Name": "Parallels Desktop for Mac"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-aspose-total.png",
+      "Link": "http://www.aspose.com/total-component-suite.aspx",
+      "Name": "Aspose.Total Product Family"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-SQL Source Control.png",
+      "Link": "http://www.red-gate.com/products/sql-development/sql-source-control/",
+      "Name": "Redgate SQL Source Control"
+    },
     {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
       "Link": "#",
-      "Name": "Coming Soon"
+      "Name": "More, Coming Soon"
     }
   ],
   "Tracks": [
@@ -342,7 +362,7 @@
           "Title": "Planning & Deploying your SharePoint farm in Microsoft Azure",
           "Speaker": {
             "Name": "Thuan Nguyen",
-            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many crazy ideas that can arouse the community and market.",
+            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many �crazy� ideas that can arouse the community and market.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Thuan-Nguyen.jpg"
           }
         },
