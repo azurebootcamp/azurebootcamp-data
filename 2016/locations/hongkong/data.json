@@ -32,19 +32,19 @@
   ],
   "Prizes": [
     {
-      "ImageUrl": "TBC",
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
       "Link": "TBC",
-      "Name": "Microsoft gift"
+      "Name": "C&R Souvenir"
     },
     {
-      "ImageUrl": "TBC",
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "TBC",
+      "Name": "Microsoft Souvenir"
+    },
+    {
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
       "Link": "TBC",
       "Name": "Certificate"
-    },
-    {
-      "ImageUrl": "TBC",
-      "Link": "TBC",
-      "Name": "C&R Gift"
     }
   ],
   "Tracks": [
