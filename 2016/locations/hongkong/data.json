@@ -49,7 +49,6 @@
   ],
   "Tracks": [
     {
-      "Name": "Developer Track",
       "Sessions": [
         {
           "Time": "13:00 - 13:15",
@@ -85,7 +84,7 @@
             "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/william.jpg",
             "Description": "Solution Architect, C&R Holdings Limited",
             "Social": {
-              "GitHub": "TBC",
+              "GitHub": "https://github.com/compulim",
               "Website": "http://www.candrholding.com"
             }
           }
@@ -98,7 +97,7 @@
             "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/raymond.jpg",
             "Description": "Managing Director, C&R Holdings Limited",
             "Social": {
-              "GitHub": "TBC",
+              "GitHub": "https://github.com/raymondkpwong",
               "Website": "http://www.candrholding.com"
             }
           }
