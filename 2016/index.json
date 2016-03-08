@@ -25,6 +25,11 @@
         "Show": true
     },
     { 
+        "Name":"Mexico",
+        "WebsiteUrl":"http://bootcamp.azurewebsites.net/", 
+        "Show": true
+    },
+    { 
         "Name":"Demo Site",
         "Folder":"Demo",
         "WebsiteUrl":"http://demo-azurebootcamp.azurewebsites.net",
