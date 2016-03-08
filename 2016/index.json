@@ -19,6 +19,12 @@
         "Show": true
     },
     { 
+        "Name":"Hong Kong",
+        "Folder":"Hong Kong",
+        "WebsiteUrl":"http://gwabhongkong.azurewebsites.net/", 
+        "Show": true
+    },
+    { 
         "Name":"Demo Site",
         "Folder":"Demo",
         "WebsiteUrl":"http://demo-azurebootcamp.azurewebsites.net",
