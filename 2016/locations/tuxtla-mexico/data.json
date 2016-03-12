@@ -1,0 +1,293 @@
+{
+  "Location": {
+    "Name": "Global Azure Bootcamp Tuxtla",
+    "Latitude": 16.761329,
+    "Longitude": -93.151583,
+    "Address": "Boulevard Belisario Domínguez, Kilómetro 1081, Sin Número"
+  },
+  "Social": {
+    "Meetup": "https://www.eventbrite.com/e/entradas-global-azure-bootcamp-chiapas-22292132368",
+    "Facebook": "https://www.facebook.com/chiapas.devs"
+  },
+  "Callout": {
+    "Text": "¡Dá una charla en el evento!",
+    "Link": "https://www.facebook.com/hprez21",
+    "Type": "info"
+  },
+  "Organizers": [
+    {
+      "Name": "Héctor Uriel Pérez Rojas",
+      "Social": {
+        "Website": "http://hectorperez.wordpress.com",
+        "Email": "hprez21@hotmail.com"
+      }
+    },
+    {
+      "Name": "Alejandro Trujillo Santos",
+      "Social": {
+        "Website": "www.unach.mx",
+        "Email": "ltsantos@unach.mx"
+      }
+    }
+  ],
+  "Sponsors": [    
+    {
+      "Name": "Microsoft",
+      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
+      "Link": "http://www.microsoft.com"
+    }
+  ],
+  "Prizes": [
+    {
+      "ImageUrl": "http://www.gadgetreview.com/wp-content/uploads/2012/09/Soundstick-Wireless.jpeg",
+      "Link": "http://sg.harmankardon.com/harman-kardon-product-detail_sg/soundsticks-wireless.html",
+      "Name": "SoundSticks Wireless"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "Developer Track",
+      "Sessions": [
+        {
+          "Time": "8:00 AM - 9:00 AM",
+          "Title": "Registro",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "Registro de Asistentes",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "9:00 AM - 09:30 AM",
+          "Title": "Bienvenida",
+          "Speaker": {
+            "Name": "ChiapasDevs.net User Group",
+            "ImageUrl": "",
+            "Description": "Bienvenida al evento",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "9:45 AM - 10:00 AM",
+          "Title": "Coffe Break",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },        
+        {
+          "Time": "10:00 AM - 11:00 AM",
+          "Title": "Introducción a Windows Azure",
+          "Speaker": {
+            "Name": "Milton Alejandro Ocaña Meneses",
+            "ImageUrl": "",
+            "Description": "Pendiente",
+            "Social": {
+              "Twitter": "www.twitter.com/pendiente",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Overview de la Plataforma AppService",
+          "Speaker": {
+            "Name": "Pedro Antonio Morales Tamayo",
+            "ImageUrl": "",
+            "Description": "Bio Pedro",
+            "Social": {
+              "Twitter": "www.twitter.com/pendiente",
+              "Website": ""
+            }
+          }
+        },     
+        {
+          "Time": "12:00 PM - 1:00 PM",
+          "Title": "WebApps en Windows Azure",
+          "Speaker": {
+            "Name": "Juan Manuel Álvarez González",
+            "ImageUrl": "",
+            "Description": "Bio Juan",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },  
+        {
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "Lunch",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },    
+        {
+          "Time": "2:00 PM - 3:00 PM",
+          "Title": "Desarrollo Multiplataforma con Xamarin y Windows Azure",
+          "Speaker": {
+            "Name": "Héctor Uriel Pérez Rojas",
+            "ImageUrl": "",
+            "Description": "Bio Héctor",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "3:00 PM - 4:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "Verónica del Carmen Palma Ramírez",
+            "ImageUrl": "",
+            "Description": "TBD",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+        {
+          "Time": "8:00 AM - 9:00 AM",
+          "Title": "Registro",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "Registro de Asistentes",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "9:00 AM - 09:30 AM",
+          "Title": "Bienvenida",
+          "Speaker": {
+            "Name": "ChiapasDevs.net User Group",
+            "ImageUrl": "",
+            "Description": "Bienvenida al evento",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "9:45 AM - 10:00 AM",
+          "Title": "Coffe Break",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },        
+        {
+          "Time": "10:00 AM - 11:00 AM",
+          "Title": "Introducción a Windows Azure",
+          "Speaker": {
+            "Name": "Milton Alejandro Ocaña Meneses",
+            "ImageUrl": "",
+            "Description": "Pendiente",
+            "Social": {
+              "Twitter": "www.twitter.com/pendiente",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Internet de las Cosas - Conectando la información a Azure",
+          "Speaker": {
+            "Name": "Julio César Sánchez Solano",
+            "ImageUrl": "",
+            "Description": "Bio Julio",
+            "Social": {
+              "Twitter": "www.twitter.com/pendiente",
+              "Website": ""
+            }
+          }
+        },     
+        {
+          "Time": "12:00 PM - 1:00 PM",
+          "Title": "Máquinas Virtuales en Windows Azure",
+          "Speaker": {
+            "Name": "Geovanni Simuta Alfaro",
+            "ImageUrl": "",
+            "Description": "Bio Geo",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },  
+        {
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "Lunch",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },    
+        {
+          "Time": "2:00 PM - 3:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        },
+        {
+          "Time": "3:00 PM - 4:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "",
+            "ImageUrl": "",
+            "Description": "",
+            "Social": {
+              "Twitter": "",
+              "Website": ""
+            }
+          }
+        }      
+      ]
+    }
+  ]
+}
