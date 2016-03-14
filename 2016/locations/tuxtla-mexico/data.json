@@ -7,7 +7,7 @@
   },
   "Social": {
     "Meetup": "https://www.eventbrite.com/e/entradas-global-azure-bootcamp-chiapas-22292132368",
-    "Facebook": "https://www.facebook.com/hprez21"
+    "Facebook": "https://www.facebook.com/MWAPSG"
   },
   "Callout": {
     "Text": "¡Regístrate ahora!. RSVP today!",
@@ -67,7 +67,7 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "9:00 AM - 09:45 AM",
+          "Time": "9:00 AM - 9:45 AM",
           "Title": "Keynote",
           "Speaker": {
             "Name": "ChiapasDevs Team",
@@ -77,7 +77,7 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "09:45 AM - 10:00 AM",
+          "Time": "9:45 AM - 10:00 AM",
           "Title": "Break"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "SessionId": "DEV2",
-          "Time": "12:00 AM - 01:00 PM",
+          "Time": "12:00 AM - 1:00 PM",
           "Title": "WebApps en Azure",
           "Speaker": {
             "Name": "Juan Manuel Álvarez González",
@@ -112,7 +112,7 @@
         },
         {
           "SessionId": "Common5",
-          "Time": "01:00 PM - 02:00 PM",
+          "Time": "1:00 PM - 2:00 PM",
           "Title": "Break"
         },
         {
@@ -141,7 +141,7 @@
         },        
         {
           "SessionId": "Common6",
-          "Time": "04:00 PM - 04:30 PM",
+          "Time": "4:00 PM - 4:30 PM",
           "Title": "Closing & Luck Draw"
         }
       ]
@@ -166,7 +166,7 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "09:45 AM - 10:00 AM",
+          "Time": "9:45 AM - 10:00 AM",
           "Title": "Break"
         },
         {
@@ -184,7 +184,7 @@
         },
         {
           "SessionId": "ITPRO1",
-          "Time": "11:00 AM - 12:00 AM",
+          "Time": "11:00 AM - 12:00 PM",
           "Title": "Internet de las Cosas - Conectando la información a Azure",
           "Speaker": {
             "Name": "Julio César Sánchez Solano",
@@ -194,7 +194,7 @@
         },
         {
           "SessionId": "ITPRO2",
-          "Time": "12:00 AM - 01:00 PM",
+          "Time": "12:00 AM - 1:00 PM",
           "Title": "Máquinas Virtuales en Windows Azure",
           "Speaker": {
             "Name": "Geovanni Simuta Alfaro",
@@ -208,12 +208,12 @@
         },
         {
           "SessionId": "Common5",
-          "Time": "01:00 PM - 02:00 PM",
+          "Time": "1:00 PM - 2:00 PM",
           "Title": "Break"
         },
         {
           "SessionId": "ITPRO3",
-          "Time": "02:00 PM - 03:00 PM",
+          "Time": "2:00 PM - 3:00 PM",
           "Title": "Administrando Bases de Datos SQL Azure",
           "Speaker": {
             "Name": "Verónica del Carmen Palma Ramírez",
@@ -232,7 +232,7 @@
         },                  
         {
           "SessionId": "Common6",
-          "Time": "04:00 PM - 04:30 PM",
+          "Time": "4:00 PM - 4:30 PM",
           "Title": "Closing & Luck Draw"
         }
       ]
