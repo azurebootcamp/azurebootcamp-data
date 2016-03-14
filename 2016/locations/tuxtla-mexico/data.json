@@ -7,12 +7,12 @@
   },
   "Social": {
     "Meetup": "https://www.eventbrite.com/e/entradas-global-azure-bootcamp-chiapas-22292132368",
-    "Facebook": "https://www.facebook.com/chiapas.devs"
+    "Facebook": "https://www.facebook.com/hprez21"
   },
   "Callout": {
-    "Text": "¡Dá una charla en el evento!",
-    "Link": "https://www.facebook.com/hprez21",
-    "Type": "info"
+    "Text": "¡Regístrate ahora!. RSVP today!",
+    "Link": "https://www.eventbrite.com/e/entradas-global-azure-bootcamp-chiapas-22292132368",
+    "Type": "success"
   },
   "Organizers": [
     {
@@ -28,20 +28,32 @@
         "Website": "www.unach.mx",
         "Email": "ltsantos@unach.mx"
       }
+    },    
+    {
+      "Name": "Geovanni Simuta Alfaro",
+      "Social": {        
+        "Email": "gs_alfaro@hotmail.com"
+      }
+    },    
+    {
+      "Name": "Judy Roblero",
+      "Social": {
+        "Email": "judyrg1@hotmail.com"
+      }
     }
   ],
-  "Sponsors": [    
+  "Sponsors": [
     {
       "Name": "Microsoft",
-      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
       "Link": "http://www.microsoft.com"
-    }
+    }    
   ],
-  "Prizes": [
+  "Prizes": [     
     {
-      "ImageUrl": "http://www.gadgetreview.com/wp-content/uploads/2012/09/Soundstick-Wireless.jpeg",
-      "Link": "http://sg.harmankardon.com/harman-kardon-product-detail_sg/soundsticks-wireless.html",
-      "Name": "SoundSticks Wireless"
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "#",
+      "Name": "More, Coming Soon"
     }
   ],
   "Tracks": [
@@ -49,121 +61,88 @@
       "Name": "Developer Track",
       "Sessions": [
         {
-          "Time": "8:00 AM - 9:00 AM",
-          "Title": "Registro",
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registro"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 09:45 AM",
+          "Title": "Keynote",
           "Speaker": {
-            "Name": "",
-            "ImageUrl": "",
-            "Description": "Registro de Asistentes",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
+            "Name": "ChiapasDevs Team",
+            "Description": "ChiapasDevs.Net es una comunidad de desarrolladores creada en el año 2010 con el objetivo de juntar líderes y profesionistas de la industria en materia de desarrollo de Software para hablar sobre temas relacionados con tecnologías basadas en tecnologías Microsoft",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/Logo-ChiapasDevs.jpg"
           }
         },
         {
-          "Time": "9:00 AM - 09:30 AM",
-          "Title": "Bienvenida",
-          "Speaker": {
-            "Name": "ChiapasDevs.net User Group",
-            "ImageUrl": "",
-            "Description": "Bienvenida al evento",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
-          }
+          "SessionId": "Common3",
+          "Time": "09:45 AM - 10:00 AM",
+          "Title": "Break"
         },
         {
-          "Time": "9:45 AM - 10:00 AM",
-          "Title": "Coffe Break",
-          "Speaker": {
-            "Name": "",
-            "ImageUrl": "",
-            "Description": "",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
-          }
-        },        
-        {
+          "SessionId": "Common4",
           "Time": "10:00 AM - 11:00 AM",
           "Title": "Introducción a Windows Azure",
           "Speaker": {
             "Name": "Milton Alejandro Ocaña Meneses",
-            "ImageUrl": "",
-            "Description": "Pendiente",
-            "Social": {
-              "Twitter": "www.twitter.com/pendiente",
-              "Website": ""
-            }
-          }
+            "Description": "Bio Pendiente",
+            "ImageUrl": ""
+            }          
         },
         {
+          "SessionId": "DEV1",
           "Time": "11:00 AM - 12:00 PM",
           "Title": "Overview de la Plataforma AppService",
           "Speaker": {
             "Name": "Pedro Antonio Morales Tamayo",
-            "ImageUrl": "",
-            "Description": "Bio Pedro",
-            "Social": {
-              "Twitter": "www.twitter.com/pendiente",
-              "Website": ""
-            }
+            "Description": "Pendiente",
+            "ImageUrl": ""
           }
-        },     
+        },
         {
-          "Time": "12:00 PM - 1:00 PM",
-          "Title": "WebApps en Windows Azure",
+          "SessionId": "DEV2",
+          "Time": "12:00 AM - 01:00 PM",
+          "Title": "WebApps en Azure",
           "Speaker": {
             "Name": "Juan Manuel Álvarez González",
-            "ImageUrl": "",
-            "Description": "Bio Juan",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
+            "Description": "Pendiente",
+            "ImageUrl": ""
           }
-        },  
+        },
         {
-          "Time": "1:00 PM - 2:00 PM",
-          "Title": "Lunch",
-          "Speaker": {
-            "Name": "",
-            "ImageUrl": "",
-            "Description": "",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
-          }
-        },    
+          "SessionId": "Common5",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Break"
+        },
         {
-          "Time": "2:00 PM - 3:00 PM",
+          "SessionId": "DEV3",
+         "Time": "2:00 PM - 3:00 PM",
           "Title": "Desarrollo Multiplataforma con Xamarin y Windows Azure",
           "Speaker": {
             "Name": "Héctor Uriel Pérez Rojas",
-            "ImageUrl": "",
-            "Description": "Bio Héctor",
+            "Description": "Licenciado en Sistemas Computacionales por la Universidad Autónoma de Chiapas; Maestro en Ciencias de la Computación con especialidad en Ingeniería de Software por el Centro Nacional de Investigación y Desarrollo Tecnológico. A lo largo de su carrera, ha participado en proyectos del Instituto de Investigaciones Eléctricas, de la Universidad Nacional Autónoma de México, del Órgano de Fiscalización Superior del Congreso del Estado de Chiapas, así como de diferentes empresas privadas. Es reconocido como influenciador tecnológico, y cuenta con certificaciones de especialización en desarrollo. Actualmente es gerente de sistemas y socio inversionista de la empresa Grupo Empresarial Multidisciplinario IASEC. Sus áreas de interés son la arquitectura de software, tecnologías web, interfaces de usuario, internet de las cosas y bases de datos.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/foto%20h%C3%A9ctor.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": ""
+              "Facebook": "https://www.facebook.com/hprez21",
+              "Website": "http://hectorperez.wordpress.com",
+              "Twitter": "https://twitter.com/hprez"
             }
           }
         },
         {
+          "SessionId": "DEV4",
           "Time": "3:00 PM - 4:00 PM",
           "Title": "TBD",
           "Speaker": {
-            "Name": "Verónica del Carmen Palma Ramírez",
-            "ImageUrl": "",
-            "Description": "TBD",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
+            "Name": "",
+            "Description": ""
           }
+        },        
+        {
+          "SessionId": "Common6",
+          "Time": "04:00 PM - 04:30 PM",
+          "Title": "Closing & Luck Draw"
         }
       ]
     },
@@ -171,122 +150,91 @@
       "Name": "IT Pro Track",
       "Sessions": [
         {
-          "Time": "8:00 AM - 9:00 AM",
-          "Title": "Registro",
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registro"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 09:45 AM",
+          "Title": "Keynote",
           "Speaker": {
-            "Name": "",
-            "ImageUrl": "",
-            "Description": "Registro de Asistentes",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
+            "Name": "ChiapasDevs Team",
+            "Description": "ChiapasDevs.Net es una comunidad de desarrolladores creada en el año 2010 con el objetivo de juntar líderes y profesionistas de la industria en materia de desarrollo de Software para hablar sobre temas relacionados con tecnologías basadas en tecnologías Microsoft",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/Logo-ChiapasDevs.jpg"
           }
         },
         {
-          "Time": "9:00 AM - 09:30 AM",
-          "Title": "Bienvenida",
-          "Speaker": {
-            "Name": "ChiapasDevs.net User Group",
-            "ImageUrl": "",
-            "Description": "Bienvenida al evento",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
-          }
+          "SessionId": "Common3",
+          "Time": "09:45 AM - 10:00 AM",
+          "Title": "Break"
         },
         {
-          "Time": "9:45 AM - 10:00 AM",
-          "Title": "Coffe Break",
-          "Speaker": {
-            "Name": "",
-            "ImageUrl": "",
-            "Description": "",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
-          }
-        },        
-        {
+          "SessionId": "Common4",
           "Time": "10:00 AM - 11:00 AM",
           "Title": "Introducción a Windows Azure",
           "Speaker": {
             "Name": "Milton Alejandro Ocaña Meneses",
+            "Description": "Bio Pendiente",
             "ImageUrl": "",
-            "Description": "Pendiente",
             "Social": {
-              "Twitter": "www.twitter.com/pendiente",
-              "Website": ""
+                "Twitter" :""
             }
           }
         },
         {
-          "Time": "11:00 AM - 12:00 PM",
+          "SessionId": "ITPRO1",
+          "Time": "11:00 AM - 12:00 AM",
           "Title": "Internet de las Cosas - Conectando la información a Azure",
           "Speaker": {
             "Name": "Julio César Sánchez Solano",
-            "ImageUrl": "",
-            "Description": "Bio Julio",
-            "Social": {
-              "Twitter": "www.twitter.com/pendiente",
-              "Website": ""
-            }
+            "Description": "Soy Licenciado en Sistemas Computacionales, en la “Universidad Autónoma De Chiapas”. Desarrollador de software y aplicaciones web en lenguaje C#, PHP, Mono para Android, Base de datos Msyql. Estoy en constante capacitación para obtener procesos más eficientes y mejores soluciones. Altamente motivado, responsable en la preservación del ambiente, ético y honesto. Con mentalidad abierta y analítica que me permite enfrentar los retos y cambios de un sistema altamente dinámico y una formación integral e interdisciplinaria. Tengo destrezas en gran sentido de pertenencia y excelentes relaciones interpersonales. Me gusta el trabajo en equipo, soy comprensivo, responsable y pro activo.",
+            "ImageUrl": ""
           }
-        },     
+        },
         {
-          "Time": "12:00 PM - 1:00 PM",
+          "SessionId": "ITPRO2",
+          "Time": "12:00 AM - 01:00 PM",
           "Title": "Máquinas Virtuales en Windows Azure",
           "Speaker": {
             "Name": "Geovanni Simuta Alfaro",
-            "ImageUrl": "",
-            "Description": "Bio Geo",
+            "Description": "Ingeniero en Sistemas Computacionales con más de 12 años de experiencia en el diseño y desarrollo de sistemas de información basados en web, así como soluciones móviles para diversos sistemas operativos y sistemas de geoposicionamiento Apasionado del Arte, la Geopolítica y el Gaming.",
+            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/18e/1cf/376d4a5.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
-          }
-        },  
-        {
-          "Time": "1:00 PM - 2:00 PM",
-          "Title": "Lunch",
-          "Speaker": {
-            "Name": "",
-            "ImageUrl": "",
-            "Description": "",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
-          }
-        },    
-        {
-          "Time": "2:00 PM - 3:00 PM",
-          "Title": "TBD",
-          "Speaker": {
-            "Name": "",
-            "ImageUrl": "",
-            "Description": "",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
+                "Twitter": "",
+                "Facebook" :"https://www.facebook.com/geovanni.simuta"
             }
           }
         },
         {
+          "SessionId": "Common5",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "02:00 PM - 03:00 PM",
+          "Title": "Administrando Bases de Datos SQL Azure",
+          "Speaker": {
+            "Name": "Verónica del Carmen Palma Ramírez",
+            "Description": "Pendiente",
+            "ImageUrl": ""
+          }
+        },
+        {
+          "SessionId": "ITPRO4",
           "Time": "3:00 PM - 4:00 PM",
           "Title": "TBD",
           "Speaker": {
             "Name": "",
-            "ImageUrl": "",
-            "Description": "",
-            "Social": {
-              "Twitter": "",
-              "Website": ""
-            }
+            "Description": ""
           }
-        }      
+        },                  
+        {
+          "SessionId": "Common6",
+          "Time": "04:00 PM - 04:30 PM",
+          "Title": "Closing & Luck Draw"
+        }
       ]
     }
   ]
