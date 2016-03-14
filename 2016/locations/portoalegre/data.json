@@ -93,10 +93,11 @@
                   "Title": "Em Breve",
                   "Speaker": {
                     "Name": "William Lagos",
-                    "Description": "",
-                    "ImageUrl": "",
+                    "Description": "Proprietário da Fábrica de Ideias Coworking e fundador da Efforia Nanocomputadores, graduado em Ciência da Computação pela PUCRS, possui especialidades nos campos de sistemas operacionais, computação embarcada e programação distribuída. ",
+                    "ImageUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/1528469_10208221403682896_8346683954004028554_n.jpg?oh=5229ced4178fa6c9cb1f3549e8cb3b74&oe=5759FBD7&__gda__=1465352990_38d9c9a9ecf4ad781e638be37bdeb8f4",
                     "Social": {
-                      "Twitter": ""
+                      "Twitter": "https://twitter.com/lagoswilliam",
+                      "Website": "http://www.efforia.com.br/"
                     }
                   }
                 },
