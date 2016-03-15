@@ -69,7 +69,8 @@
           "Speaker": {
             "Name": "Raymond Wong",
             "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/raymond.jpg",
-            "Description": "Managing Director, C&R Holdings Limited",
+            "Description": "Managing Director, C&R Holdings Limited. As a passionate software developer, Raymond enjoys leading his team to build cutting-edge software applications, actively participate in research for new discovery as well as develop new software products to better serve the community. 
+",
             "Social": {
               "Twitter": "https://github.com/raymondkpwong",
               "Website": "http://www.candrholdings.com"
@@ -108,7 +109,8 @@
           "Speaker": {
             "Name": "William Wong",
             "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/william.jpg",
-            "Description": "Solution Architect, C&R Holdings Limited",
+            "Description": "Solution Architect, C&R Holdings Limited. William has been in the IT industry for more than 10 years. As a Microsoft alumni, he has sharpened his skills by focusing on front end technologies and toolchain development through engaging in different projects in both Hong Kong and the US Headquarters. 
+",
             "Social": {
               "GitHub": "https://github.com/compulim",
               "Website": "http://www.candrholdings.com"
