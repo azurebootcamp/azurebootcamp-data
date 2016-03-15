@@ -64,11 +64,36 @@
           }
         },
         {
-          "Time": "13:15 - 14:00",
+          "Time": "13:15 - 14:15",
           "Title": "Keynotes: Introduction to Azure",
           "Speaker": {
+            "Name": "Raymond Wong",
+            "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/raymond.jpg",
+            "Description": "Managing Director, C&R Holdings Limited",
+            "Social": {
+              "Twitter": "https://github.com/raymondkpwong",
+              "Website": "http://www.candrholdings.com"
+            }
+          }
+        },
+      {
+          "Time": "14:15 - 15:45",
+          "Title": "Real-time analytics with Azure Stream Analytics and PowerBI",
+          "Speaker": {
+            "Name": "Thomas Weiss",
+            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/057/36e/2f9b646.jpg",
+            "Description": "Working in the software industry for more than 10 years now. After having lead the Asian Professional Services team for the world's augmented reality leader, Thomas founded a consulting company in Hong Kong focusing on Microsoft technologies, and also launched an augmented reality B2B platform, Stampeo.",
+            "Social": {
+              "Linkedin": "https://hk.linkedin.com/in/thomasweisshk",
+            }
+          }
+        },
+        {
+          "Time": "15:45 - 16:00",
+          "Title": "Break",
+          "Speaker": {
             "Name": "TBC",
-            "ImageUrl": "",
+            "ImageUrl": "TBC",
             "Description": "TBC",
             "Social": {
               "Twitter": "TBC",
@@ -76,8 +101,9 @@
             }
           }
         },
-      {
-          "Time": "14:00 - 15:30",
+        
+       {
+          "Time": "16:00 - 17:00",
           "Title": "Features of Azure App Service",
           "Speaker": {
             "Name": "William Wong",
@@ -85,19 +111,6 @@
             "Description": "Solution Architect, C&R Holdings Limited",
             "Social": {
               "GitHub": "https://github.com/compulim",
-              "Website": "http://www.candrholdings.com"
-            }
-          }
-        },
-       {
-          "Time": "15:30 - 17:00",
-          "Title": "Iaas:  Virtual Machine and Virtual Network features",
-          "Speaker": {
-            "Name": "Raymond Wong",
-            "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/raymond.jpg",
-            "Description": "Managing Director, C&R Holdings Limited",
-            "Social": {
-              "GitHub": "https://github.com/raymondkpwong",
               "Website": "http://www.candrholdings.com"
             }
           }
