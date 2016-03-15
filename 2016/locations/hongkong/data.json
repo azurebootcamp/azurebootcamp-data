@@ -3,7 +3,7 @@
     "Name": "Hong Kong",
     "Latitude": 22.278734,
     "Longitude": 114.171664,
-    "Address": "1001, The Phoenix, 23 Luard Road, Wanchai, Hong Kong"
+    "Address": "21／F, The Phoenix, 23 Luard Road, Wanchai, Hong Kong"
   },
   "Social": {
     "Eventbrite": "https://www.eventbrite.hk/e/microsoft-global-windows-azure-bootcamp-2016-tickets-20272819549",
@@ -81,8 +81,8 @@
           "Title": "Real-time analytics with Azure Stream Analytics and PowerBI",
           "Speaker": {
             "Name": "Thomas Weiss",
-            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/6/005/057/36e/2f9b646.jpg",
-            "Description": "Working in the software industry for more than 10 years now. After having lead the Asian Professional Services team for the world's augmented reality leader, Thomas founded a consulting company in Hong Kong focusing on Microsoft technologies, and also launched an augmented reality B2B platform, Stampeo.",
+            "ImageUrl": "https://gallery.mailchimp.com/b1f375f85c406b5601e97c1e7/images/b187ee96-7810-4e93-9d9f-4ea97f41fccd.jpg",
+            "Description": "Founder, Additive Labs. Working with Microsoft technologies for the past 15 years, Thomas provides consulting services in Hong Kong for businesses looking to leverage the Microsoft Azure platform and modernize their IT.",
             "Social": {
               "Linkedin": "https://hk.linkedin.com/in/thomasweisshk",
             }
