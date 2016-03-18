@@ -86,9 +86,9 @@
           "Title": "Introducción a Windows Azure",
           "Speaker": {
             "Name": "Milton Alejandro Ocaña Meneses",
-            "Description": "Bio Pendiente",
+            "Description": "Hola, mi nombre es Milton Alejandro Ocaña Meneses, tengo 24 años actualmente estoy estudiando el 9° semestre de la licenciatura en Sistemas Computacionales en la Universidad Autonoma de Chiapas; En la formacion acedemica de la carrera se manejar la programacion y base de datos en los programas de visual studio, mysql,sql la cual he trabajado un sistema de aprendisaje de lenguaje maternas indigenas para el colegio de bachilleres de chiapas tambien he llevado un curso de desarrollo con la tecnologia WPF;tambien se manejar programas de diseño y edicion de video y musica, con los programas de visual blend,corel draw,sony vegas fl studio y photoshop, silverlight.",
             "ImageUrl": ""
-            }          
+            }
         },
         {
           "SessionId": "DEV1",
@@ -96,7 +96,7 @@
           "Title": "Overview de la Plataforma AppService",
           "Speaker": {
             "Name": "Pedro Antonio Morales Tamayo",
-            "Description": "Pendiente",
+            "Description": "Hola mi nombre es Pedro Antonio Morales Tamayo, actualmente estoy cursando el 9° semestre de la licenciatura en Sistemas Computacionales, he trabajo con el colegio de bachilleres de chiapas para desarrollar un Mapa interactivo, actualmente desarrollo un Sofware basado en el dispositivo Kinect para el jardin Botanico de tuxtla Gutierrez, Desarrollador de software y entornos 3D, Desarrollo con la tecnologia WPF, SQL Server, Desarrollo en Lenguajes como C#, Java y AngularJs(HTML5 y JavaScrips)  desde el año 2014 he trabajado con el desarrollo y modelado 3d (3dsMax, Blender, Maya, Cinema4D) y softwares para creacion de videojuegos con Unity y UnrealEngine.",
             "ImageUrl": ""
           }
         },
@@ -175,8 +175,8 @@
           "Title": "Introducción a Windows Azure",
           "Speaker": {
             "Name": "Milton Alejandro Ocaña Meneses",
-            "Description": "Bio Pendiente",
-            "ImageUrl": "",
+            "Description": "Hola, mi nombre es Milton Alejandro Ocaña Meneses, tengo 24 años actualmente estoy estudiando el 9° semestre de la licenciatura en Sistemas Computacionales en la Universidad Autonoma de Chiapas; En la formacion acedemica de la carrera se manejar la programacion y base de datos en los programas de visual studio, mysql,sql la cual he trabajado un sistema de aprendisaje de lenguaje maternas indigenas para el colegio de bachilleres de chiapas tambien he llevado un curso de desarrollo con la tecnologia WPF;tambien se manejar programas de diseño y edicion de video y musica, con los programas de visual blend,corel draw,sony vegas fl studio y photoshop, silverlight.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/foto%20milton.jpg",
             "Social": {
                 "Twitter" :""
             }
@@ -217,17 +217,18 @@
           "Title": "Administrando Bases de Datos SQL Azure",
           "Speaker": {
             "Name": "Verónica del Carmen Palma Ramírez",
-            "Description": "Pendiente",
-            "ImageUrl": ""
+            "Description": "Licenciada en Sistemas Computacionales por la Universidad Autónoma de Chiapas; con experiencia en el diseño y desarrollo de sistemas, así como en administración de bases de datos. Actualmente labora en el Órgano de Fiscalización Superior del Congreso del Estado de Chiapas, complementando sus actividades como frelance en proyectos de desarrollo para pequeñas y medianas empresas. Siempre abierta a los nuevos retos que presenta el mundo tecnológico.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/VeronicaPalma.JPG"
           }
         },
         {
           "SessionId": "ITPRO4",
           "Time": "3:00 PM - 4:00 PM",
-          "Title": "TBD",
+          "Title": "Perspectivas de Chiapas en el Mercado Global de TICs",
           "Speaker": {
-            "Name": "",
-            "Description": ""
+            "Name": "Jaime Licona",
+            "Description": "Ingeniero en Sistemas Computacionales con más de 12 años de experiencia en el diseño y desarrollo de sistemas de información basados en web, así como soluciones móviles para diversos sistemas operativos y sistemas de geoposicionamiento Apasionado del Arte, la Geopolítica y el Gaming.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/JaimeLicona.png"            
           }
         },                  
         {
