@@ -9,8 +9,8 @@
     "Meetup": "http://www.meetup.com/MelbourneAzure/"
   },
   "Callout": {
-    "Text": "Register interest",
-    "Link": "http://www.instant.ly/s/HmeK9",
+    "Text": "Register here",
+    "Link": "https://melgab2016.eventbrite.com",
     "Type": "success"
   },
   "Organizers": [
@@ -30,23 +30,33 @@
   "Sponsors": [
     {
       "Name": "Microsoft",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/msft.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Microsoft.png",
       "Link": "http://www.microsoft.com"
     },
     {
       "Name": "Readify",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/readify.jpg",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Readify.png",
       "Link": "http://readify.net/"
     },
     {
       "Name": "Kloud",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Kloud.jpg",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Kloud.png",
       "Link": "http://www.kloud.com.au/"
     },
     {
       "Name": "Infront Consulting",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/infront.jpg",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Infront.png",
       "Link": "http://www.infrontconsulting.com/"
+    }
+    {
+      "Name": "SixPivot",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/SixPivot.png",
+      "Link": "http://www.sixpivot.com/"
+    }
+    {
+      "Name": "Just Digital People",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/JustDigitalPeople.png",
+      "Link": "http://www.justdigitalpeople.com.au/"
     }
   ],
   "Prizes": [
@@ -68,19 +78,22 @@
         {
           "SessionId": "DEV1",
           "Time": "9:00 AM - 9:45 AM",
-          "Title": "TBD",
+          "Title": "A Lap Around Cloud Integration",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Bill Chesnut",
+            "Description": "Bill is a Azure Microsoft Valuable Professional (MVP) and a Microsoft P-Seller.
+Bill has been involved with Integration, Including Azure, BizTalk and BizTalk Training. Bill has designed, implemented and mentored on numerous Integration project throughout Australia and New Zealand. He has presented at Microsoft’s TechEd / Ignite conferences in Australia and New Zealand.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/BillChesnut.jpg"
           }
         },
         {
           "SessionId": "DEV2",
           "Time": "9:45 AM - 10:30 AM",
-          "Title": "TBD",
+          "Title": "Building Consumer Apps with Azure Active Directory B2C",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Chris Padget",
+            "Description": "Chris has been designing and implementing solutions using a range of Microsoft software development technologies since 2001, including one of the first solutions using .NET in Australia, and many more since then! He has a particular passion for writing secure applications in a networked world that are both enjoyable in the user experience and respectful of the users' privacy. Chris is a regular speaker at events. He has been managing the Microsoft Azure special interest group in Melbourne since 2011.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/ChrisPadget.jpg"
           }
         },
         {
@@ -91,19 +104,21 @@
         {
           "SessionId": "DEV3",
           "Time": "11:00 AM - 11:45 AM",
-          "Title": "TBD",
+          "Title": "Exploring CQRS and Event Sourcing: A journey into high scalability, availability, and maintainability with Windows Azure",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Stefano Tempesta",
+            "Description": "Stefano is Vice President of Engineering at Turbedo Networks, a cloud provider of workflow and communication APIs. A regular speaker at conferences, including Microsoft Ignite and TechEd in Australia, Stefano's interests span across Cloud, Mobile and IoT applications. Stefano can be reached via his personal web site tempesta.space.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/StefanoTempesta.jpg"
           }
         },
         {
           "SessionId": "DEV4",
           "Time": "11:45 AM - 12:30 PM",
-          "Title": "TBD",
+          "Title": "Consolidate multiple back end microservices with Azure API management",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Jorge Arteiro",
+            "Description": "Jorge is an experienced Consultant and Azure/.Net MCP based in Melbourne with software development, cloud integration and technical pre-sales background, working for enterprises and software companies. He has over 15 years in the IT industry in Australia and Brazil.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/JorgeArteiro.jpg"
           }
         },
         {
@@ -118,15 +133,17 @@
           "Speaker": {
             "Name": "TBC",
             "Description": "TBC",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/MaheshKrishnan.jpg"
           }
         },
         {
           "SessionId": "DEV6",
           "Time": "2:15 PM - 3:00 PM",
-          "Title": "TBD",
+          "Title": "TBA",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC"
+            "Name": "Mahesh Krishnan",
+            "Description": "Mahesh is an author, speaker and Microsoft Azure MVP. He is also active in the .NET community in Melbourne, runs the Azure Meetup and organises the conference DDD Melbourne MVP "
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
           }
         },
         {
@@ -141,6 +158,7 @@
           "Speaker": {
             "Name": "TBC",
             "Description": "TBC"
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
           }
         },
         {
@@ -161,19 +179,21 @@
         {
           "SessionId": "ITPRO1",
           "Time": "9:00 AM - 9:45 AM",
-          "Title": "TBD",
+          "Title": "Active Directory As A Service: Domain Joining Azure IaaS VMs without a Domain Controller",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Orin Thomas",
+            "Description": "Orin Thomas is an MVP, an MCT and has a string of Microsoft MCSE and MCITP certifications. He has written more than 30 books for Microsoft Press and is a contributing editor at Windows IT Pro magazine.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/OrinThomas.jpg"
           }
         },
         {
           "SessionId": "ITPRO2",
           "Time": "9:45 AM - 10:30 AM",
-          "Title": "TBD",
+          "Title": "What is new in Microsoft Operations Management Suite",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Tao Yang",
+            "Description": "Tao Yang is an independent consultant and senior System Center specialist with 15 years of experience in IT, living in Melbourne, Australia. Prior to becoming an independent consultant, Tao worked for a large Australian retailer for 3.5 years, where he designed and implemented one of the largest System Center environments in the region. Today, his primary focus is Microsoft Operations Management Suite (OMS), System Center Operations Manager (SCOM), automation and Management Pack development.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/TaoYang.jpg"
           }
         },
         {
@@ -184,19 +204,26 @@
         {
           "SessionId": "ITPRO3",
           "Time": "11:00 AM - 11:45 AM",
-          "Title": "TBD",
+          "Title": "Protecting your key workloads in the cloud using Azure Backup and Azure Site Recovery",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Daniel Mar",
+            "Description": "Daniel is a Principal Consultant with Infront Consulting Group in Australia. He was Singapore’s first Microsoft Most Valuable Professional for Cloud and Datacenter Management as well as also being a Citrix Desktop MVP but now spends his time in Melbourne.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/DanielMar.jpg"
           }
         },
         {
           "SessionId": "ITPRO4",
           "Time": "11:45 AM - 12:30 PM",
-          "Title": "TBD",
+          "Title": "Version and Source Control – how it will save your butt!",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "David O'Brien",
+            "Description": "You love automation? I do to.
+ My background is very much Microsoft tech, but I recently moved across into a more xPlatform role (you could call it DevOps if you want).
+ If it can be automated, I like to work with it, mostly with Windows PowerShell.
+ I am a Microsoft MVP for Cloud and Datacenter Management with a focus on PowerShell.
+ I usually try to be on top of new tech, so just talk to me about whatever tech interests you, I’m very open minded :)
+ Also, I’ve got a Pilot’s License, don’t mind talking about that as well (a lot!)",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/DavidObrien.jpg"
           }
         },
         {
@@ -207,19 +234,21 @@
         {
           "SessionId": "ITPRO5",
           "Time": "1:30 PM - 2:15 PM",
-          "Title": "TBD",
+          "Title": "Automating your infrastructure tasks with Azure Automation",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Kieran Jacobsen",
+            "Description": "Kieran Jacobsen works at Readify where he spends his days writing PowerShell and automating everything within sight. Kieran has been working with PowerShell and automating infrastructure tasks for a number of years in environments ranging from finance to managed services. Kieran is the maintainer of the PoshSecurity.com website, has spoken at a number of conferences and was featured on the Risky Business podcast.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/KieranJacobsen.jpg"
           }
         },
         {
           "SessionId": "ITPRO6",
           "Time": "2:15 PM - 3:00 PM",
-          "Title": "TBD",
+          "Title": "Deploying IaaS with Azure Resource Manager",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC"
+            "Name": "James Bannan",
+            "Description": "James Bannan is a Cloud and Datacenter MVP, author, blogger and presenter of over twenty Microsoft TechEd/Ignite sessions. He has a passion for infrastructure deployment, automation and technical evangelism.  He lives in Melbourne by the beach with his family (and dog!)."
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/JamesBannan.jpg"
           }
         },
         {
@@ -230,10 +259,11 @@
         {
           "SessionId": "ITPRO7",
           "Time": "3:30 PM - 4:15 PM",
-          "Title": "TBD",
+          "Title": "TBA",
           "Speaker": {
-            "Name": "TBC",
+            "Name": "TBA",
             "Description": "TBC"
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
           }
         },
         {
