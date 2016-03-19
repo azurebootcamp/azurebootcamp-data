@@ -47,12 +47,12 @@
       "Name": "Infront Consulting",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Infront.png",
       "Link": "http://www.infrontconsulting.com/"
-    }
+    },
     {
       "Name": "SixPivot",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/SixPivot.png",
       "Link": "http://www.sixpivot.com/"
-    }
+    },
     {
       "Name": "Just Digital People",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/JustDigitalPeople.png",
@@ -131,19 +131,19 @@ Bill has been involved with Integration, Including Azure, BizTalk and BizTalk Tr
           "Time": "1:30 PM - 2:15 PM",
           "Title": "TBD",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
+            "Name": "Mahesh Krishnan",
+            "Description": "Mahesh is an author, speaker and Microsoft Azure MVP. He is also active in the .NET community in Melbourne, runs the Azure Meetup and organises the conference DDD Melbourne MVP",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/MaheshKrishnan.jpg"
           }
         },
         {
           "SessionId": "DEV6",
           "Time": "2:15 PM - 3:00 PM",
-          "Title": "TBA",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "Mahesh Krishnan",
-            "Description": "Mahesh is an author, speaker and Microsoft Azure MVP. He is also active in the .NET community in Melbourne, runs the Azure Meetup and organises the conference DDD Melbourne MVP "
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
+            "Name": "TBC",
+            "Description": "TBC",
+			"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
           }
         },
         {
@@ -157,8 +157,8 @@ Bill has been involved with Integration, Including Azure, BizTalk and BizTalk Tr
           "Title": "TBD",
           "Speaker": {
             "Name": "TBC",
-            "Description": "TBC"
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
+            "Description": "TBC",
+			"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
           }
         },
         {
@@ -247,7 +247,7 @@ Bill has been involved with Integration, Including Azure, BizTalk and BizTalk Tr
           "Title": "Deploying IaaS with Azure Resource Manager",
           "Speaker": {
             "Name": "James Bannan",
-            "Description": "James Bannan is a Cloud and Datacenter MVP, author, blogger and presenter of over twenty Microsoft TechEd/Ignite sessions. He has a passion for infrastructure deployment, automation and technical evangelism.  He lives in Melbourne by the beach with his family (and dog!)."
+            "Description": "James Bannan is a Cloud and Datacenter MVP, author, blogger and presenter of over twenty Microsoft TechEd/Ignite sessions. He has a passion for infrastructure deployment, automation and technical evangelism.  He lives in Melbourne by the beach with his family (and dog!).",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/JamesBannan.jpg"
           }
         },
@@ -259,10 +259,10 @@ Bill has been involved with Integration, Including Azure, BizTalk and BizTalk Tr
         {
           "SessionId": "ITPRO7",
           "Time": "3:30 PM - 4:15 PM",
-          "Title": "TBA",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "TBA",
-            "Description": "TBC"
+            "Name": "TBC",
+            "Description": "TBC",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
           }
         },
