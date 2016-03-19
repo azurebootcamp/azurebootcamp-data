@@ -1,0 +1,242 @@
+{
+  "Location": {
+    "Name": "Global Azure Bootcamp Tuxtla",
+    "Latitude": 16.761329,
+    "Longitude": -93.151583,
+    "Address": "Boulevard Belisario Domínguez, Kilómetro 1081, Sin Número"
+  },
+  "Social": {
+    "Meetup": "https://www.eventbrite.com/e/entradas-global-azure-bootcamp-chiapas-22292132368",
+    "Facebook": "https://www.facebook.com/MWAPSG"
+  },
+  "Callout": {
+    "Text": "¡Regístrate ahora!. RSVP today!",
+    "Link": "https://www.eventbrite.com/e/entradas-global-azure-bootcamp-chiapas-22292132368",
+    "Type": "success"
+  },
+  "Organizers": [
+    {
+      "Name": "Héctor Uriel Pérez Rojas",
+      "Social": {
+        "Website": "http://hectorperez.wordpress.com",
+        "Email": "hprez21@hotmail.com"
+      }
+    },
+    {
+      "Name": "Alejandro Trujillo Santos",
+      "Social": {
+        "Website": "www.unach.mx",
+        "Email": "ltsantos@unach.mx"
+      }
+    },    
+    {
+      "Name": "Geovanni Simuta Alfaro",
+      "Social": {        
+        "Email": "gs_alfaro@hotmail.com"
+      }
+    },    
+    {
+      "Name": "Judy Roblero",
+      "Social": {
+        "Email": "judyrg1@hotmail.com"
+      }
+    }
+  ],
+  "Sponsors": [
+    {
+      "Name": "Microsoft",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
+      "Link": "http://www.microsoft.com"
+    }    
+  ],
+  "Prizes": [     
+    {
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "#",
+      "Name": "More, Coming Soon"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "Developer Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registro"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:45 AM",
+          "Title": "Keynote",
+          "Speaker": {
+            "Name": "ChiapasDevs Team",
+            "Description": "ChiapasDevs.Net es una comunidad de desarrolladores creada en el año 2010 con el objetivo de juntar líderes y profesionistas de la industria en materia de desarrollo de Software para hablar sobre temas relacionados con tecnologías basadas en tecnologías Microsoft",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/Logo-ChiapasDevs.jpg"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:45 AM - 10:00 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:00 AM - 11:00 AM",
+          "Title": "Introducción a Windows Azure",
+          "Speaker": {
+            "Name": "Milton Alejandro Ocaña Meneses",
+            "Description": "Hola, mi nombre es Milton Alejandro Ocaña Meneses, tengo 24 años actualmente estoy estudiando el 9° semestre de la licenciatura en Sistemas Computacionales en la Universidad Autonoma de Chiapas; En la formacion acedemica de la carrera se manejar la programacion y base de datos en los programas de visual studio, mysql,sql la cual he trabajado un sistema de aprendisaje de lenguaje maternas indigenas para el colegio de bachilleres de chiapas tambien he llevado un curso de desarrollo con la tecnologia WPF;tambien se manejar programas de diseño y edicion de video y musica, con los programas de visual blend,corel draw,sony vegas fl studio y photoshop, silverlight.",
+            "ImageUrl": ""
+            }
+        },
+        {
+          "SessionId": "DEV1",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Overview de la Plataforma AppService",
+          "Speaker": {
+            "Name": "Pedro Antonio Morales Tamayo",
+            "Description": "Hola mi nombre es Pedro Antonio Morales Tamayo, actualmente estoy cursando el 9° semestre de la licenciatura en Sistemas Computacionales, he trabajo con el colegio de bachilleres de chiapas para desarrollar un Mapa interactivo, actualmente desarrollo un Sofware basado en el dispositivo Kinect para el jardin Botanico de tuxtla Gutierrez, Desarrollador de software y entornos 3D, Desarrollo con la tecnologia WPF, SQL Server, Desarrollo en Lenguajes como C#, Java y AngularJs(HTML5 y JavaScrips)  desde el año 2014 he trabajado con el desarrollo y modelado 3d (3dsMax, Blender, Maya, Cinema4D) y softwares para creacion de videojuegos con Unity y UnrealEngine.",
+            "ImageUrl": ""
+          }
+        },
+        {
+          "SessionId": "DEV2",
+          "Time": "12:00 AM - 1:00 PM",
+          "Title": "WebApps en Azure",
+          "Speaker": {
+            "Name": "Juan Manuel Álvarez González",
+            "Description": "Pendiente",
+            "ImageUrl": ""
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV3",
+         "Time": "2:00 PM - 3:00 PM",
+          "Title": "Desarrollo Multiplataforma con Xamarin y Windows Azure",
+          "Speaker": {
+            "Name": "Héctor Uriel Pérez Rojas",
+            "Description": "Licenciado en Sistemas Computacionales por la Universidad Autónoma de Chiapas; Maestro en Ciencias de la Computación con especialidad en Ingeniería de Software por el Centro Nacional de Investigación y Desarrollo Tecnológico. A lo largo de su carrera, ha participado en proyectos del Instituto de Investigaciones Eléctricas, de la Universidad Nacional Autónoma de México, del Órgano de Fiscalización Superior del Congreso del Estado de Chiapas, así como de diferentes empresas privadas. Es reconocido como influenciador tecnológico, y cuenta con certificaciones de especialización en desarrollo. Actualmente es gerente de sistemas y socio inversionista de la empresa Grupo Empresarial Multidisciplinario IASEC. Sus áreas de interés son la arquitectura de software, tecnologías web, interfaces de usuario, internet de las cosas y bases de datos.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/foto%20h%C3%A9ctor.jpg",
+            "Social": {
+              "Facebook": "https://www.facebook.com/hprez21",
+              "Website": "http://hectorperez.wordpress.com",
+              "Twitter": "https://twitter.com/hprez"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "3:00 PM - 4:00 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "",
+            "Description": ""
+          }
+        },        
+        {
+          "SessionId": "Common6",
+          "Time": "4:00 PM - 4:30 PM",
+          "Title": "Closing & Luck Draw"
+        }
+      ]
+    },
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registro"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 09:45 AM",
+          "Title": "Keynote",
+          "Speaker": {
+            "Name": "ChiapasDevs Team",
+            "Description": "ChiapasDevs.Net es una comunidad de desarrolladores creada en el año 2010 con el objetivo de juntar líderes y profesionistas de la industria en materia de desarrollo de Software para hablar sobre temas relacionados con tecnologías basadas en tecnologías Microsoft",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/Logo-ChiapasDevs.jpg"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:45 AM - 10:00 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:00 AM - 11:00 AM",
+          "Title": "Introducción a Windows Azure",
+          "Speaker": {
+            "Name": "Milton Alejandro Ocaña Meneses",
+            "Description": "Hola, mi nombre es Milton Alejandro Ocaña Meneses, tengo 24 años actualmente estoy estudiando el 9° semestre de la licenciatura en Sistemas Computacionales en la Universidad Autonoma de Chiapas; En la formacion acedemica de la carrera se manejar la programacion y base de datos en los programas de visual studio, mysql,sql la cual he trabajado un sistema de aprendisaje de lenguaje maternas indigenas para el colegio de bachilleres de chiapas tambien he llevado un curso de desarrollo con la tecnologia WPF;tambien se manejar programas de diseño y edicion de video y musica, con los programas de visual blend,corel draw,sony vegas fl studio y photoshop, silverlight.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/foto%20milton.jpg",
+            "Social": {
+                "Twitter" :""
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO1",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Internet de las Cosas - Conectando la información a Azure",
+          "Speaker": {
+            "Name": "Julio César Sánchez Solano",
+            "Description": "Soy Licenciado en Sistemas Computacionales, en la “Universidad Autónoma De Chiapas”. Desarrollador de software y aplicaciones web en lenguaje C#, PHP, Mono para Android, Base de datos Msyql. Estoy en constante capacitación para obtener procesos más eficientes y mejores soluciones. Altamente motivado, responsable en la preservación del ambiente, ético y honesto. Con mentalidad abierta y analítica que me permite enfrentar los retos y cambios de un sistema altamente dinámico y una formación integral e interdisciplinaria. Tengo destrezas en gran sentido de pertenencia y excelentes relaciones interpersonales. Me gusta el trabajo en equipo, soy comprensivo, responsable y pro activo.",
+            "ImageUrl": ""
+          }
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "12:00 AM - 1:00 PM",
+          "Title": "Máquinas Virtuales en Windows Azure",
+          "Speaker": {
+            "Name": "Geovanni Simuta Alfaro",
+            "Description": "Ingeniero en Sistemas Computacionales con más de 12 años de experiencia en el diseño y desarrollo de sistemas de información basados en web, así como soluciones móviles para diversos sistemas operativos y sistemas de geoposicionamiento Apasionado del Arte, la Geopolítica y el Gaming.",
+            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/18e/1cf/376d4a5.jpg",
+            "Social": {
+                "Twitter": "",
+                "Facebook" :"https://www.facebook.com/geovanni.simuta"
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "1:00 PM - 2:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "2:00 PM - 3:00 PM",
+          "Title": "Administrando Bases de Datos SQL Azure",
+          "Speaker": {
+            "Name": "Verónica del Carmen Palma Ramírez",
+            "Description": "Licenciada en Sistemas Computacionales por la Universidad Autónoma de Chiapas; con experiencia en el diseño y desarrollo de sistemas, así como en administración de bases de datos. Actualmente labora en el Órgano de Fiscalización Superior del Congreso del Estado de Chiapas, complementando sus actividades como frelance en proyectos de desarrollo para pequeñas y medianas empresas. Siempre abierta a los nuevos retos que presenta el mundo tecnológico.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/VeronicaPalma.JPG"
+          }
+        },
+        {
+          "SessionId": "ITPRO4",
+          "Time": "3:00 PM - 4:00 PM",
+          "Title": "Perspectivas de Chiapas en el Mercado Global de TICs",
+          "Speaker": {
+            "Name": "Jaime Licona",
+            "Description": "Ingeniero en Sistemas Computacionales con más de 12 años de experiencia en el diseño y desarrollo de sistemas de información basados en web, así como soluciones móviles para diversos sistemas operativos y sistemas de geoposicionamiento Apasionado del Arte, la Geopolítica y el Gaming.",
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/JaimeLicona.png"            
+          }
+        },                  
+        {
+          "SessionId": "Common6",
+          "Time": "4:00 PM - 4:30 PM",
+          "Title": "Closing & Luck Draw"
+        }
+      ]
+    }
+  ]
+}

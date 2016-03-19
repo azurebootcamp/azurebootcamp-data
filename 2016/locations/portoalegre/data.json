@@ -21,21 +21,26 @@
   ],
   "Sponsors": [
     {
-      "Name": "Microsoft",
-      "Image": "http://globalazurebootcampsg.azurewebsites.net/assets/img/sponsors/msft.png",
-      "Link": "www.microsoft.com"
+      "Name": "Microsoft Innovation Center PUCRS",
+      "Image": "http://www.centrodeinovacao.org.br/Content/ImagensFooter/Microsoft%20Innovation%20Center-%20Logo.png",
+      "Link": "http://www.centrodeinovacao.org.br/"
     },
     {
-      "Name": "NGXit",
-      "Image": "http://www.seprorgs.org.br/upload/site_associese/116_g.jpg",
-      "Link": "http://ngxit.com.br/"
+      "Name": "NAP IT",
+      "Image": "http://www.napit.com.br/wp-content/uploads/2013/11/Marca-NAPIT-Network-Solutions1.png",
+      "Link": "http://www.napit.com.br"
+    },
+    {
+      "Name": "Dell",
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/2000px-Dell_Logo.svg.png",
+      "Link": "http://www.dell.com.br/"
     },
   ],
   "Prizes": [
     {
-      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
-      "Link": "",
-      "Name": "Em Breve"
+      "ImageUrl": "http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-83-52-metablogapi/7418.dreamspark_2D00_logo_5F00_thumb.jpg",
+      "Link": "https://www.dreamspark.com/",
+      "Name": "Ativação do Microsfot DreamSpark"
     }
   ],
   "Tracks": [
@@ -60,18 +65,23 @@
                 "Twitter": "http://www.twitter.com/lchies",
                 "Website": "http://lucaschies.azurewebsites.net"
               }
-            },
+            }
+          },
             {
               "SessionId": "DEV1",
               "Time": "09:05 AM - 09:50 AM",
               "Title": "Em Breve",
               "Speaker": {
-                "Name": "",
-                "Description": "",
-                "ImageUrl": "",
+                "Name": "Rafael Felipe - MVP",
+                "Description": "Profissional com mais de 10 anos de experiência, é MVP em Remote Desktop Services (RDS), é certificado Microsoft MCT, MCSE, MCSA, MCITP e MCTS. Profissional da Dell Computadores, é Consultor de Engenharia de Sistemas responsável pelo ambiente de aplicações remotas em caráter global, entre elas, Remote Desktop Services.",
+                "ImageUrl": "http://www.centrodeinovacao.org.br/Content/Images/Rafael%20Felipe%20Silva.JPG",
                 "Social": {
-                  "Twitter": ""
-                },
+                  "Facebook": "https://www.facebook.com/rfelipe21?fref=ts",
+                  "Linkedin": "http://br.linkedin.com/in/rafaelf",
+                  "Website": "http://rafaelfelipe.com/"
+                }
+              }
+            },
                 {
                   "SessionId": "Common3",
                   "Time": "09:50 AM - 10:05 AM",
@@ -82,11 +92,12 @@
                   "Time": "10:10 AM - 11:00 AM",
                   "Title": "Em Breve",
                   "Speaker": {
-                    "Name": "",
-                    "Description": "",
-                    "ImageUrl": "",
+                    "Name": "William Lagos",
+                    "Description": "Proprietário da Fábrica de Ideias Coworking e fundador da Efforia Nanocomputadores, graduado em Ciência da Computação pela PUCRS, possui especialidades nos campos de sistemas operacionais, computação embarcada e programação distribuída. ",
+                    "ImageUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xft1/v/t1.0-1/1528469_10208221403682896_8346683954004028554_n.jpg?oh=5229ced4178fa6c9cb1f3549e8cb3b74&oe=5759FBD7&__gda__=1465352990_38d9c9a9ecf4ad781e638be37bdeb8f4",
                     "Social": {
-                      "Twitter": ""
+                      "Twitter": "https://twitter.com/lagoswilliam",
+                      "Website": "http://www.efforia.com.br/"
                     }
                   }
                 },

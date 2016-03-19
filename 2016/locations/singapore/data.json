@@ -55,13 +55,33 @@
       "Name": "RedGate",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-redgate.png",
       "Link": "http://rd.gt/1x5Mx7O"
+    },
+    {
+      "Name": "Parallels",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-parallels.png",
+      "Link": "http://www.parallels.com/products/desktop/"
     }
   ],
   "Prizes": [
+     {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-parallels.jpg",
+      "Link": "http://www.parallels.com/products/desktop/",
+      "Name": "Parallels Desktop for Mac"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-aspose-total.png",
+      "Link": "http://www.aspose.com/total-component-suite.aspx",
+      "Name": "Aspose.Total Product Family"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-SQL Source Control.png",
+      "Link": "http://www.red-gate.com/products/sql-development/sql-source-control/",
+      "Name": "Redgate SQL Source Control"
+    },
     {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
       "Link": "#",
-      "Name": "Coming Soon"
+      "Name": "More, Coming Soon"
     }
   ],
   "Tracks": [
@@ -104,13 +124,13 @@
         {
           "SessionId": "DEV2",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "Using HSM in Azure Keyvault for ASP.NET Core 1.0 and Entity Framework Core 1.0",
+          "Title": "Maximize usage, retention and monetization for mobile applications using Azure Mobile Engagement",
           "Speaker": {
-            "Name": "Riza Marhaban",
-            "Description": "Riza is a long time developers and he is managing communities such as the .NET Developers Community and Azure Community in Singapore. He is also a speaker and trainer. His motto is \"I'm just a simple developer\".",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/riza.jpg",
+            "Name": "Wely Lau",
+            "Description": "Microsoft",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/wely.jpg",
             "Social": {
-              "Facebook": "https://www.facebook.com/riza.marhaban"
+              "Website": "https://http://wely-lau.net/"
             }
           }
         },
@@ -141,25 +161,25 @@
         },
         {
           "SessionId": "DEV4",
-          "Time": "2:30 PM - 3:30 PM",
-          "Title": "TBD",
+         "Time": "2:30 PM - 3:30 PM",
+          "Title": "Using HSM in Azure Keyvault for ASP.NET Core 1.0 and Entity Framework Core 1.0",
           "Speaker": {
-            "Name": "Senthamil Selvan",
-            "Description": "Senthamil Selvan is a Windows Development MVP. He has over 13+ years of experience in IT industry. He has experience in pre-sales, design, development and deployment of SharePoint and Office 365 Applications. He is passionate on Windows Phone and Windows tablet app design and development. He is managing his own Windows Phone UG in Singapore. He had developed several Apps for windows phone and tablet.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
+            "Name": "Riza Marhaban",
+            "Description": "Riza is a long time developers and he is managing communities such as the .NET Developers Community and Azure Community in Singapore. He is also a speaker and trainer. His motto is \"I'm just a simple developer\".",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/riza.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/altfo",
-              "Facebook": "https://www.facebook.com/altfo"
+              "Facebook": "https://www.facebook.com/riza.marhaban"
             }
           }
         },
         {
           "SessionId": "DEV5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD",
+          "Title": "Build Intelligent Apps with Microsoft Azure Machine Learning",
           "Speaker": {
             "Name": "Ujjwal Kumar",
-            "Description": "Microsoft"
+            "Description": "Ujjwal is Sr Technical Evangelist in Microsoft Singapore and he focuses on Azure",
+            "ImageUrl": "http://www.pgconnects.com/bangalore/wp-content/uploads/sites/6/2015/03/Ujjwal-Kumar-500x500.jpg"
           }
         },
         {
@@ -205,11 +225,11 @@
         {
           "SessionId": "ITPRO1",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "Operational Guidance for Azure",
+          "Title": "Tips & Trick of PowerShell for Azure",
           "Speaker": {
-            "Name": "Anand MS",
-            "Description": "As a Cloud Solution Architect with Microsoft, Anand's current role involves enabling partners & customers to envision, design and deploy the right Microsoft Azure solutions to meet their exact needs. Apart from Microsoft Azure, his areas of expertise include Directory Services, Virtualization, Private and Hybrid clouds. With a wide range of technological experience over 18 years in the industry, he been assisting partners & customers in rapidly finding solutions to their technology challenges.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/anandms.jpg"
+            "Name": "Triston Wan",
+            "Description": "Triston Wan is Skype for Business MVP. He has over 10 years of experience in IT industry. He has experience in deployment, project management, pre-sales and consulting practice. He is passionate about technology and he is an active contributor/speaker in local technology communities.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/triston.jpg"
           }
         },
         {
@@ -249,23 +269,28 @@
           "Time": "2:15 PM - 2:13 PM",
           "Title": "Break"
         },
-        {
-          "SessionId": "ITPRO4",
+        {         
+           "SessionId": "ITPRO4",
           "Time": "2:30 PM - 3:30 PM",
-          "Title": "TBD",
+          "Title": "Operational Guidance for Azure",
           "Speaker": {
-            "Name": "Triston Wan",
-            "Description": "Microsoft MVP",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/triston.jpg"
+            "Name": "Anand MS",
+            "Description": "As a Cloud Solution Architect with Microsoft, Anand's current role involves enabling partners & customers to envision, design and deploy the right Microsoft Azure solutions to meet their exact needs. Apart from Microsoft Azure, his areas of expertise include Directory Services, Virtualization, Private and Hybrid clouds. With a wide range of technological experience over 18 years in the industry, he been assisting partners & customers in rapidly finding solutions to their technology challenges.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/anandms.jpg"
           }
         },
         {
           "SessionId": "ITPRO5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD",
+          "Title": "Azure Enterprise Mobility Suite (EMS)",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC"
+            "Name": "Senthamil Selvan",
+            "Description": "Senthamil Selvan is awarded as Microsoft MVP in Windows Development. He has 11+ years of experience in Microsoft Platform including Windows Forms, SharePoint and Universal Apps development. He has published several Windows Apps in the Store - 8 Windows Phone and 5 Windows Store Apps.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
+            "Social": {
+              "Twitter": "http://www.twitter.com/altfo",
+              "Facebook": "https://www.facebook.com/altfo"
+            }
           }
         },
         {
@@ -310,14 +335,14 @@
         {
           "SessionId": "DATA1",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "TBC",
+          "Title": "Introduction to Azure Machine Learning",
           "Speaker": {
-            "Name": "Mohamed Faizal",
-            "Description": "Microsoft MVP",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
+            "Name": "Rene Modery",
+            "Description": "Rene, Microsoft MVP, has more than 10 years of experience in IT, with more than 8 years of experience with SharePoint and Office 365 technologies. During his career, he has worked in Europe and Asia Pacific, and collaborated with teams all over the world.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/rene.jpg",
             "Social": {
-                "Twitter": "http://www.twitter.com/kmdfaizal",
-                "Facebook" :"https://www.facebook.com/kmdfaizal"
+                "Twitter": "http://www.twitter.com/modery",
+                "Website" :"http://modery.net/"
             }
           }
         },
@@ -342,7 +367,7 @@
           "Title": "Planning & Deploying your SharePoint farm in Microsoft Azure",
           "Speaker": {
             "Name": "Thuan Nguyen",
-            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many “crazy” ideas that can arouse the community and market.",
+            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many ï¿½crazyï¿½ ideas that can arouse the community and market.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Thuan-Nguyen.jpg"
           }
         },
@@ -357,26 +382,32 @@
           "Title": "PowerApps",
           "Speaker": {
             "Name": "Riwut Libinuko",
-            "Description": "Microsoft MVP",
+            "Description": "Riwut Libinuko is a SharePoint Server MVP, Principal Solution Architect with Simulation Software and Technology. He has been involved in SharePoint environment since the SharePoint 2001, when he was the power user in Indonesia. Since then, he has helped many other IT Pro and Developer on their SharePoint solution either offline or online. Riwut has worked and build SharePoint platform for one of largest investment bank, with geo-distributed farm that supports the core business. He wrote and published code samples from real-live engagement through MSDN code samples, Github and Codeplex",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Riwut-Libinoko.jpg"
           }
         },
         {
           "SessionId": "DATA5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD",
+          "Title": "Analyzing and Visualizing Data with Power BI",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC"
+            "Name": "Mohamed Faizal",
+            "Description": "Faizal, Microsoft MVP, has 17+years' experience in Enterprise Solutions, SharePoint, Cloud Architect (PaaS/SaaS) with extensive experience on developing .NET, SharePoint 2007,2010 and 2013 solutions on the cloud or on premise. Faizal has consulted for many enterprise companies and government agencies",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
+            "Social": {
+                "Twitter": "http://www.twitter.com/kmdfaizal",
+                "Facebook" :"https://www.facebook.com/kmdfaizal"
+            }
           }
         },
         {
           "SessionId": "DATA6",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "TBD",
+          "Title": "Azure HDInsight",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC"
+            "Name": "Sarbjit Singh",
+            "Description": "Sarbjit brings 24 years of IT experience spanning consulting, architecting and training for Microsoft technologies such as Lync, Exchange, SQL Server, SharePoint, Windows Server, Active Directory, System Center range of products. I am also experienced in carrying out a Microsoft IO (Infrastructure Optimization) and Implementation of the MS MOF (Microsoft Operations Framework). Since 2005, he has been a Microsoft Most Valuable Professional (MVP) with Technical Expertise in Lync, Skype for Business,  SCOM and SharePoint.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/ssingh.jpg"           
           }
         },
         {

@@ -1,0 +1,138 @@
+{
+  "Location": {
+    "Name": "Hong Kong",
+    "Latitude": 22.278734,
+    "Longitude": 114.171664,
+    "Address": "21／F, The Phoenix, 23 Luard Road, Wanchai, Hong Kong"
+  },
+  "Social": {
+    "Eventbrite": "https://www.eventbrite.hk/e/microsoft-global-windows-azure-bootcamp-2016-tickets-20272819549",
+    "Twitter": "https://twitter.com/candrholdings"
+  },
+  "Callout": {
+    "Text": "Registration",
+    "Link": "https://www.eventbrite.hk/e/microsoft-global-windows-azure-bootcamp-2016-tickets-20272819549",
+    "Type": "info"
+  },
+  "Organizers": [
+    {
+      "Name": "Sandy Zeng",
+      "Social": {
+        "Website": "http://www.candrholdings.com",
+        "Email": "sandy.zeng@candrholdings.com"
+      }
+    }
+  ],
+  "Sponsors": [
+    {
+      "Name": "Microsoft",
+      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
+      "Link": "http://www.microsoft.com"
+    }
+  ],
+  "Prizes": [
+    {
+      "ImageUrl": "https://gallery.mailchimp.com/b1f375f85c406b5601e97c1e7/images/24ee0469-7dac-4bc7-8285-0f450f4a562d.png",
+      "Link": "TBC",
+      "Name": "C&R Souvenir"
+    },
+    {
+      "ImageUrl": "https://gallery.mailchimp.com/b1f375f85c406b5601e97c1e7/images/d4dad44a-f0cc-43ff-a079-a9e5be0c365f.jpg",
+      "Link": "TBC",
+      "Name": "Microsoft Souvenir"
+    },
+    {
+      "ImageUrl": "https://gallery.mailchimp.com/b1f375f85c406b5601e97c1e7/images/24ee0469-7dac-4bc7-8285-0f450f4a562d.png",
+      "Link": "TBC",
+      "Name": "Certificate"
+    }
+  ],
+  "Tracks": [
+    {
+      "Sessions": [
+        {
+          "Time": "13:00 - 13:15",
+          "Title": "Registration",
+          "Speaker": {
+            "Name": "TBC",
+            "ImageUrl": "",
+            "Description": "TBC",
+            "Social": {
+              "Twitter": "TBC",
+              "Website": "TBC"
+            }
+          }
+        },
+        {
+          "Time": "13:15 - 14:00",
+          "Title": "Keynote: Introduction to the Cloud and the Cadence of Azure",
+          "Speaker": {
+            "Name": "Raymond Wong",
+            "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/raymond.jpg",
+            "Description": "Managing Director, C&R Holdings Limited. As a passionate software developer, Raymond enjoys leading his team to build cutting-edge software applications, actively participate in research for new discovery as well as develop new software products to better serve the community. 
+",
+            "Social": {
+              "Twitter": "https://github.com/raymondkpwong",
+              "Website": "http://www.candrholdings.com"
+            }
+          }
+        },
+        {
+          "Time": "14:00 - 14:15",
+          "Title": "Break",
+          "Speaker": {
+            "Name": "TBC",
+            "ImageUrl": "TBC",
+            "Description": "TBC",
+            "Social": {
+              "Twitter": "TBC",
+              "Website": "TBC"
+            }
+          }
+        },
+
+      {
+          "Time": "14:15 - 15:45",
+          "Title": "Hands-On Lab: Real-time analytics with Azure Stream Analytics and Power BI",
+          "Speaker": {
+            "Name": "Thomas Weiss",
+            "ImageUrl": "https://gallery.mailchimp.com/b1f375f85c406b5601e97c1e7/images/b187ee96-7810-4e93-9d9f-4ea97f41fccd.jpg",
+            "Description": "Founder, Additive Labs. Working with Microsoft technologies for the past 15 years, Thomas provides consulting services in Hong Kong for businesses looking to leverage the Microsoft Azure platform and modernize their IT.",
+            "Social": {
+              "Website": "http://www.additivelabs.com",
+            }
+          }
+        },
+        {
+          "Time": "15:45 - 16:00",
+          "Title": "Break",
+          "Speaker": {
+            "Name": "TBC",
+            "ImageUrl": "TBC",
+            "Description": "TBC",
+            "Social": {
+              "Twitter": "TBC",
+              "Website": "TBC"
+            }
+          }
+        },
+        
+       {
+          "Time": "16:00 - 17:00",
+          "Title": "Hands-On Lab: Building applications using Azure App Service",
+          "Speaker": {
+            "Name": "William Wong",
+            "ImageUrl": "https://cnrwordpress.azurewebsites.net/wp-content/uploads/2015/02/william.jpg",
+            "Description": "Solution Architect, C&R Holdings Limited. William has been in the IT industry for more than 10 years. As a Microsoft alumni, he has sharpened his skills by focusing on front end technologies and toolchain development through engaging in different projects in both Hong Kong and the US Headquarters. 
+",
+            "Social": {
+              "Twitter": "https://github.com/compulim",
+              "Website": "http://www.candrholdings.com"
+            }
+          }
+        }      
+      ]
+    }
+    
+  ]
+}

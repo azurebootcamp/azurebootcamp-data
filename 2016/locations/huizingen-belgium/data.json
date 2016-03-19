@@ -1,0 +1,57 @@
+﻿{
+  "Location": {
+    "Name": "GAB Huizingen",
+    "Latitude": 50.7525945,
+    "Longitude": 4.2625683,
+    "Address": "A. Vaucampslaan 42, 1654 Huizingen, Belgium"
+  },
+  "Social": {
+    "Twitter": "https://twitter.com/AZUGbe"
+  },
+  "Callout": {
+    "Text": "Register Now!",
+    "Link": "https://www.eventbrite.com/e/2016-04-16-global-azure-bootcamp-huizingen-tickets-21449025613",
+    "Type": "success"
+  },
+  "Organizers": [
+    {
+      "Name": "Maarten Balliauw",
+      "Social": {
+        "Website": "http://blog.maartenballiauw.be/",
+        "Email": "maarten@balliauw.be",
+        "Twitter": "https://twitter.com/maartenballiauw"
+      }
+    },
+    {
+      "Name": "Wesley Cabus",
+      "Social": {
+        "Website": "https://wesleycabus.be",
+        "Email": "wesley.cabus@realdolmen.com",
+        "Twitter": "https://twitter.com/wesleycabus"
+      }
+    },
+    {
+      "Name": "Glenn Colpaert",
+      "Social": {
+        "Email": "glenn.colpaert@codit.eu",
+        "Twitter": "https://twitter.com/glenncolpaert"
+      }
+    },
+    {
+      "Name": "Tom Kerkhove",
+      "Social": {
+        "Website": "http://tomkerkhove.ghost.io/",
+        "Email": "kerkhove.tom@gmail.com",
+        "Twitter": "https://twitter.com/tomkerkhove"
+      }
+    },
+    {
+      "Name": "Kris van der Mast",
+      "Social": {
+        "Website": "http://blog.krisvandermast.com/",
+        "Email": "kris.vandermast@gmail.com",
+        "Twitter": "https://twitter.com/KvdM"
+      }
+    }
+  ]
+}
