@@ -24,15 +24,9 @@
         "WebsiteUrl":"http://gwabhongkong.azurewebsites.net/", 
         "Show": true
     },
-    {
-      "Name": "Mexico",
-      "WebsiteUrl": "http://bootcamp.azurewebsites.net/",
-      "Show": true
-    },
-    {
-        "Name": "Aarhus (Denmark)",
-        "Folder":"aarhus-denmark",
-        "WebsiteUrl":"http://aarhus-azurebootcamp.azurewebsites.net/", 
+    { 
+        "Name":"Mexico",
+        "WebsiteUrl":"http://bootcamp.azurewebsites.net/", 
         "Show": true
     },
     { 
