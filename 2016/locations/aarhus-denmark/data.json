@@ -1,0 +1,209 @@
+﻿{
+  "Location": {
+    "Name": "Incuba",
+    "Latitude": 56.1721369,
+    "Longitude": 10.18771215,
+    "Address": "Åbogade 15, Århus N"
+  },
+  "Social": {
+    "Meetup": "http://www.meetup.com/Aarhus-Global-Azure-Bootcamp-2016/",
+    "Facebook": "https://www.facebook.com/events/629236217149100"
+  },
+  "Callout": {
+    "Text": "Call for speakers",
+    "Link": "https://www.linkedin.com/groups/3520401",
+    "Type": "info"
+  },
+  "Organizers": [
+    {
+      "Name": "Peter Selch Dahl",
+      "Social": {
+        "Website": "https://about.me/peterselchdahl",
+        "Email": "peterselchdahl@gmail.com"
+      }
+    }
+  ],
+  "Sponsors": [
+    {
+      "Name": "ProActive",
+      "Image": "http://aarhus-azurebootcamp.azurewebsites.net/images/ProActive.png",
+      "Link": "http://www.proactive.dk"
+    },
+    {
+      "Name": "Klestrup Partners",
+      "Image": "http://aarhus-azurebootcamp.azurewebsites.net/images/KlestrupPartners.png",
+      "Link": "http://www.klestrup.dk/"
+    },
+    {
+      "Name": "ITC ApS",
+      "Image": "http://aarhus-azurebootcamp.azurewebsites.net/images/itc.png",
+      "Link": "http://www.itc.dk"
+    },
+    {
+      "Name": "Microsoft",
+      "Image": "http://slant.investorplace.com/files/2013/07/MSFT_logo_png.png",
+      "Link": "http://www.microsoft.com"
+    }
+  ],
+  "Prizes": [
+     {
+      "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
+      "Link": "#",
+      "Name": "More, Coming Soon... Awaiting Microsoft DK :) "
+    }
+  ],
+ "Tracks": [
+    {
+      "Name": "Developer Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "11:30 - 12:00",
+          "Title": "Velkommen til Azure Global Bootcamp, frokost og registrering"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 - 12:15",
+          "Title": "Bootcamp Kickoff (Keynote), Lille Auditorium",
+          "Speaker": {
+           "Name": "Peter Selch Dahl",
+           "Description": "Peter is a Azure Microsoft Valuable Professional (MVP) and a Microsoft P-Seller.",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PeterSelchDahl.png"
+          }
+        },
+         {
+          "SessionId": "Common3",
+          "Time": "12:15 - 12:20",
+          "Title": "Break / Pause"
+        },
+        {
+          "SessionId": "DEV1",
+          "Time": "12:30 - 13:15",
+          "Title": "TBA (Perhaps Service Fabric or Azure IoT), Lille Auditorium",
+          "Speaker": {
+            "Name": "Claus Nielsen",
+            "Description": "TBC",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ClausNielsen.jpg"
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "13:15 - 13:30",
+          "Title": "Break / Pause",
+          "Speaker": {
+            "Name": "Mads Damgård",
+            "Description": "",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/MadsDamgaard.jpg"
+          }
+        },
+         {
+          "SessionId": "DEV2",
+          "Time": "13:30 - 14:45",
+          "Title": "TBA ",
+          "Speaker": {
+            "Name": "TBA",
+            "Description": "",
+            "ImageUrl": ""
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "14:45 - 15:00",
+          "Title": "Afternoon Coffee Break - Thanks to Klestrup Partners for bringing the cake"
+        },
+        {
+          "SessionId": "DEV6",
+          "Time": "15:30 - 16:15",
+          "Title": "Azure Application Insights",
+          "Speaker": {
+            "Name": "Anders Rask",
+            "Description": "TBC",
+      			"ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/AndersRask.jpg"
+          }
+        },
+        {
+          "SessionId": "DEV7",
+          "Time": "16:30 - 17:15",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBC",
+            "Description": "TBC",
+			"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
+          }
+        }      
+      ]
+    },
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+
+        {
+          "SessionId": "ITPRO1",
+          "Time": "12:30 - 13:15",
+          "Title": "Windows 10 and Azure AD",
+          "Speaker": {
+            "Name": "Jesper Nielsen",
+            "Description": "Jesper is a Windows Evangalist working for ATEA Denmark. He is the founder of Everything Windows User Group (http://ewug.dk) ",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JesperNielsen.jpg"
+          }
+        },
+         {
+          "SessionId": "Common2",
+          "Time": "13:15 - 13:30",
+          "Title": "Break / Pause",
+             "Speaker": {
+            "Name": "Mads Damgård",
+            "Description": "Mads is part of a newly created Azure customer team within Microsoft Denmark that helps Danish businesses with adoption of Azure. Mads been with Microsoft for many year and is a super awesome guy",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/aarhus-denmark/MadsDamgaard.jpg"
+          }
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "13:30 - 14:45",
+          "Title": "Microsoft Azure AD and EMS",
+          "Speaker": {
+            "Name": "Per Larsen",
+            "Description": "",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PerLarsen.jpg"
+          }
+        },
+        {
+          "SessionId": "ITPRO6",
+          "Time": "15:30 - 16:15",
+          "Title": "Cool stuff with Microsoft RDS 2016 and GPU + Azure RemoteApp",
+          "Speaker": {
+            "Name": "Thomas Poppelgaard",
+            "Description": "Microsoft RDS MVP",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ThomasPoppelgaard.jpg"
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "16:15 - 16:30",
+          "Title": "Break / Pause"
+        },
+         {
+          "SessionId": "ITPRO7",
+          "Time": "16:30 - 17:15",
+          "Title": "Deploying IaaS with Azure Resource Manager, Lille Auditorium",
+          "Speaker": {
+            "Name": "Peter Selch Dahl",
+            "Description": "",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PeterSelchDahl.jpg"
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "17:15 -17:30",
+          "Title": "Afslutning af Bootcamp (Closing), Lille Auditorium"
+        }
+      ]
+    }
+  ],
+  "Campaigns": [
+  {
+    "Text": "Call for speakers",
+    "Link": "https://www.linkedin.com/groups/3520401"
+  }
+]
+}
