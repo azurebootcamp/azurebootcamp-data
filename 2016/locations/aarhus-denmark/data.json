@@ -82,8 +82,8 @@
           "Title": "TBA (Perhaps Service Fabric or Azure IoT), Lille Auditorium",
           "Speaker": {
             "Name": "Claus Nielsen",
-            "Description": "TBC",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ClausNielsen.jpg"
+            "Description": "Claus Nielsen er CTO for Sekoia (http://sekoia.dk). Sekoia er en point of care løsning baseret på Microsoft Azure til plejecentre, specialinstitutioner og bosteder. Med flere end 30 applikationer understøtter vi personalets faglige behov og hjælper dem med at smidiggøre deres arbejdsgange.",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ClausNielsen.png"
           }
         },
         {
@@ -92,7 +92,7 @@
           "Title": "Break / Pause",
           "Speaker": {
             "Name": "Mads Damgård",
-            "Description": "",
+            "Description": "Mads is a Cloud Solution Architect in Microsoft working with customers and partners to maximize the business opportunities of Cloud computing as well as building up Cloud knowledge on the Microsoft Azure platform. He has been with Microsoft Denmark for more than 10 years",
             "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/MadsDamgaard.jpg"
           }
         },
@@ -117,19 +117,14 @@
           "Title": "Azure Application Insights",
           "Speaker": {
             "Name": "Anders Rask",
-            "Description": "TBC",
-      			"ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/AndersRask.jpg"
+            "Description": "SharePoint Architect & developer in Denmark",
+      			"ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/AndersRask.png"
           }
         },
         {
           "SessionId": "DEV7",
           "Time": "16:30 - 17:15",
-          "Title": "TBD",
-          "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC",
-			"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/avatar.jpg"
-          }
+          "Title": "TBD"
         }      
       ]
     },
@@ -143,8 +138,8 @@
           "Title": "Windows 10 and Azure AD",
           "Speaker": {
             "Name": "Jesper Nielsen",
-            "Description": "Jesper is a Windows Evangalist working for ATEA Denmark. He is the founder of Everything Windows User Group (http://ewug.dk) ",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JesperNielsen.jpg"
+            "Description": "Jesper is a Solution Architect & Technology Evangelist working for ATEA Denmark. He is the founder of Everything Windows User Group (http://ewug.dk) ",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JesperNielsen.png"
           }
         },
          {
@@ -163,8 +158,8 @@
           "Title": "Microsoft Azure AD and EMS",
           "Speaker": {
             "Name": "Per Larsen",
-            "Description": "",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PerLarsen.jpg"
+            "Description": "Per work as Senior Consultant in Atea Denmark A/S. He is a EMS Ninja that loves working with Intune and deployment. Find his blog here: https://osddeployment.wordpress.com. Per have worked with Deployment of OS and Application since 1998. Per works with Microsoft technologies: Intune, EMS, Azure AD, SCCM, MDT, RDS, Windows Client, Enterprise Client Management, GPO, MDOP.",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PerLarsen.png"
           }
         },
         {
@@ -173,8 +168,8 @@
           "Title": "Cool stuff with Microsoft RDS 2016 and GPU + Azure RemoteApp",
           "Speaker": {
             "Name": "Thomas Poppelgaard",
-            "Description": "Microsoft RDS MVP",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ThomasPoppelgaard.jpg"
+            "Description": "Thosmas is a Microsoft MVP in RDS. He is his own boss at his own company, where he have clients globally and his company goal is to better help business adapt new technologies. He is a Technology Evangelist, and a subject matter expert on remote graphics, where he help companies globally how they can virtualize 2D/3D graphics in the cloud. His clients are both Vendors, ISV, ISP, Distributors, Resellers and End customers.",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ThomasPoppelgaard.png"
           }
         },
         {
