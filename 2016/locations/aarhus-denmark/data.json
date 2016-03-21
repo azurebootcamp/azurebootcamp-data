@@ -46,13 +46,13 @@
     }
   ],
   "Prizes": [
-     {
+    {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
       "Link": "#",
       "Name": "More, Coming Soon... Awaiting Microsoft DK :) "
     }
   ],
- "Tracks": [
+  "Tracks": [
     {
       "Name": "Developer Track",
       "Sessions": [
@@ -66,12 +66,12 @@
           "Time": "12:00 - 12:15",
           "Title": "Bootcamp Kickoff (Keynote), Lille Auditorium",
           "Speaker": {
-           "Name": "Peter Selch Dahl",
-           "Description": "Peter is a Azure Microsoft Valuable Professional (MVP) and a Microsoft P-Seller.",
+            "Name": "Peter Selch Dahl",
+            "Description": "Peter is a Azure Microsoft Valuable Professional (MVP) and a Microsoft P-Seller.",
             "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PeterSelchDahl.png"
           }
         },
-         {
+        {
           "SessionId": "Common3",
           "Time": "12:15 - 12:20",
           "Title": "Break / Pause"
@@ -96,7 +96,7 @@
             "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/MadsDamgaard.jpg"
           }
         },
-         {
+        {
           "SessionId": "DEV2",
           "Time": "13:30 - 14:45",
           "Title": "TBA ",
@@ -118,14 +118,14 @@
           "Speaker": {
             "Name": "Anders Rask",
             "Description": "SharePoint Architect & developer in Denmark",
-      			"ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/AndersRask.png"
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/AndersRask.png"
           }
         },
         {
           "SessionId": "DEV7",
           "Time": "16:30 - 17:15",
           "Title": "TBD"
-        }      
+        }
       ]
     },
     {
@@ -142,11 +142,11 @@
             "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JesperNielsen.png"
           }
         },
-         {
+        {
           "SessionId": "Common2",
           "Time": "13:15 - 13:30",
           "Title": "Break / Pause",
-             "Speaker": {
+          "Speaker": {
             "Name": "Mads Damgård",
             "Description": "Mads is part of a newly created Azure customer team within Microsoft Denmark that helps Danish businesses with adoption of Azure. Mads been with Microsoft for many year and is a super awesome guy",
             "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/aarhus-denmark/MadsDamgaard.jpg"
@@ -165,11 +165,11 @@
         {
           "SessionId": "ITPRO6",
           "Time": "15:30 - 16:15",
-          "Title": "Cool stuff with Microsoft RDS 2016 and GPU + Azure RemoteApp",
+          "Title": "Deploying IaaS with Azure Resource Manager, Lille Auditorium",
           "Speaker": {
-            "Name": "Thomas Poppelgaard",
-            "Description": "Thosmas is a Microsoft MVP in RDS. He is his own boss at his own company, where he have clients globally and his company goal is to better help business adapt new technologies. He is a Technology Evangelist, and a subject matter expert on remote graphics, where he help companies globally how they can virtualize 2D/3D graphics in the cloud. His clients are both Vendors, ISV, ISP, Distributors, Resellers and End customers.",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ThomasPoppelgaard.png"
+            "Name": "Peter Selch Dahl",
+            "Description": "",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PeterSelchDahl.jpg"
           }
         },
         {
@@ -180,11 +180,11 @@
          {
           "SessionId": "ITPRO7",
           "Time": "16:30 - 17:15",
-          "Title": "Deploying IaaS with Azure Resource Manager, Lille Auditorium",
+          "Title": "Cool stuff with Microsoft RDS 2016 and GPU + Azure RemoteApp",
           "Speaker": {
-            "Name": "Peter Selch Dahl",
-            "Description": "",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/PeterSelchDahl.jpg"
+            "Name": "Thomas Poppelgaard",
+            "Description": "Thosmas is a Microsoft MVP in RDS. He is his own boss at his own company, where he have clients globally and his company goal is to better help business adapt new technologies. He is a Technology Evangelist, and a subject matter expert on remote graphics, where he help companies globally how they can virtualize 2D/3D graphics in the cloud. His clients are both Vendors, ISV, ISP, Distributors, Resellers and End customers.",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/ThomasPoppelgaard.png"
           }
         },
         {
