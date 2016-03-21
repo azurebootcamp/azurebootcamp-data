@@ -44,22 +44,44 @@
     {
       "Name": "Microsoft",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
-      "Link": "http://www.microsoft.com"
-    },
+      "Link": "http://www.microsoft.com",
+      "Category": "1|Local Sponsors"
+    },  
     {
       "Name": "Aspose",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-aspose.png",
-      "Link": "http://www.aspose.com/"
+      "Link": "http://www.aspose.com/",
+      "Category": "1|Local Sponsors"
     },
     {
       "Name": "RedGate",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-redgate.png",
-      "Link": "http://rd.gt/1x5Mx7O"
+      "Link": "http://rd.gt/1x5Mx7O",
+      "Category": "1|Local Sponsors"
     },
     {
       "Name": "Parallels",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-parallels.png",
-      "Link": "http://www.parallels.com/products/desktop/"
+      "Link": "http://www.parallels.com/products/desktop/",
+      "Category": "1|Local Sponsors"
+    },
+    {
+      "Name": "BlueSyntax",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/bluesyntax.png",
+      "Link": "http://www.bluesyntaxconsulting.com/",
+      "Category": "2|Global Sponsors"
+    },
+    {
+      "Name": "CloudMonix",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/CloudMonix.png",
+      "Link": "http://cloudmonix.com/?utm_source=gab2016&utm_medium=web&utm_campaign=gab2016",
+      "Category": "2|Global Sponsors"
+    },
+    {
+      "Name": "Azure Dockit",
+      "Image": "http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/01/adklogohome-2.png",
+      "Link": "http://www.azuredockit.com/",
+      "Category": "2|Global Sponsors"
     }
   ],
   "Prizes": [
