@@ -118,14 +118,14 @@
       "Name": "Cloud Monix Subscription"
     },
     {
-       "Name": "Azure Dockit Subscription",
-      "Image": "http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/01/adklogohome-2.png",
-      "Link": "http://www.azuredockit.com/"
+       "ImageUrl": "http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/01/adklogohome-2.png",
+       "Link": "http://www.azuredockit.com/",
+       "Name": "Azure Dockit Subscription"
     },
     {
-      "Name": "Enzo Cloud Backup",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/bluesyntax.png",
-      "Link": "http://www.bluesyntaxconsulting.com/"
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/bluesyntax.png",
+      "Link": "http://www.bluesyntaxconsulting.com/",
+      "Name": "Enzo Cloud Backup"
     },
     {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
