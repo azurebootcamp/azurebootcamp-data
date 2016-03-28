@@ -147,17 +147,17 @@
     },
     {
       "Name": "MyGet Subscription",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/myget.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/myget.png",
       "Link": "https://myget.org/"
     },
     {
       "Name": "JetBrains License",
-      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/JBwo_JetBrains_2-320x320.png",
+      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/JBwo_JetBrains_2-320x320.png",
       "Link": "http://www.azuredockit.com/"
     },
     {
       "Name": "CODE Magazine Subscription",
-      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
+      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
       "Link": "http://www.codemag.com/magazine"
     },
     {
