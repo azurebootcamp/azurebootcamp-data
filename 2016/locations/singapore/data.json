@@ -94,6 +94,24 @@
       "Image": "http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/01/adklogohome-2.png",
       "Link": "http://www.azuredockit.com/",
       "Category": "4|Global Sponsors"
+    },
+    {
+      "Name": "MyGet",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/myget.png",
+      "Link": "https://myget.org/",
+      "Category": "4|Global Sponsors"
+    },
+    {
+      "Name": "JetBrains",
+      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/JBwo_JetBrains_2-320x320.png",
+      "Link": "http://www.azuredockit.com/",
+      "Category": "4|Global Sponsors"
+    },
+    {
+      "Name": "CODE Magazine",
+      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
+      "Link": "http://www.codemag.com/magazine",
+      "Category": "4|Global Sponsors"
     }
   ],
   "Prizes": [
@@ -126,6 +144,21 @@
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/bluesyntax.png",
       "Link": "http://www.bluesyntaxconsulting.com/",
       "Name": "Enzo Cloud Backup"
+    },
+    {
+      "Name": "MyGet Subscription",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/myget.png",
+      "Link": "https://myget.org/"
+    },
+    {
+      "Name": "JetBrains License",
+      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/JBwo_JetBrains_2-320x320.png",
+      "Link": "http://www.azuredockit.com/"
+    },
+    {
+      "Name": "CODE Magazine Subscription",
+      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
+      "Link": "http://www.codemag.com/magazine"
     },
     {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
