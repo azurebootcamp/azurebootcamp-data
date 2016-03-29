@@ -54,11 +54,23 @@
       "Category": "2|Silver Sponsors"
     },
     {
+      "Name": "Insight",
+       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/insight.png",
+      "Link": "http://sg.insight.com/en_SG/home.html",
+      "Category": "2|Silver Sponsors"
+    },
+    {
       "Name": "Microsoft",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
       "Link": "http://www.microsoft.com",
       "Category": "3|Local Sponsors"
-    },  
+    },
+    {
+      "Name": "NetAssist",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/na.png",
+      "Link": "http://www.netassist.com.sg/default.aspx",
+      "Category": "3|Local Sponsors"
+    }, 
     {
       "Name": "Aspose",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-aspose.png",
