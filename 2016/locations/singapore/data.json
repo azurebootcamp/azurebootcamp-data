@@ -60,34 +60,28 @@
       "Category": "2|Silver Sponsors"
     },
     {
-      "Name": "Microsoft",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/msft.png",
-      "Link": "http://www.microsoft.com",
-      "Category": "3|Local Sponsors"
-    },
-    {
       "Name": "NetAssist",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/na.png",
       "Link": "http://www.netassist.com.sg/default.aspx",
-      "Category": "3|Local Sponsors"
-    }, 
+      "Category": "3|Lucky Draw Sponsors"
+    },
     {
       "Name": "Aspose",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-aspose.png",
       "Link": "http://www.aspose.com/",
-      "Category": "3|Local Sponsors"
+      "Category": "3|Lucky Draw Sponsors"
     },
     {
       "Name": "RedGate",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-redgate.png",
       "Link": "http://rd.gt/1x5Mx7O",
-      "Category": "3|Local Sponsors"
+      "Category": "3|Lucky Draw Sponsors"
     },
     {
       "Name": "Parallels",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-parallels.png",
       "Link": "http://www.parallels.com/products/desktop/",
-      "Category": "3|Local Sponsors"
+      "Category": "3|Lucky Draw Sponsors"
     },
     {
       "Name": "BlueSyntax",
