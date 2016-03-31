@@ -35,6 +35,12 @@
         "WebsiteUrl":"http://aarhus-azurebootcamp.azurewebsites.net/", 
         "Show": true
     },
+        {
+        "Name": "Malaysia",
+        "Folder":"malaysia",
+        "WebsiteUrl":"http://myazurebootcamp.azurewebsites.net//", 
+        "Show": true
+    },
     { 
         "Name":"Demo Site",
         "Folder":"Demo",
