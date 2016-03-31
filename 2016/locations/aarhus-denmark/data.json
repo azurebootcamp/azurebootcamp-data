@@ -125,7 +125,7 @@
         {
           "SessionId": "DEV6",
           "Time": "15:30 - 16:15",
-          "Title": "Azure Application Insights",
+          "Title": "Monitor application usage and performance using the awersome Azure Application Insights",
           "Speaker": {
             "Name": "Anders Rask",
             "Description": "SharePoint Solution Architect & Developer working at ProActive A/S. He specialize in SharePoint and SharePoint Online development/architecture. He worked with SharePoint since SPS 2001/Tahoe. He also have experience working with Azure IaaS and PaaS solutions.",
