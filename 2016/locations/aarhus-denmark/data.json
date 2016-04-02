@@ -110,9 +110,9 @@
         {
           "SessionId": "DEV2",
           "Time": "13:30 - 14:45",
-          "Title": "TBA - Ninja Docker Stuff by Johan - Whale Powered (Awaiting confirmation)",
+          "Title": "Ninja Docker Stuff by Johan - Whale Powered (Awaiting confirmation)",
           "Speaker": {
-            "Name": "Johan Sigfred Abildskov (Awaiting confirmation)",
+            "Name": "Johan Sigfred Abildskov",
             "Description": "Johan is a CoDe:er at Praqma",
             "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JohanSigfredAbildskov.jpg"
           }
