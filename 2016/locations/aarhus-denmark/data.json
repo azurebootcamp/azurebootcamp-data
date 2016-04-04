@@ -110,7 +110,7 @@
         {
           "SessionId": "DEV2",
           "Time": "13:30 - 14:45",
-          "Title": "Ninja Docker Stuff by Johan - Whale Powered (Awaiting confirmation)",
+          "Title": "Continuous Delivery with Docker on Azure - Ninja Docker and Jenkins Stuff by Johan - Whale Powered",
           "Speaker": {
             "Name": "Johan Sigfred Abildskov",
             "Description": "Johan is a CoDe:er at Praqma",
