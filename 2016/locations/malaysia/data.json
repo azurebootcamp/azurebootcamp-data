@@ -1,44 +1,38 @@
 {
   "Location": {
-    "Name": "Singapore",
+    "Name": "Malaysia",
     "Latitude": 1.282387,
     "Longitude": 103.850243,
-    "Address": "One Marina Boulevard, Singapore"
+    "Address": "Microsoft Malaysia, Level 26, Menara 3 Petronas Persiaran KLCC, Kuala Lumpur City Centre 50088, Malaysia"
   },
   "Social": {
-    "Meetup": "http://www.meetup.com/mssgug/events/227791830/",
+    "Meetup": "",
     "Facebook": "https://www.facebook.com/MWAPSG"
   },
   "Callout": {
-    "Text": "RSVP in waiting list today!",
-    "Link": "http://www.meetup.com/mssgug/events/227791830/",
+    "Text": "Register Now!",
+    "Link": "https://gabmy2016.eventbrite.com",
     "Type": "warning"
   },
   "Organizers": [
     {
-      "Name": "Faizal Mohamed",
+      "Name": "Aswin C.",
       "Social": {
-        "Email": "kmdfaizal@yahoo.com"
+        "Email": "aswinc@microsoft.com"
       }
     },
     {
-      "Name": "Alvin Lau",
+      "Name": "Abdullah Abbas",
       "Social": {
-        "Email": "microlau@gmail.com"
+        "Email": "doli@doli.us"
       }
     },
     {
-      "Name": "Punit Ganshani",
+      "Name": "Melody Yong",
       "Social": {
-        "Email": "punit.ganshani@gmail.com"
+        "Email": "melody.yong@infrontconsulting.com"
       }
     },
-    {
-      "Name": "Senthamil Selvan",
-      "Social": {
-        "Email": "altfo@hotmail.com"
-      }
-    }
   ],
   "Sponsors": [
     {
