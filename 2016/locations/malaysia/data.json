@@ -1,86 +1,86 @@
 {
   "Location": {
-    "Name": "Microsoft Malaysia",
+    "Name": "Singapore",
     "Latitude": 1.282387,
     "Longitude": 103.850243,
-    "Address": "Level 26, Menara 3 Petronas Persiaran KLCC, Kuala Lumpur City Centre 50088, Malaysia"
+    "Address": "One Marina Boulevard, Singapore"
   },
   "Social": {
-    "Meetup": "",
-    "Facebook": ""
+    "Meetup": "http://www.meetup.com/mssgug/events/227791830/",
+    "Facebook": "https://www.facebook.com/MWAPSG"
   },
   "Callout": {
-    "Text": "Register Now!",
-    "Link": "https://gabmy2016.eventbrite.com",
-    "Type": "success"
+    "Text": "RSVP in waiting list today!",
+    "Link": "http://www.meetup.com/mssgug/events/227791830/",
+    "Type": "warning"
   },
   "Organizers": [
     {
-      "Name": "Aswin C.",
+      "Name": "Faizal Mohamed",
       "Social": {
-        "Email": "aswinc@microsoft.com"
+        "Email": "kmdfaizal@yahoo.com"
       }
     },
     {
-      "Name": "Abdullah Abbas",
+      "Name": "Alvin Lau",
       "Social": {
-        "Email": "doli@doli.us"
+        "Email": "microlau@gmail.com"
       }
     },
     {
-      "Name": "Melody Yong",
+      "Name": "Punit Ganshani",
       "Social": {
-        "Email": "melody.yong@infrontconsulting.com"
+        "Email": "punit.ganshani@gmail.com"
       }
     },
     {
-      "Name": "",
+      "Name": "Senthamil Selvan",
       "Social": {
-        "Email": ""
+        "Email": "altfo@hotmail.com"
       }
     }
   ],
   "Sponsors": [
     {
-      "Name": "Veeam",
-      "Image": "",
-      "Link": "https://www.veeam.com",
+      "Name": "FPT Asia Pacific Pte. Ltd.",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/fpt.png",
+      "Link": "https://www.fpt.com.vn/en",
       "Category": "1|Gold Sponsor"
     },
     {
-      "Name": "Infront Consulting",
-      "Image": "",
-      "Link": "https://www.infrontconsulting.com",
+      "Name": "Global Knowledge Network Pte Ltd",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/GK.jpg",
+      "Link": "http://www.gkapac.com/",
       "Category": "2|Silver Sponsors"
     },
     {
-      "Name": "",
-       "Image": "",
-      "Link": "",
+      "Name": "Insight",
+       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/insight.png",
+      "Link": "http://sg.insight.com/en_SG/home.html",
       "Category": "2|Silver Sponsors"
     },
     {
-      "Name": "",
-      "Image": "",
-      "Link": "",
+      "Name": "NetAssist",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/na.png",
+      "Link": "http://www.netassist.com.sg/default.aspx",
       "Category": "3|Lucky Draw Sponsors"
     },
     {
-      "Name": "",
-      "Image": "",
-      "Link": "",
+      "Name": "Aspose",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-aspose.png",
+      "Link": "http://www.aspose.com/",
       "Category": "3|Lucky Draw Sponsors"
     },
     {
-      "Name": "",
-      "Image": "",
-      "Link": "",
+      "Name": "RedGate",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-redgate.png",
+      "Link": "http://rd.gt/1x5Mx7O",
       "Category": "3|Lucky Draw Sponsors"
     },
     {
-      "Name": "",
-      "Image": "",
-      "Link": "",
+      "Name": "Parallels",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-parallels.png",
+      "Link": "http://www.parallels.com/products/desktop/",
       "Category": "3|Lucky Draw Sponsors"
     },
     {
