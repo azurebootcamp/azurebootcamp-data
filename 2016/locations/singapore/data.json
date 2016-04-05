@@ -10,9 +10,9 @@
     "Facebook": "https://www.facebook.com/MWAPSG"
   },
   "Callout": {
-    "Text": "Registrations Open. RSVP today!",
+    "Text": "RSVP in waiting list today!",
     "Link": "http://www.meetup.com/mssgug/events/227791830/",
-    "Type": "success"
+    "Type": "warning"
   },
   "Organizers": [
     {
