@@ -159,7 +159,7 @@
           "Speaker": {
             "Name": "Raymond Chou",
             "Description": "Raymond Chou is the Regional Managing Principal Consultant for Redynamics Asia and Infront Consulting Group Asia Pacific, dynamic, future-driven companies that focuses on providing Systems Management and Virtualization consulting, implementation and training to companies mainly around the APAC region. He is a seasoned trainer and consultant and has been in the information technology industry for more than 10 years ever since the days of Windows 3.1. His focus is on the System Center product line and the team performs consulting and deployment exercises all over the region on Hyper-V, Operations Manager, Configuration Manager, Data Protection Manager, Virtual Machine Manager, Service Manager and App-V",
-            "ImageUrl": ""
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-raychou.png"
           }
         },
         {
@@ -194,7 +194,7 @@
           "Speaker": {
             "Name": "Darien Nagle",
             "Description": "Darien has over 30 years of IT experience including former positions at TIBCO and Microsoft. Darien has worked across Australia and Southeast Asia including as Specialist Director at Microsoft Malaysia. An accomplished Cloud Computing seller and recognized best-practices global speaker, Darien is a believer in a future of Platform-as-a-Service-based cloud applications. His expertise include establishing and embracing a customer's cloud journey and jointly developing a cloud technology roadmap incorporating some quick value-based wins up front. His current technologies and solutions expertise include Linux and Windows virtual machines in the cloud, SAP on Microsoft Azure, Sitecore and elastic websites, hybrid integration (EAI) in the cloud, elastic scale database and compute patterns (implemented for some of the largest customers in the world), test/dev and DevOps leveraging the cloud, networking considerations in globally distributed multi-clouds and hybrid environments.",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-darien.png",
             "Social": {
                 "Twitter" :""
             }
@@ -207,7 +207,7 @@
           "Speaker": {
             "Name": "Raymond Tan",
             "Description": "",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-raytan.png",
             "Social": {
               "Website": ""
             }
@@ -225,7 +225,7 @@
           "Speaker": {
             "Name": "Lai Yoong Seng",
             "Description": "Lai is a Systems Engineer for Veeam Software. He has helped many customers traverse to Microsoft Hyper-V, System Center, Microsoft Azure and Veeam throughout his 15 years of working experience in the IT industry. Besides that, Lai is a 6 years MVP on Cloud & Datacenter Management, been Microsoft P-Seller on Private and Hybrid Cloud for 3 years, nominated as 1st in South East Asia (SEA) as Veeam Vanguard and also Technical Reviewer for five (5) books on Hyper-V for Packt Publishing. He also participates as Technology Early Adopter (TAP) and Tester of Windows Server Vnext and System Center Vnext for 5 years. As the founder of Malaysia Virtualization User Group (MVUG), he is actively involved in contributing Virtualization activities and contents in Malaysia. He also shares all his findings and experience on his blog (www.ms4u.info). ",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-lai.png",
             "Social": {
                 "Twitter": "https://twitter.com/ericlaiys",
                 "Website": "http://www.ms4u.info",
@@ -240,6 +240,7 @@
           "Speaker": {
             "Name": "Darien Nagle",
             "Description": "Darien has over 30 years of IT experience including former positions at TIBCO and Microsoft. Darien has worked across Australia and Southeast Asia including as Specialist Director at Microsoft Malaysia. An accomplished Cloud Computing seller and recognized best-practices global speaker, Darien is a believer in a future of Platform-as-a-Service-based cloud applications. His expertise include establishing and embracing a customer's cloud journey and jointly developing a cloud technology roadmap incorporating some quick value-based wins up front. His current technologies and solutions expertise include Linux and Windows virtual machines in the cloud, SAP on Microsoft Azure, Sitecore and elastic websites, hybrid integration (EAI) in the cloud, elastic scale database and compute patterns (implemented for some of the largest customers in the world), test/dev and DevOps leveraging the cloud, networking considerations in globally distributed multi-clouds and hybrid environments.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-darien.png",
             "Social": {
                 "Twitter": "",
                 "Website": "",
@@ -259,7 +260,7 @@
           "Speaker": {
             "Name": "Ravishankar",
             "Description": "Ravishankar is a Microsoft Cloud Architect, who worked with Microsoft's Datacenter Center of Excellence (CoE) team, working with Hosting Service Providers (HSP) worldwide. He has 10+ years experience in designing and deployinh Hybrid and Public Cloud technologies such as Hyper-V, System Center, Azure and Office 365.",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-ravi.png",
             "Social": {
               "Facebook": ""
             }
@@ -282,7 +283,7 @@
           "Speaker": {
             "Name": "Juv Chan",
             "Description": "Juv Chan is a Senior Azure Developer for more than 2 years. He recently won the Microsoft Influencer Hero Asia Pacific 2015 - Developer category Grand Prize organized by Microsoft Asia Pacific, for his video contributions on Channel 9 on the areas of Azure & Big Data development as well as developer forums support related to Azure. He is also among the top 2% of contributors for Azure related tags on the StackOverflow forum.",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-juv.png",
             "Social": {
               "Twitter": "http://www.twitter.com/juvchan",
               "LinkedIn": "https://www.linkedin.com/in/juv-chan-6104a540"
@@ -296,7 +297,7 @@
           "Speaker": {
             "Name": "Chia Shaw Chyn",
             "Description": "Microsoft Certified Trainer, Microsoft Most Valuable Professional, Windows Developer, Specialized on Windows Mobile platform development, and hobbies in Windows 10 IoT",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-chia.png",
             "Social": {
                 "Twitter": "https://twitter.com/snakechia",
                 "Website" :"http://www.snakechia.com"
@@ -315,7 +316,7 @@
           "Speaker": {
             "Name": "Aswin C.",
             "Description": "",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-aswin.png",
             "Social": {
               "Twitter": "",
               "Facebook": ""
@@ -329,7 +330,7 @@
           "Speaker": {
             "Name": "Walter Wong",
             "Description": "Walter Wong is a technical lead in Gain Secure, a Malaysian-based company. The company specialized for providing secure application development and user experience (UX) consultation services to customers. Walter is a Microsoft MVP for developer security. Research on application development security is Walter's personal interest. He also successfully discovered many websites vulnerabilities including some high traffic websites over the past few years. Walter often speaks at technical conferences such as Visual Studio 2010 Launch, TechEd SEA, Security Symposium, TechNet/MSDN, Tech Insights and more.",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-walter.png",
             "Social": {
               "Twitter": "",
               "Facebook": ""
@@ -347,7 +348,7 @@
           "Title": "Empowering your application with intelligence with Cognitive Services",
           "Speaker": {
             "Name": "Abdullah Abbas",
-            "Description": "",
+            "Description": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-doli.png",
             "ImageUrl": ""
           }
         },
