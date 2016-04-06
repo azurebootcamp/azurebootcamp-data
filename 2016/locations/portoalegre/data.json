@@ -27,7 +27,7 @@
     },
     {
       "Name": "NAP IT",
-      "Image": "http://www.napit.com.br/wp-content/uploads/2013/11/Marca-NAPIT-Network-Solutions1.png",
+      "Image": "http://www.napit.com.br/wp-content/themes/carbon-wp-light/images/napit.png",
       "Link": "http://www.napit.com.br"
     },
     {
@@ -70,7 +70,7 @@
             {
               "SessionId": "DEV1",
               "Time": "09:05 AM - 09:50 AM",
-              "Title": "Em Breve",
+              "Title": "Azure RemoteApp",
               "Speaker": {
                 "Name": "Rafael Felipe - MVP",
                 "Description": "Profissional com mais de 10 anos de experiência, é MVP em Remote Desktop Services (RDS), é certificado Microsoft MCT, MCSE, MCSA, MCITP e MCTS. Profissional da Dell Computadores, é Consultor de Engenharia de Sistemas responsável pelo ambiente de aplicações remotas em caráter global, entre elas, Remote Desktop Services.",
@@ -90,7 +90,7 @@
                 {
                   "SessionId": "DEV1",
                   "Time": "10:10 AM - 11:00 AM",
-                  "Title": "Em Breve",
+                  "Title": "IoT e Azure",
                   "Speaker": {
                     "Name": "William Lagos",
                     "Description": "Proprietário da Fábrica de Ideias Coworking e fundador da Efforia Nanocomputadores, graduado em Ciência da Computação pela PUCRS, possui especialidades nos campos de sistemas operacionais, computação embarcada e programação distribuída. ",
@@ -104,13 +104,13 @@
                 {
                   "SessionId": "DEV2",
                   "Time": "11:05 AM - 11:45 PM",
-                  "Title": "Em Breve",
+                  "Title": "Integrando Redes Corporativas ao Ambiente Azure",
                   "Speaker": {
-                    "Name": "",
-                    "Description": "",
-                    "ImageUrl": "",
+                    "Name": "Luis Lullhier",
+                    "Description": "Profissional certificado CCIE R&S, com larga experiência em engenharia de redes, com passagens em grande empresas como HP e Cisco. Atualmente é Gerente do Global Advanced Services na Nap IT.",
+                    "ImageUrl": "https://lh3.googleusercontent.com/fh0P6N68Yd4RZ0hPXc9Dvc_PqDTFK3iWtAxoqNp2uMIofl2P0vovYlfgNdmcrxZhW5Jcn20=s85",
                     "Social": {
-                      "Facebook": ""
+                    "Twitter": "https://twitter.com/luislhullier"
                     }
                   }
                 },
