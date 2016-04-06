@@ -37,13 +37,13 @@
   "Sponsors": [
     {
       "Name": "Veeam",
-      "Image": "",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/Veeam.png",
       "Link": "https://www.veeam.com",
       "Category": "1|Local Sponsors"
     },
     {
       "Name": "Infront Consulting",
-      "Image": "",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/Infront.png",
       "Link": "http://www.infrontconsulting.com/",
       "Category": "1|Local Sponsors"
     },
