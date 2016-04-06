@@ -384,11 +384,11 @@
         {
           "SessionId": "ITPRO6",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "TBD",
+          "Title": "Azure Security ",
           "Speaker": {
-            "Name": "TBC",
-            "Description": "TBC"
-          }
+            "Name": "Sakthis Kumar",
+            "Description": "Sakthis has 16+ years of IT experience spanning enterprise consulting, architecting hybrid solutions using Microsoft technologies like Exchange, SharePoint, Windows Server, Directory Services, Office 365 Platform, Azure.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sakthis.jpg"          }
         },
         {
           "SessionId": "Common6",
