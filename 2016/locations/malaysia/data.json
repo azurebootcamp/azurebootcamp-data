@@ -7,7 +7,7 @@
   },
   "Social": {
     "Meetup": "",
-    "Facebook": "https://www.facebook.com/MWAPSG"
+    "Facebook": "https://www.facebook.com/My"
   },
   "Callout": {
     "Text": "Register Now!",
@@ -391,114 +391,5 @@
         }
       ]
     },
-    {
-      "Name": "Data Track",
-      "Sessions": [
-        {
-          "SessionId": "Common1",
-          "Time": "8:00 AM - 8:45 AM",
-          "Title": "Registration"
-        },
-        {
-          "SessionId": "Common2",
-          "Time": "9:00 AM - 10:00 AM",
-          "Title": "Keynote",
-          "Speaker": {
-            "Name": "Joey Tan",
-            "Description": "Cloud and Enterprise Business Group Lead",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/joeytan.jpg"
-          }
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "10:00 AM - 10:15 AM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "DATA1",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "Introduction to Azure Machine Learning",
-          "Speaker": {
-            "Name": "Rene Modery",
-            "Description": "Rene, Microsoft MVP, has more than 10 years of experience in IT, with more than 8 years of experience with SharePoint and Office 365 technologies. During his career, he has worked in Europe and Asia Pacific, and collaborated with teams all over the world.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/rene.jpg",
-            "Social": {
-                "Twitter": "http://www.twitter.com/modery",
-                "Website" :"http://modery.net/"
-            }
-          }
-        },
-        {
-          "SessionId": "DATA2",
-          "Time": "11:15 AM - 12:15 PM",
-          "Title": "Virtualizing SharePoint 2016 in Azure",
-          "Speaker": {
-            "Name": "Milan Gross",
-            "Description": "Milan Gross is the head of the Asia Pacific arm of Synergy and a consultant and trainer with over 15 years experience as an architect and developer of Microsoft technologies. Milan has been working with SharePoint technologies since their inception in 2001 and has developed solutions for customers worldwide using SharePoint as the application platform of choice. <br>Milan is a frequent invited speaker at Tech Ed conferences throughout the Asia and Pacific region.  <br>He has contributed to two books on SharePoint 2007 from Microsoft Press: The SharePoint 2007 Administrator's Companion and The SharePoint 2007 Pocket Consultant. <br> Milan co-authored, with Randy Williams, the SharePoint 2010 Administration Instant Reference. <br>Milan also co-authored the book Microsoft SharePoint 2013, Administration Inside Out. <br>In addition to consulting, Milan is also a professional trainer delivering the Synergy technical SharePoint courses around the world. Helping others understand the technology is something he admits to being passionate about. <br> Milan is dedicated to building long-term customer relationships by leading a diverse team of highly-skilled professionals. As an experienced project manager, he works with his staff to keep all focused on constantly exceeding customer expectations. <br> Milan is based in Singapore where he assists in supporting the Singapore SharePoint User Group",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/profiles_gross.jpg"
-          }
-        },
-        {
-          "SessionId": "Common4",
-          "Time": "12:15 PM - 1:15 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "DATA3",
-          "Time": "1:15 PM - 2:15 PM",
-          "Title": "Planning & Deploying your SharePoint farm in Microsoft Azure",
-          "Speaker": {
-            "Name": "Thuan Nguyen",
-            "Description": "Thuan is the Microsoft Solution Architect, Microsoft MVP, SharePoint Practice Lead currently working for FPT Software in Singapore. He drives the expert level of Microsoft technology knowledge throughout many organizations. Thuan has participated in planning, designing and implementing advanced business solutions utilizing a variety of Microsoft technologies for mid-tier and large organizations. Besides, having business skills on his journey as he established a small consulting company in the past and recently established a start-up company developing a SharePoint-based gamification product, Thuan brings out many �crazy� ideas that can arouse the community and market.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Thuan-Nguyen.jpg"
-          }
-        },
-        {
-          "SessionId": "Common5",
-          "Time": "2:15 PM - 2:13 PM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "DATA4",
-          "Time": "2:30 PM - 3:30 PM",
-          "Title": "PowerApps",
-          "Speaker": {
-            "Name": "Riwut Libinuko",
-            "Description": "Riwut Libinuko is a SharePoint Server MVP, Principal Solution Architect with Simulation Software and Technology. He has been involved in SharePoint environment since the SharePoint 2001, when he was the power user in Indonesia. Since then, he has helped many other IT Pro and Developer on their SharePoint solution either offline or online. Riwut has worked and build SharePoint platform for one of largest investment bank, with geo-distributed farm that supports the core business. He wrote and published code samples from real-live engagement through MSDN code samples, Github and Codeplex",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Riwut-Libinoko.jpg"
-          }
-        },
-        {
-          "SessionId": "DATA5",
-          "Time": "3:30 PM - 4:30 PM",
-          "Title": "Analyzing and Visualizing Data with Power BI",
-          "Speaker": {
-            "Name": "Mohamed Faizal",
-            "Description": "Faizal, Microsoft MVP, has 17+years' experience in Enterprise Solutions, SharePoint, Cloud Architect (PaaS/SaaS) with extensive experience on developing .NET, SharePoint 2007,2010 and 2013 solutions on the cloud or on premise. Faizal has consulted for many enterprise companies and government agencies",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
-            "Social": {
-                "Twitter": "http://www.twitter.com/kmdfaizal",
-                "Facebook" :"https://www.facebook.com/kmdfaizal"
-            }
-          }
-        },
-        {
-          "SessionId": "DATA6",
-          "Time": "4:30 PM - 5:30 PM",
-          "Title": "Azure HDInsight",
-          "Speaker": {
-            "Name": "Sarbjit Singh",
-            "Description": "Sarbjit brings 24 years of IT experience spanning consulting, architecting and training for Microsoft technologies such as Lync, Exchange, SQL Server, SharePoint, Windows Server, Active Directory, System Center range of products. I am also experienced in carrying out a Microsoft IO (Infrastructure Optimization) and Implementation of the MS MOF (Microsoft Operations Framework). Since 2005, he has been a Microsoft Most Valuable Professional (MVP) with Technical Expertise in Lync, Skype for Business,  SCOM and SharePoint.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/ssingh.jpg"           
-          }
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing & Luck Draw"
-        }
-
-      ]
-    }
   ]
 }
