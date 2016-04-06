@@ -145,7 +145,7 @@
   ],
   "Tracks": [
     {
-      "Name": "Developer Track",
+      "Name": "IT Pro Track",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -159,7 +159,7 @@
           "Speaker": {
             "Name": "Raymond Chou",
             "Description": "Raymond Chou is the Regional Managing Principal Consultant for Redynamics Asia and Infront Consulting Group Asia Pacific, dynamic, future-driven companies that focuses on providing Systems Management and Virtualization consulting, implementation and training to companies mainly around the APAC region. He is a seasoned trainer and consultant and has been in the information technology industry for more than 10 years ever since the days of Windows 3.1. His focus is on the System Center product line and the team performs consulting and deployment exercises all over the region on Hyper-V, Operations Manager, Configuration Manager, Data Protection Manager, Virtual Machine Manager, Service Manager and App-V",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-raychou.png"
+            "ImageUrl": ""
           }
         },
         {
@@ -207,7 +207,7 @@
           "Speaker": {
             "Name": "Raymond Tan",
             "Description": "",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-raytan.png",
+            "ImageUrl": "",
             "Social": {
               "Website": ""
             }
@@ -316,7 +316,7 @@
           "Speaker": {
             "Name": "Aswin C.",
             "Description": "",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-aswin.png",
+            "ImageUrl": "",
             "Social": {
               "Twitter": "",
               "Facebook": ""
@@ -348,7 +348,7 @@
           "Title": "Empowering your application with intelligence with Cognitive Services",
           "Speaker": {
             "Name": "Abdullah Abbas",
-            "Description": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-doli.png",
+            "Description": "",
             "ImageUrl": ""
           }
         },
