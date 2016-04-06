@@ -60,7 +60,7 @@
     }, 
     {
       "Name": "Importare",
-      "Image": "",
+      "Image": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/Logo-IMPORTARE.png",
       "Link": "http://www.importare.mx/"
     },        
   ],
@@ -112,7 +112,7 @@
           "Speaker": {
             "Name": "Pedro Antonio Morales Tamayo",
             "Description": "Hola mi nombre es Pedro Antonio Morales Tamayo, actualmente estoy cursando el 9° semestre de la licenciatura en Sistemas Computacionales, he trabajo con el colegio de bachilleres de chiapas para desarrollar un Mapa interactivo, actualmente desarrollo un Sofware basado en el dispositivo Kinect para el jardin Botanico de tuxtla Gutierrez, Desarrollador de software y entornos 3D, Desarrollo con la tecnologia WPF, SQL Server, Desarrollo en Lenguajes como C#, Java y AngularJs(HTML5 y JavaScrips)  desde el año 2014 he trabajado con el desarrollo y modelado 3d (3dsMax, Blender, Maya, Cinema4D) y softwares para creacion de videojuegos con Unity y UnrealEngine.",
-            "ImageUrl": ""
+            "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/foto%20pedro.jpg"
           }
         },
         {
@@ -121,7 +121,7 @@
           "Title": "WebApps en Azure",
           "Speaker": {
             "Name": "Juan Manuel Álvarez González",
-            "Description": "Soy juan manuela Álvarez González, curso el 9° semestres de la licenciatura en sistemas computacionales de la universidad autónoma de Chiapas campus 1, a lo largo de mi estancia en la universidad  he participado en varios cursos de programación, administración de base de datos,  desarrollo de páginas web,  participe en el desarrollo de un sistema administrativo escolar  para el área del preuniversitario de la facultad de contaduría y administración campus1, actualmente soy consejero técnico de la licenciatura en sistemas computacionales, siempre he creído que una buena comunicación y la armonía es fundamental para la convivencia en equipo.",
+            "Description": "Soy juan manuel Álvarez González, curso el 9° semestre de la licenciatura en sistemas computacionales de la universidad autónoma de Chiapas campus 1, a lo largo de mi estancia en la universidad  he participado en varios cursos de programación, administración de base de datos,  desarrollo de páginas web,  participe en el desarrollo de un sistema administrativo escolar  para el área del preuniversitario de la facultad de contaduría y administración campus1, actualmente soy consejero técnico de la licenciatura en sistemas computacionales, siempre he creído que una buena comunicación y la armonía es fundamental para la convivencia en equipo",
             "ImageUrl": "https://dl.dropboxusercontent.com/u/33502573/global%20azure%20bootcamp/Im%C3%A1genes/foto%20juan%20manuel.jpg"
           }
         },

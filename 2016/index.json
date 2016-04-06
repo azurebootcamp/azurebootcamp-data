@@ -26,6 +26,7 @@
     },
     {
       "Name": "Mexico",
+      "Folder":"tuxtla-mexico",
       "WebsiteUrl": "http://bootcamp.azurewebsites.net/",
       "Show": true
     },
@@ -33,6 +34,12 @@
         "Name": "Aarhus (Denmark)",
         "Folder":"aarhus-denmark",
         "WebsiteUrl":"http://aarhus-azurebootcamp.azurewebsites.net/", 
+        "Show": true
+    },
+        {
+        "Name": "Malaysia",
+        "Folder":"malaysia",
+        "WebsiteUrl":"http://malaysiaazurebootcamp.azurewebsites.net/", 
         "Show": true
     },
     { 

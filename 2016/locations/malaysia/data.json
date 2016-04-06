@@ -1,87 +1,51 @@
 {
   "Location": {
-    "Name": "Singapore",
-    "Latitude": 1.282387,
-    "Longitude": 103.850243,
-    "Address": "One Marina Boulevard, Singapore"
+    "Name": "Malaysia",
+    "Latitude": 3.156967,
+    "Longitude": 101.711111,
+    "Address": "Microsoft Malaysia, Level 26, Menara 3 Petronas Persiaran KLCC, Kuala Lumpur City Centre 50088, Malaysia"
   },
   "Social": {
-    "Meetup": "http://www.meetup.com/mssgug/events/227791830/",
-    "Facebook": "https://www.facebook.com/MWAPSG"
+    "Meetup": "",
+    "Facebook": "https://www.facebook.com/MyAzure"
   },
   "Callout": {
-    "Text": "RSVP in waiting list today!",
-    "Link": "http://www.meetup.com/mssgug/events/227791830/",
+    "Text": "Register Now!",
+    "Link": "https://gabmy2016.eventbrite.com",
     "Type": "warning"
   },
   "Organizers": [
     {
-      "Name": "Faizal Mohamed",
+      "Name": "Aswin C.",
       "Social": {
-        "Email": "kmdfaizal@yahoo.com"
+        "Email": "aswinc@microsoft.com"
       }
     },
     {
-      "Name": "Alvin Lau",
+      "Name": "Abdullah Abbas",
       "Social": {
-        "Email": "microlau@gmail.com"
+        "Email": "doli@doli.us"
       }
     },
     {
-      "Name": "Punit Ganshani",
+      "Name": "Melody Yong",
       "Social": {
-        "Email": "punit.ganshani@gmail.com"
+        "Email": "melody.yong@infrontconsulting.com"
       }
     },
-    {
-      "Name": "Senthamil Selvan",
-      "Social": {
-        "Email": "altfo@hotmail.com"
-      }
-    }
   ],
   "Sponsors": [
     {
-      "Name": "FPT Asia Pacific Pte. Ltd.",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/fpt.png",
-      "Link": "https://www.fpt.com.vn/en",
-      "Category": "1|Gold Sponsor"
+      "Name": "Veeam",
+      "Image": "",
+      "Link": "https://www.veeam.com",
+      "Category": "1|Local Sponsors"
     },
     {
-      "Name": "Global Knowledge Network Pte Ltd",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/GK.jpg",
-      "Link": "http://www.gkapac.com/",
-      "Category": "2|Silver Sponsors"
-    },
-    {
-      "Name": "Insight",
-       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/insight.png",
-      "Link": "http://sg.insight.com/en_SG/home.html",
-      "Category": "2|Silver Sponsors"
-    },
-    {
-      "Name": "NetAssist",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/na.png",
-      "Link": "http://www.netassist.com.sg/default.aspx",
-      "Category": "3|Lucky Draw Sponsors"
-    },
-    {
-      "Name": "Aspose",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-aspose.png",
-      "Link": "http://www.aspose.com/",
-      "Category": "3|Lucky Draw Sponsors"
-    },
-    {
-      "Name": "RedGate",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-redgate.png",
-      "Link": "http://rd.gt/1x5Mx7O",
-      "Category": "3|Lucky Draw Sponsors"
-    },
-    {
-      "Name": "Parallels",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sponsor-parallels.png",
-      "Link": "http://www.parallels.com/products/desktop/",
-      "Category": "3|Lucky Draw Sponsors"
+      "Name": "Infront Consulting",
+      "Image": "",
+      "Link": "http://www.infrontconsulting.com/",
+      "Category": "1|Local Sponsors"
     },
     {
       "Name": "BlueSyntax",
@@ -118,24 +82,21 @@
       "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
       "Link": "http://www.codemag.com/magazine",
       "Category": "4|Global Sponsors"
+    },
+    {
+      "Name": "CloudBerry Lab",
+      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2013/02/logowhitecloud-300x202.png",
+      "Link": "http://www.cloudberrylab.com/",
+      "Category": "4|Global Sponsors"
+    },
+    {
+      "Name": "Opsgility",
+      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2014/02/opscloud-black-187x52.png",
+      "Link": "https://www.opsgility.com/",
+      "Category": "4|Global Sponsors"
     }
   ],
   "Prizes": [
-     {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-parallels.jpg",
-      "Link": "http://www.parallels.com/products/desktop/",
-      "Name": "Parallels Desktop for Mac"
-    },
-    {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-aspose-total.png",
-      "Link": "http://www.aspose.com/total-component-suite.aspx",
-      "Name": "Aspose.Total Product Family"
-    },
-    {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/prize-SQL Source Control.png",
-      "Link": "http://www.red-gate.com/products/sql-development/sql-source-control/",
-      "Name": "Redgate SQL Source Control"
-    },
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/cloudmonix-swag.png",
       "Link": "http://cloudmonix.com/",
@@ -165,6 +126,16 @@
       "Name": "CODE Magazine Subscription",
       "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
       "Link": "http://www.codemag.com/magazine"
+    },
+    {
+      "Name": "CloudBerry Explorer Pro for Azure",
+      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2013/02/logowhitecloud-300x202.png",
+      "Link": "http://www.cloudberrylab.com/free-microsoft-azure-explorer.aspx?utm_source=AzureBootcamp&utm_medium=Explorer&utm_campaign=2016"
+    },
+    {
+      "Name": "Opsgility Course Subscription",
+      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2014/02/opscloud-black-187x52.png",
+      "Link": "https://www.opsgility.com/"
     },
     {
       "ImageUrl": "https://c2.staticflickr.com/6/5035/7187433101_e10a1c3abe.jpg",
@@ -384,11 +355,11 @@
         {
           "SessionId": "ITPRO6",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "Azure Security ",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "Sakthis Kumar",
-            "Description": "Sakthis has 16+ years of IT experience spanning enterprise consulting, architecting hybrid solutions using Microsoft technologies like Exchange, SharePoint, Windows Server, Directory Services, Office 365 Platform, Azure.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sakthis.jpg"          }
+            "Name": "TBC",
+            "Description": "TBC"
+          }
         },
         {
           "SessionId": "Common6",
