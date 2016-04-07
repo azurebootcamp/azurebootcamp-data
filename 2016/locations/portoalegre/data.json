@@ -24,19 +24,16 @@
       "Name": "NAP IT",
       "Image": "http://www.napit.com.br/wp-content/themes/carbon-wp-light/images/napit.png",
       "Link": "http://www.napit.com.br"
-      "Category": "1|Gold Sponsor"
     },
     {
       "Name": "Microsoft Innovation Center PUCRS",
       "Image": "http://www.centrodeinovacao.org.br/Content/ImagensFooter/Microsoft%20Innovation%20Center-%20Logo.png",
       "Link": "http://www.centrodeinovacao.org.br/"
-      "Category": "2|Silver Sponsor"
     },
     {
       "Name": "Dell",
       "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dell_Logo.svg/2000px-Dell_Logo.svg.png",
       "Link": "http://www.dell.com.br/"
-      "Category": "2|Silver Sponsor"
     },
   ],
   "Prizes": [
