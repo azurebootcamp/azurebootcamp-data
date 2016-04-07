@@ -49,49 +49,49 @@
     },
     {
       "Name": "BlueSyntax",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/bluesyntax.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-blue.png",
       "Link": "http://www.bluesyntaxconsulting.com/",
       "Category": "4|Global Sponsors"
     },
     {
       "Name": "CloudMonix",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/CloudMonix.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-cloudmonix.png",
       "Link": "http://cloudmonix.com/?utm_source=gab2016&utm_medium=web&utm_campaign=gab2016",
       "Category": "4|Global Sponsors"
     },
     {
       "Name": "Azure Dockit",
-      "Image": "http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/01/adklogohome-2.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-azure.png",
       "Link": "http://www.azuredockit.com/",
       "Category": "4|Global Sponsors"
     },
     {
       "Name": "MyGet",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/myget.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-myget.png",
       "Link": "https://myget.org/",
       "Category": "4|Global Sponsors"
     },
     {
       "Name": "JetBrains",
-      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/JBwo_JetBrains_2-320x320.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-jetbrains.png",
       "Link": "http://www.azuredockit.com/",
       "Category": "4|Global Sponsors"
     },
     {
       "Name": "CODE Magazine",
-      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-code.png",
       "Link": "http://www.codemag.com/magazine",
       "Category": "4|Global Sponsors"
     },
     {
       "Name": "CloudBerry Lab",
-      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2013/02/logowhitecloud-300x202.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-cloudberry.png",
       "Link": "http://www.cloudberrylab.com/",
       "Category": "4|Global Sponsors"
     },
     {
       "Name": "Opsgility",
-      "Image": "http://global.azurebootcamp.net/wp-content/uploads/2014/02/opscloud-black-187x52.png",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-opsgility.png",
       "Link": "https://www.opsgility.com/",
       "Category": "4|Global Sponsors"
     }
@@ -103,38 +103,38 @@
       "Name": "Cloud Monix Subscription"
     },
     {
-       "ImageUrl": "http://azuredockitwebsite.azurewebsites.net/wp-content/uploads/2016/01/adklogohome-2.png",
+       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-azure.png",
        "Link": "http://www.azuredockit.com/",
        "Name": "Azure Dockit Subscription"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp/master/2015/src/assets/img/sponsors/bluesyntax.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-blue.png",
       "Link": "http://www.bluesyntaxconsulting.com/",
       "Name": "Enzo Cloud Backup"
     },
     {
       "Name": "MyGet Subscription",
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/myget.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-myget.png",
       "Link": "https://myget.org/"
     },
     {
       "Name": "JetBrains License",
-      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/JBwo_JetBrains_2-320x320.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-jetbrains.png",
       "Link": "http://www.azuredockit.com/"
     },
     {
       "Name": "CODE Magazine Subscription",
-      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2016/03/CODEMagazine.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-code.png",
       "Link": "http://www.codemag.com/magazine"
     },
     {
       "Name": "CloudBerry Explorer Pro for Azure",
-      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2013/02/logowhitecloud-300x202.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-cloudberry.png",
       "Link": "http://www.cloudberrylab.com/free-microsoft-azure-explorer.aspx?utm_source=AzureBootcamp&utm_medium=Explorer&utm_campaign=2016"
     },
     {
       "Name": "Opsgility Course Subscription",
-      "ImageUrl": "http://global.azurebootcamp.net/wp-content/uploads/2014/02/opscloud-black-187x52.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/sponsor-opsgility.png",
       "Link": "https://www.opsgility.com/"
     },
     {
