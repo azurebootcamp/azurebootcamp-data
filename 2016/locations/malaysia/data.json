@@ -145,7 +145,7 @@
   ],
   "Tracks": [
     {
-      "Name": "Developer Track",
+      "Name": "IT Pro Track",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "Name": "IT Pro Track",
+      "Name": "Developer Track",
       "Sessions": [
         {
           "SessionId": "ITPRO1",
