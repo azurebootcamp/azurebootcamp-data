@@ -103,7 +103,7 @@
                 },
                 {
                   "SessionId": "DEV2",
-                  "Time": "11:05 AM - 11:45 PM",
+                  "Time": "11:05 AM - 11:55 PM",
                   "Title": "Integrando Redes Corporativas ao Ambiente Azure",
                   "Speaker": {
                     "Name": "Luis Lullhier",
@@ -116,46 +116,46 @@
                 },
                 {
                   "SessionId": "Common4",
-                  "Time": "11:50 PM - 12:55 PM",
+                  "Time": "11:55 PM - 13:00 PM",
                   "Title": "Lunch"
                 },
                 {
                   "SessionId": "DEV3",
-                  "Time": "1:00 PM - 1:50 PM",
-                  "Title": "Em Breve",
+                  "Time": "1:05 PM - 1:55 PM",
+                  "Title": "Azure SQL",
                   "Speaker": {
-                    "Name": "",
-                    "Description": "",
-                    "ImageUrl": "",
+                    "Name": "Marcus Vinicius Bittencourt",
+                    "Description": "Experiência de  mais de 10 anos em SQL Server. MVP DATA PLATAFORM, PASS Regional Mentor, Chapter Leader do SQL Server RS. DBA especializado em infraestrutura, troubleshooting.",
+                    "ImageUrl": "https://scontent-gru2-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/10447835_945855775426808_336520327836347254_n.jpg?oh=b570d28603a70e759e40da8b0a770159&oe=57744178",
                     "Social": {
                       "Twitter": "",
                       "Website": "",
-                      "Facebook": ""
+                      "Facebook": "https://www.facebook.com/mvbitt"
                     }
                   }
                 },
                 {
+                  "SessionId": "DEV4",
+                  "Time": "1:06 PM - 1:56 PM",
+                  "Title": "Azure SQL",
+                  "Speaker": {
+                    "Name": "Rodrigo Crespi",
+                    "Description": "Especialista em Bancos de Dados dedicado exclusivamente a ambientes Microsoft SQL Server do qual trabalha desde a versão 6.5. Sócio da CrespiDB – Soluções em Plataformas de Dados. Possui diversas certificações dentre elas: MCT, MCDBA, MCITP, MCSE, etc. É PASS Chapter Leader do SQL Server RS.",
+                    "ImageUrl": "https://scontent-gru2-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12541039_1108499139180316_2164082631502499767_n.jpg?oh=5aecbd7498cf90bd33c4d61d37e61c48&oe=577770A5",
+                    "Social": {
+                      "Twitter": "",
+                      "Facebook": "https://www.facebook.com/rodrigocrespi/"
+                    }
+                  }
+                },
+				{
                   "SessionId": "Common5",
                   "Time": "1:55 PM - 2:10 PM",
                   "Title": "Break"
                 },
                 {
-                  "SessionId": "DEV4",
-                  "Time": "2:15 PM - 3:05 PM",
-                  "Title": "Em Breve",
-                  "Speaker": {
-                    "Name": "",
-                    "Description": "",
-                    "ImageUrl": "",
-                    "Social": {
-                      "Twitter": "",
-                      "Facebook": ""
-                    }
-                  }
-                },
-                {
                   "SessionId": "DEV5",
-                  "Time": "3:10 PM - 4:00 PM",
+                  "Time": "2:15 PM - 3:05 PM",
                   "Title": "Em Breve",
                   "Speaker": {
                     "Name": "",
@@ -164,7 +164,7 @@
                 },
                 {
                   "SessionId": "DEV6",
-                  "Time": "4:05 PM - 4:55 PM",
+                  "Time": "3:10 PM - 4:00 PM",
                   "Title": "Em Breve",
                   "Speaker": {
                     "Name": "",
@@ -174,7 +174,7 @@
                 },
                 {
                   "SessionId": "Common6",
-                  "Time": "5:00 PM - 5:15 PM",
+                  "Time": "4:00 PM - 4:15 PM",
                   "Title": "Encerramento"
                 }
                 ]
