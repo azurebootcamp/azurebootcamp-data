@@ -29,11 +29,6 @@
   ],
   "Sponsors": [
     {
-      "Name": "Microsoft",
-      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Microsoft.png",
-      "Link": "http://www.microsoft.com"
-    },
-    {
       "Name": "Readify",
       "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/melbourne/Readify.png",
       "Link": "http://readify.net/"
@@ -172,7 +167,7 @@ Bill has been involved with Integration, Including Azure, BizTalk and BizTalk Tr
         {
           "SessionId": "ITPRO1",
           "Time": "9:00 AM - 9:45 AM",
-          "Title": "Modernizing your Datacenter with Windows Server and Microsoft Azure",
+          "Title": "Modernizing your Datacenter with Windows Server and Microsoft Azure  - Live Streaming from Brisbane Global Azure Bootcamp",
           "Speaker": {
             "Name": "Jeff Alexander",
             "Description": "Jeff Alexander started at Microsoft in August 1987 as a Support Professional focusing on operating systems and desktop applications for Enterprise Customers. Since then he spent 6 years in Microsoft’s internal IT team as a Datacenter manager. One of his biggest projects he was involved with was consolidation of the Sydney site to Singapore. Jeff Alexander now focuses his passion for Windows Infrastructure and Microsoft Cloud technologies as an Sr. Technical Evangelist promoting and enabling the community of IT Professionals through vehicles as TechNet events; blogging, the TechNet Web Site , User Groups, MVP’s, and online webcasts.",
@@ -183,7 +178,6 @@ Bill has been involved with Integration, Including Azure, BizTalk and BizTalk Tr
           "SessionId": "ITPRO2",
           "Time": "9:45 AM - 10:30 AM",
           "Title": "Protecting your key workloads in the cloud using Azure Backup and Azure Site Recovery",
-          "Speaker": {
           "Speaker": {
             "Name": "Daniel Mar",
             "Description": "Daniel is a Principal Consultant with Infront Consulting Group in Australia. He was Singapore’s first Microsoft Most Valuable Professional for Cloud and Datacenter Management as well as also being a Citrix Desktop MVP but now spends his time in Melbourne.",
