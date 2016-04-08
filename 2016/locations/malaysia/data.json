@@ -159,7 +159,7 @@
           "Speaker": {
             "Name": "Raymond Chou",
             "Description": "Raymond Chou is the Regional Managing Principal Consultant for Redynamics Asia and Infront Consulting Group Asia Pacific, dynamic, future-driven companies that focuses on providing Systems Management and Virtualization consulting, implementation and training to companies mainly around the APAC region. He is a seasoned trainer and consultant and has been in the information technology industry for more than 10 years ever since the days of Windows 3.1. His focus is on the System Center product line and the team performs consulting and deployment exercises all over the region on Hyper-V, Operations Manager, Configuration Manager, Data Protection Manager, Virtual Machine Manager, Service Manager and App-V",
-            "ImageUrl": ""
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-raychou.png"
           }
         },
         {
@@ -207,7 +207,7 @@
           "Speaker": {
             "Name": "Raymond Tan",
             "Description": "He has total 15 years of experience in Microsoft enterprise solutions; former employee of Microsoft Malaysia, AirAsia and HP.  He is the regular speaker in various Microsoft and Dell partners’ event, provide consultancy and training on Azure, Office 365, and Power BI.  He also have an external role from Microsoft as Regional Director – helping Microsoft product teams to understand better in the market and customers' needs, while assisting these customers in leveraging Microsoft's technologies and services for their environments and solutions, and active contributor community member in Facebook Groups (Azure, Office 365, Elite, SMB partners).",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-raytan.png",
             "Social": {
               "Website": ""
             }
@@ -316,7 +316,7 @@
           "Speaker": {
             "Name": "Aswin C.",
             "Description": "Aswin has been with Microsoft Malaysia for about 2 years now. He has been actively engaging with tech and startup communities such as hackathons, meetups and events. He's getting his hands dirty by coding, technical forums and blogging during his free time and has been working with startups and software house through Microsoft Bizspark program and Microsoft Partners program. Besides that, he is also leading Microsoft Student Partners Malaysia to build the next-gen developers and IT Professionals for Malaysia.",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-aswin.png",
             "Social": {
               "Twitter": "",
               "Facebook": ""
@@ -349,7 +349,7 @@
           "Speaker": {
             "Name": "Abdullah Abbas",
             "Description": "Abdullah Abbas is the Windows Developers Malaysia community lead and also expert in Windows Platform Development. He is actively organizing community events, gave talks in various events and also a seasoned hackaton participant that already won multiple hackaton that focusing on Windows Development. He is currently Head of Technology Innovation in iProperty Group, the number 1 property portal in Asia. He is focusing on Machine Learning with Azure, and also data visualization with Microsoft technology.",
-            "ImageUrl": ""
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/malaysia/speaker-doli.png"
           }
         },
         {
