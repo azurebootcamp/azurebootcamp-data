@@ -165,7 +165,7 @@
         {
           "SessionId": "Common3",
           "Time": "9:15 AM - 09:45 AM",
-          "Title": "Keynote",
+          "Title": "Keynote - Microsoft",
           "Speaker": {
             "Name": "",
             "Description": "",
@@ -175,7 +175,7 @@
         {
           "SessionId": "Common4",
           "Time": "9:45 AM - 10:15 AM",
-          "Title": "Keynote",
+          "Title": "Keynote - Veeam",
           "Speaker": {
             "Name": "",
             "Description": "",
@@ -206,7 +206,7 @@
           "Title": "TBC",
           "Speaker": {
             "Name": "Raymond Tan",
-            "Description": "",
+            "Description": "He has total 15 years of experience in Microsoft enterprise solutions; former employee of Microsoft Malaysia, AirAsia and HP.  He is the regular speaker in various Microsoft and Dell partners’ event, provide consultancy and training on Azure, Office 365, and Power BI.  He also have an external role from Microsoft as Regional Director – helping Microsoft product teams to understand better in the market and customers' needs, while assisting these customers in leveraging Microsoft's technologies and services for their environments and solutions, and active contributor community member in Facebook Groups (Azure, Office 365, Elite, SMB partners).",
             "ImageUrl": "",
             "Social": {
               "Website": ""
@@ -315,7 +315,7 @@
           "Title": "Now Everyone Can Build a Bot with Bot Framework",
           "Speaker": {
             "Name": "Aswin C.",
-            "Description": "",
+            "Description": "Aswin has been with Microsoft Malaysia for about 2 years now. He has been actively engaging with tech and startup communities such as hackathons, meetups and events. He's getting his hands dirty by coding, technical forums and blogging during his free time and has been working with startups and software house through Microsoft Bizspark program and Microsoft Partners program. Besides that, he is also leading Microsoft Student Partners Malaysia to build the next-gen developers and IT Professionals for Malaysia.",
             "ImageUrl": "",
             "Social": {
               "Twitter": "",
@@ -348,7 +348,7 @@
           "Title": "Empowering your application with intelligence with Cognitive Services",
           "Speaker": {
             "Name": "Abdullah Abbas",
-            "Description": "",
+            "Description": "Abdullah Abbas is the Windows Developers Malaysia community lead and also expert in Windows Platform Development. He is actively organizing community events, gave talks in various events and also a seasoned hackaton participant that already won multiple hackaton that focusing on Windows Development. He is currently Head of Technology Innovation in iProperty Group, the number 1 property portal in Asia. He is focusing on Machine Learning with Azure, and also data visualization with Microsoft technology.",
             "ImageUrl": ""
           }
         },
