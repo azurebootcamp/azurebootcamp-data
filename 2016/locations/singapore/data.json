@@ -326,7 +326,8 @@
           "Title": "Azure Automation DSC",
           "Speaker": {
             "Name": "Milton Goh",
-            "Description": "Microsoft MVP",
+            "Description": "Milton is a technology driven person with very high passion in Microsoft technologies. He was awarded Microsoft MVP in Year 2015 in the Windows PowerShell expertise and has been re-awarded as a Cloud and Datacenter Management MVP. He has been the Enterprise Mobility space with VMware before entering the Workplace Efficiency space this year. He primary does Consulting on the day-to-day and to solve problem for all of his current and prospective customers. He believes in automation and has been advocating it since years ago during the days in Dimension Data.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/miltongoh.jpg",
             "Social": {
                 "Twitter": "https://twitter.com/miltongoh",
                 "Facebook" :"https://www.facebook.com/miltongoh"
