@@ -64,7 +64,7 @@
         {
           "SessionId": "Common2",
           "Time": "12:00 - 12:15",
-          "Title": "Bootcamp Kickoff (Keynote), Lille Auditorium",
+          "Title": "Bootcamp Kickoff (Keynote), Ground floor canteen",
           "Speaker": {
             "Name": "Peter Selch Dahl, MVP",
             "Description": "Peter is a Azure Microsoft Valuable Professional (MVP) and a Microsoft P-Seller. He works as a Senior Cloud Architect with a wide variety of experience in working with Microsoft Cloud and infrastructure. He is particularly interested in the fields related to core infrastructure such as security, virtualization, automation and management. These days he primarily work with the area's related to Microsoft Azure, Office 365 and Microsoft Intune but still with a twist of passion for network security & remote access technologies",
@@ -83,7 +83,7 @@
         {
           "SessionId": "DEV1",
           "Time": "12:30 - 13:15",
-          "Title": "TBA (Perhaps Service Fabric or Azure IoT), Lille Auditorium",
+          "Title": "Azure Service Fabric by Sekoia - Mentioned during BUILD Keynote,  Downstairs floor canteen",
           "Speaker": {
             "Name": "Claus Nielsen",
             "Description": "Claus Nielsen er CTO for Sekoia (http://sekoia.dk). Sekoia er en point of care løsning baseret på Microsoft Azure til plejecentre, specialinstitutioner og bosteder. Med flere end 30 applikationer understøtter vi personalets faglige behov og hjælper dem med at smidiggøre deres arbejdsgange.",
@@ -97,20 +97,12 @@
         {
           "SessionId": "Common2",
           "Time": "13:15 - 13:30",
-          "Title": "Break / Pause",
-          "Speaker": {
-            "Name": "Mads Damgård",
-            "Description": "Mads is a Cloud Solution Architect in Microsoft working with customers and partners to maximize the business opportunities of Cloud computing as well as building up Cloud knowledge on the Microsoft Azure platform. He has been with Microsoft Denmark for more than 10 years",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/MadsDamgaard.jpg",
-            "Social": {
-              "Website": "http://microsoft.dk"
-            }
-          }
-        },
+          "Title": "Break / Pause"
+         },
         {
           "SessionId": "DEV2",
           "Time": "13:30 - 14:45",
-          "Title": "Continuous Delivery with Docker on Azure - Ninja Docker and Jenkins Stuff by Johan - Whale Powered",
+          "Title": "Continuous Delivery with Docker on Azure - Ninja Docker and Jenkins Stuff by Johan - Whale Powered,  Downstairs floor canteen",
           "Speaker": {
             "Name": "Johan Sigfred Abildskov",
             "Description": "Johan is a CoDe:er at Praqma",
@@ -125,7 +117,7 @@
         {
           "SessionId": "DEV6",
           "Time": "15:30 - 16:15",
-          "Title": "Monitor application usage and performance using the Azure Application Insights",
+          "Title": "Monitor application usage and performance using the Azure Application Insights,  Downstairs floor canteen",
           "Speaker": {
             "Name": "Anders Rask",
             "Description": "SharePoint Solution Architect & Developer working at ProActive A/S. He specialize in SharePoint and SharePoint Online development/architecture. He worked with SharePoint since SPS 2001/Tahoe. He also have experience working with Azure IaaS and PaaS solutions.",
@@ -138,7 +130,15 @@
         {
           "SessionId": "DEV7",
           "Time": "16:30 - 17:15",
-          "Title": "TBD"
+          "Title": "Azure API Management, Downstairs floor canteen",
+          "Speaker": {
+          "Name": "Mads Damgård",
+          "Description": "Mads is a Cloud Solution Architect in Microsoft working with customers and partners to maximize the business opportunities of Cloud computing as well as building up Cloud knowledge on the Microsoft Azure platform. He has been with Microsoft Denmark for more than 10 years",
+          "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/MadsDamgaard.jpg",
+          "Social": {
+          "Website": "http://microsoft.dk"
+            }
+          }
         }
       ]
     },
@@ -149,10 +149,10 @@
         {
           "SessionId": "ITPRO1",
           "Time": "12:30 - 13:15",
-          "Title": "Windows 10 and Azure AD",
+          "Title": "Windows 10 and Azure AD, Ground floor canteen",
           "Speaker": {
             "Name": "Jesper Nielsen",
-            "Description": "Jesper is a Solution Architect & Technology Evangelist working for ATEA Denmark. He is the founder of Everything Windows User Group (http://ewug.dk) ",
+            "Description": "Jesper is a Solution Architect & Technology Evangelist working for ATEA Denmark. He is the founder of Everything Windows User Group (http://ewug.dk)",
             "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JesperNielsen.png",
             "Social": {
               "Twitter": "http://www.twitter.com/dotJesper",
@@ -163,20 +163,12 @@
         {
           "SessionId": "Common2",
           "Time": "13:15 - 13:30",
-          "Title": "Break / Pause",
-          "Speaker": {
-            "Name": "Mads Damgård",
-            "Description": "Mads is part of a newly created Azure customer team within Microsoft Denmark that helps Danish businesses with adoption of Azure. Mads been with Microsoft for many year and is a super awesome guy",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/aarhus-denmark/MadsDamgaard.jpg",
-            "Social": {
-              "Website": "http://Microsoft.dk"
-            }
-          }
+          "Title": "Break / Pause"
         },
         {
           "SessionId": "ITPRO2",
           "Time": "13:30 - 14:45",
-          "Title": "Microsoft Azure AD and EMS",
+          "Title": "Microsoft Azure AD and EMS,  Ground floor canteen",
           "Speaker": {
             "Name": "Per Larsen",
             "Description": "Per is a Solution Architect at Atea Denmark A/S. He is a EMS Ninja that loves working with Intune and deployment. Find his blog here: https://osddeployment.wordpress.com. Per have worked with Deployment of OS and Application since 1998. Per works with Microsoft technologies: Intune, EMS, Azure AD, SCCM, MDT, RDS, Windows Client, Enterprise Client Management, GPO, MDOP.",
@@ -190,7 +182,7 @@
         {
           "SessionId": "ITPRO6",
           "Time": "15:30 - 16:15",
-          "Title": "Deploying IaaS with Azure Resource Manager, Lille Auditorium",
+          "Title": "Deploying IaaS with Azure Resource Manager,  Ground floor canteen",
           "Speaker": {
             "Name": "Peter Selch Dahl, MVP",
             "Description": "Peter is a Azure Microsoft Valuable Professional (MVP) and a Microsoft P-Seller. He works as a Senior Cloud Architect with a wide variety of experience in working with Microsoft Cloud and infrastructure. He is particularly interested in the fields related to core infrastructure such as security, virtualization, automation and management. These days he primarily work with the area's related to Microsoft Azure, Office 365 and Microsoft Intune but still with a twist of passion for network security & remote access technologies",
@@ -209,7 +201,7 @@
         {
           "SessionId": "ITPRO7",
           "Time": "16:30 - 17:15",
-          "Title": "Cool stuff with Microsoft RDS 2016 and GPU + Azure RemoteApp",
+          "Title": "Cool stuff with Microsoft RDS 2016 and GPU + Azure RemoteApp,  Ground floor canteen",
           "Speaker": {
             "Name": "Thomas Poppelgaard, MVP",
             "Description": "Thosmas is a Microsoft MVP in RDS. He is his own boss at his own company, where he have clients globally and his company goal is to better help business adapt new technologies. He is a Technology Evangelist, and a subject matter expert on remote graphics, where he help companies globally how they can virtualize 2D/3D graphics in the cloud. His clients are both Vendors, ISV, ISP, Distributors, Resellers and End customers.",
@@ -223,7 +215,7 @@
         {
           "SessionId": "Common5",
           "Time": "17:15 -17:30",
-          "Title": "Afslutning af Bootcamp (Closing), Lille Auditorium"
+          "Title": "Afslutning af Bootcamp (Closing), Ground floor canteen"
         }
       ]
     }
