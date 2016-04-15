@@ -64,7 +64,7 @@
         {
           "SessionId": "Common2",
           "Time": "12:00 - 12:15",
-          "Title": "Bootcamp Kickoff (Keynote), Ground floor canteen",
+          "Title": "Bootcamp Kickoff (Keynote), Downstairs canteen",
           "Speaker": {
             "Name": "Peter Selch Dahl, MVP",
             "Description": "Peter is a Azure Microsoft Valuable Professional (MVP) and a Microsoft P-Seller. He works as a Senior Cloud Architect with a wide variety of experience in working with Microsoft Cloud and infrastructure. He is particularly interested in the fields related to core infrastructure such as security, virtualization, automation and management. These days he primarily work with the area's related to Microsoft Azure, Office 365 and Microsoft Intune but still with a twist of passion for network security & remote access technologies",
@@ -77,13 +77,13 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "12:15 - 12:20",
+          "Time": "12:15 - 12:30",
           "Title": "Break / Pause"
         },
         {
           "SessionId": "DEV1",
           "Time": "12:30 - 13:15",
-          "Title": "Azure Service Fabric by Sekoia - Mentioned during BUILD Keynote,  Downstairs floor canteen",
+          "Title": "Azure Service Fabric by Sekoia - Mentioned during BUILD Keynote,  Downstairs canteen",
           "Speaker": {
             "Name": "Claus Nielsen",
             "Description": "Claus Nielsen er CTO for Sekoia (http://sekoia.dk). Sekoia er en point of care løsning baseret på Microsoft Azure til plejecentre, specialinstitutioner og bosteder. Med flere end 30 applikationer understøtter vi personalets faglige behov og hjælper dem med at smidiggøre deres arbejdsgange.",
@@ -102,22 +102,26 @@
         {
           "SessionId": "DEV2",
           "Time": "13:30 - 14:45",
-          "Title": "Continuous Delivery with Docker on Azure - Ninja Docker and Jenkins Stuff by Johan - Whale Powered,  Downstairs floor canteen",
+          "Title": "Continuous Delivery with Docker on Azure - Ninja Docker and Jenkins Stuff by Johan - Whale Power,  Downstairs canteen",
           "Speaker": {
             "Name": "Johan Sigfred Abildskov",
-            "Description": "Johan is a CoDe:er at Praqma",
-            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JohanSigfredAbildskov.jpg"
+            "Description": "Johan is a Continous Delivery expert at Praqma. He helps companies build better software every day. Johan is a big fan of automation and the benefits that it brings to software teams, small or large. Johan enjoys bringing teams together for a greater good with the help of awesome tools.",
+            "ImageUrl": "http://aarhus-azurebootcamp.azurewebsites.net/images/JohanSigfredAbildskov.jpg",
+             "Social": {
+              "Twitter": "http://www.twitter.com/randomsort",
+              "Website": "http://www.praqma.com"
+            }
           }
         },
         {
           "SessionId": "Common5",
-          "Time": "14:45 - 15:00",
+          "Time": "14:45 - 15:30",
           "Title": "Afternoon Coffee Break - Thanks to Klestrup Partners for bringing the cake"
         },
         {
           "SessionId": "DEV6",
           "Time": "15:30 - 16:15",
-          "Title": "Monitor application usage and performance using the Azure Application Insights,  Downstairs floor canteen",
+          "Title": "Monitor application usage and performance using the Azure Application Insights,  Downstairs canteen",
           "Speaker": {
             "Name": "Anders Rask",
             "Description": "SharePoint Solution Architect & Developer working at ProActive A/S. He specialize in SharePoint and SharePoint Online development/architecture. He worked with SharePoint since SPS 2001/Tahoe. He also have experience working with Azure IaaS and PaaS solutions.",
@@ -128,9 +132,14 @@
           }
         },
         {
+          "SessionId": "Common4",
+          "Time": "16:15 - 16:30",
+          "Title": "Break / Pause"
+        },
+        {
           "SessionId": "DEV7",
           "Time": "16:30 - 17:15",
-          "Title": "Azure API Management, Downstairs floor canteen",
+          "Title": "Azure API Management, Downstairs canteen",
           "Speaker": {
           "Name": "Mads Damgård",
           "Description": "Mads is a Cloud Solution Architect in Microsoft working with customers and partners to maximize the business opportunities of Cloud computing as well as building up Cloud knowledge on the Microsoft Azure platform. He has been with Microsoft Denmark for more than 10 years",
