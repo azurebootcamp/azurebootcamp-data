@@ -230,15 +230,13 @@
         {
           "SessionId": "DEV3",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "Internet Of Things - Wiring the data on Azure",
+          "Title": "Using HSM in Azure Keyvault for ASP.NET Core 1.0 and Entity Framework Core 1.0",
           "Speaker": {
-            "Name": "Punit Ganshani",
-            "Description": "Punit, a Microsoft MVP, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a Book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various International forums in Asia, UK, Brazil and US",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+            "Name": "Riza Marhaban",
+            "Description": "Riza is a long time developers and he is managing communities such as the .NET Developers Community and Azure Community in Singapore. He is also a speaker and trainer. His motto is \"I'm just a simple developer\".",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/riza.jpg",
             "Social": {
-                "Twitter": "http://www.twitter.com/ganshani",
-                "Website": "http://www.ganshani.com",
-                "Facebook" :"http://www.facebook.com/1gigtech.dev"
+              "Facebook": "https://www.facebook.com/riza.marhaban"
             }
           }
         },
@@ -249,14 +247,16 @@
         },
         {
           "SessionId": "DEV4",
-         "Time": "2:30 PM - 3:30 PM",
-          "Title": "Using HSM in Azure Keyvault for ASP.NET Core 1.0 and Entity Framework Core 1.0",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "Internet Of Things - Wiring the data on Azure",
           "Speaker": {
-            "Name": "Riza Marhaban",
-            "Description": "Riza is a long time developers and he is managing communities such as the .NET Developers Community and Azure Community in Singapore. He is also a speaker and trainer. His motto is \"I'm just a simple developer\".",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/riza.jpg",
+            "Name": "Punit Ganshani",
+            "Description": "Punit, a Microsoft MVP, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a Book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various International forums in Asia, UK, Brazil and US",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
             "Social": {
-              "Facebook": "https://www.facebook.com/riza.marhaban"
+                "Twitter": "http://www.twitter.com/ganshani",
+                "Website": "http://www.ganshani.com",
+                "Facebook" :"http://www.facebook.com/PunitBGanshani"
             }
           }
         },
