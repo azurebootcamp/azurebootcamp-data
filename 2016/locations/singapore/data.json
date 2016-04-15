@@ -14,6 +14,12 @@
     "Link": "http://www.meetup.com/mssgug/events/227791830/",
     "Type": "warning"
   },
+  "Campaigns": [
+    {
+	    "Text": "Survey",
+      "Link": "http://j.mp/abcsg-2016"
+    }
+  ],
   "Organizers": [
     {
       "Name": "Faizal Mohamed",
