@@ -82,7 +82,7 @@
         },
         {
           "SessionId": "DEV1",
-          "Time": "12:30 - 13:15",
+          "Time": "12:30 - 13:30 (session 45 min)",
           "Title": "Azure Service Fabric by Sekoia - Mentioned during BUILD Keynote,  Downstairs canteen",
           "Speaker": {
             "Name": "Claus Nielsen",
@@ -96,12 +96,12 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "13:15 - 13:30",
+          "Time": "13:30 - 13:50",
           "Title": "Break / Pause"
          },
         {
           "SessionId": "DEV2",
-          "Time": "13:30 - 14:45",
+          "Time": "13:50 - 14:45 (Session 45 min)",
           "Title": "Continuous Delivery with Docker on Azure - Ninja Docker and Jenkins Stuff by Johan - Whale Power,  Downstairs canteen",
           "Speaker": {
             "Name": "Johan Sigfred Abildskov",
@@ -157,7 +157,7 @@
 
         {
           "SessionId": "ITPRO1",
-          "Time": "12:30 - 13:15",
+          "Time": "12:30 - 13:30 (session 45 min)",
           "Title": "Windows 10 and Azure AD, Ground floor canteen",
           "Speaker": {
             "Name": "Jesper Nielsen",
@@ -171,12 +171,12 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "13:15 - 13:30",
+          "Time": "13:30 - 13:50",
           "Title": "Break / Pause"
         },
         {
           "SessionId": "ITPRO2",
-          "Time": "13:30 - 14:45",
+          "Time": "13:50 - 14:45 (Session 45 min)",
           "Title": "Microsoft Azure AD and EMS,  Ground floor canteen",
           "Speaker": {
             "Name": "Per Larsen",
