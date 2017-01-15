@@ -49,32 +49,32 @@
   "Sponsors": [
     {
       "Name": "TBD",
-      "Image": "#",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
       "Link": "#",
       "Category": "1|Gold Sponsor"
     },
     {
       "Name": "TBD",
-      "Image": "#",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
       "Link": "#",
       "Category": "2|Silver Sponsors"
     },
     {
       "Name": "TBD",
-      "Image": "#",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
       "Link": "#",
       "Category": "3|Lucky Draw Sponsors"
     },
     {
       "Name": "TBD",
-      "Image": "#",
+      "Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
       "Link": "#",
       "Category": "4|Global Sponsors"
     }
   ],
   "Prizes": [
      {
-      "ImageUrl": "#",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
       "Link": "#",
       "Name": "#"
     }
