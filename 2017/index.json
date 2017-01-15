@@ -1,0 +1,10 @@
+{
+  "Locations": [
+    { 
+        "Name":"Singapore",
+        "Folder":"Singapore",
+        "WebsiteUrl":"http://sg-azurebootcamp.azurewebsites.net", 
+        "Show": true
+    }
+  ]
+}

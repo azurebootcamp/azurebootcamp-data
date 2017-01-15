@@ -1,0 +1,481 @@
+{
+  "Location": {
+    "Name": "Singapore",
+    "Latitude": 1.282387,
+    "Longitude": 103.850243,
+    "Address": "One Marina Boulevard, Singapore"
+  },
+  "Social": {
+    "Meetup": "https://www.meetup.com/mssgug/events/236349222/",
+    "Facebook": "https://www.facebook.com/MWAPSG"
+  },
+  "Callout": {
+    "Text": "Call for Speakers",
+    "Link": "http://1drv.ms/1mz8P36",
+    "Type": "default"
+  },
+  "Organizers": [
+    {
+      "Name": "Faizal Mohamed",
+      "Social": {
+        "Email": "kmdfaizal@yahoo.com"
+      }
+    },
+    {
+      "Name": "Punit Ganshani",
+      "Social": {
+        "Email": "punit.ganshani@gmail.com"
+      }
+    },
+    {
+      "Name": "Sakthis Kumar",
+      "Social": {
+        "Email": "sakthis@sakthis.net"
+      }
+    },
+    {
+      "Name": "Senthamil Selvan",
+      "Social": {
+        "Email": "altfo@hotmail.com"
+      }
+    },
+    {
+      "Name": "Alvin Lau",
+      "Social": {
+        "Email": "microlau@gmail.com"
+      }
+    }
+  ],
+  "Sponsors": [
+    {
+      "Name": "TBD",
+      "Image": "#",
+      "Link": "#",
+      "Category": "1|Gold Sponsor"
+    },
+    {
+      "Name": "TBD",
+      "Image": "#",
+      "Link": "#",
+      "Category": "2|Silver Sponsors"
+    },
+    {
+      "Name": "TBD",
+      "Image": "#",
+      "Link": "#",
+      "Category": "3|Lucky Draw Sponsors"
+    },
+    {
+      "Name": "TBD",
+      "Image": "#",
+      "Link": "#",
+      "Category": "4|Global Sponsors"
+    }
+  ],
+  "Prizes": [
+     {
+      "ImageUrl": "#",
+      "Link": "#",
+      "Name": "#"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "Developer Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "Keynote",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "",
+            "ImageUrl": ""
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV1",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV2",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "#",
+            "ImageUrl": "#",
+            "Social": {
+              "Website": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV3",
+          "Time": "1:15 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "2:15 PM - 2:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV4",
+         "Time": "2:30 PM - 3:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV6",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing & Luck Draw"
+        }
+      ]
+    },
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "Keynote",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO1",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "1:15 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "2:15 PM - 2:30 PM",
+          "Title": "Break"
+        },
+        {         
+           "SessionId": "ITPRO4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO6",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing & Luck Draw"
+        }
+      ]
+    },
+    {
+      "Name": "Data Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:45 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "10:00 AM - 10:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DATA1",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "DATA2",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DATA3",
+          "Time": "1:15 PM - 2:15 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "2:15 PM - 2:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DATA4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "DATA5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "DATA6",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBD",
+          "Speaker": {
+            "Name": "TBD",
+            "Description": "TBD",
+            "ImageUrl": "",
+            "Social": {
+                "Twitter": "#",
+                "Website": "#",
+                "Facebook" :"#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing & Luck Draw"
+        }
+
+      ]
+    }
+  ]
+}
