@@ -106,13 +106,13 @@
         {
           "SessionId": "DEV1",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "TBD",
+          "Title": "Serverless Computing with Azure Functions and Logic Apps",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "",
-            "ImageUrl": "",
+            "Name": "Wely Lau",
+            "Description": "This session will walk you through two serverless offering from Azure: Functions which enables you to host and execute your code and Logic Apps which is the managed-workflow on the cloud",
+            "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAtEAAAAJDU3ZDIxMjdiLTQzYTItNDQ2Mi1hNjY0LWVkMTgyODcxMjFiZQ.jpg",
             "Social": {
-                "Twitter" :"#"
+              "Twitter": "#"
             }
           }
         },
