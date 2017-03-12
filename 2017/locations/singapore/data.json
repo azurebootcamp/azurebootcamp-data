@@ -237,15 +237,15 @@
         {
           "SessionId": "ITPRO1",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "TBD",
+          "Title": "A Practical approach to High Availability in Azure",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "TBD",
-            "ImageUrl": "",
+            "Name": "MS Anand",
+            "Description": "Attend this session to understand the different options available for building highly available IaaS solutions on Azure. We will cover which options work best for different scenarios and will also include demos. The technologies that we will cover during this session include (but not limited to): Availability Sets, VM Scale Sets, Traffic Manager, Recovery Services.",
+            "ImageUrl": "https://1drv.ms/i/s!AjXtMM0Bc7cmraYAO3kbUP26E_HzCg",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "LinkedIn": "https://sg.linkedin.com/in/anand-ms-b914152",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
