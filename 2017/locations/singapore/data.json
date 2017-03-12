@@ -243,7 +243,7 @@
             "Description": "Attend this session to understand the different options available for building highly available IaaS solutions on Azure. We will cover which options work best for different scenarios and will also include demos. The technologies that we will cover during this session include (but not limited to): Availability Sets, VM Scale Sets, Traffic Manager, Recovery Services.",
             "ImageUrl": "https://1drv.ms/i/s!AjXtMM0Bc7cmraYAO3kbUP26E_HzCg",
             "Social": {
-              "LinkedIn": "https://sg.linkedin.com/in/anand-ms-b914152",
+              "Twitter": "#",
               "Website": "#",
               "Facebook": "#"
             }
@@ -372,15 +372,15 @@
         {
           "SessionId": "DATA1",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "TBD",
+          "Title": "Getting Started With Azure Machine Learning",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "TBD",
-            "ImageUrl": "",
+            "Name": "Setu Chokshi",
+            "Description": "An entry level session, that will walk them through the algorithms available within Azure ML (some of them) and then step by step walk them through one or two examples that they can practise. Complete hands on exercise.",
+            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/22a/0c5/21b7e54.jpg",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -472,7 +472,7 @@
         {
           "SessionId": "Common6",
           "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing & Luck Draw"
+          "Title": "Closing & Lucky Draw"
         }
 
       ]
