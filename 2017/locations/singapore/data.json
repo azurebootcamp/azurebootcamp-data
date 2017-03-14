@@ -139,7 +139,7 @@
           "Time": "1:15 PM - 2:15 PM",
           "Title": "TBD",
           "Speaker": {
-            "Name": "TBD",
+            "Name": "Sandeep Joshi",
             "Description": "TBD",
             "ImageUrl": "",
             "Social": {
@@ -159,7 +159,7 @@
          "Time": "2:30 PM - 3:30 PM",
           "Title": "TBD",
           "Speaker": {
-            "Name": "TBD",
+            "Name": "Ujjwal Kumar",
             "Description": "TBD",
             "ImageUrl": "",
             "Social": {
@@ -172,15 +172,27 @@
         {
           "SessionId": "DEV5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD",
+          "Title": "Azure.mobile.com - Visual Studio Mobile Services",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "TBD",
-            "ImageUrl": "",
+            "Name": "Ben ishiyama-levy",
+            "Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios.
+
+Test (Xamarin TestCloud)
+
+• Distribute (Hockey App) 
+
+• Crashes (part of HockeyApp) 
+
+• Analytics (Xamarin Insights) 
+
+• Tables (Repository: Connected to Azure) 
+
+• Identity (Authentication: Connected to Azure)",
+            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Twitter": "#",
+              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy",
+              "Facebook": "#"
             }
           }
         },
@@ -309,13 +321,13 @@
           "Time": "3:30 PM - 4:30 PM",
           "Title": "TBD",
           "Speaker": {
-            "Name": "TBD",
+            "Name": "Mohamed Faizal",
             "Description": "TBD",
             "ImageUrl": "",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -387,15 +399,15 @@
         {
           "SessionId": "DATA2",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "TBD",
+          "Title": "Disrupting the Media and Broadcast industry",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "TBD",
-            "ImageUrl": "",
+            "Name": "Alex Chan",
+            "Description": "Learn how you can you create your own Netflix using Azure Media Services. If that's not enough, use Media Analytics and Cognitive Services to create your own niche.",
+            "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAJvAAAAJDMyZTZkOGQyLTYxYmItNGUzNC04NzdlLTgyODZmMjk4NTBiNg.jpg",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Linkedin": "https://www.linkedin.com/in/alexchanhw",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -407,15 +419,15 @@
         {
           "SessionId": "DATA3",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "TBD",
+          "Title": "Bleed Blue for the clouds – SQL Azure",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "TBD",
+            "Name": "Dharmendra Keshari",
+            "Description": "Bleed Bright Blue for the clouds in the Sky. Yes I would be presenting Microsoft Azure and how SQL Server DBA's can benefit with Azure as your platform. This session would introduce you to Microsoft SQL Azure and helps to put Production DBA's mind at ease that their jobs will not be going away with Azure. This session would give a complete clarity and good foundation of where to start and what would be the next step with the Azure. It would cover on how to plan for Azure and demonstrate on DTU Calculator on Azure suitability and also important tools that are very handy and crucial to understand.",
             "ImageUrl": "",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Linkedin": "https://www.linkedin.com/in/dharmendra-keshari-a7043398",
+              "Website": "http://www.dharmendrakeshari.com/about",
+              "Facebook": "#"
             }
           }
         },
@@ -429,7 +441,7 @@
           "Time": "2:30 PM - 3:30 PM",
           "Title": "TBD",
           "Speaker": {
-            "Name": "TBD",
+            "Name": "Senthamil Selvan",
             "Description": "TBD",
             "ImageUrl": "",
             "Social": {
@@ -442,9 +454,9 @@
         {
           "SessionId": "DATA5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD",
+          "Title": "Azure Insights",
           "Speaker": {
-            "Name": "TBD",
+            "Name": "Louis",
             "Description": "TBD",
             "ImageUrl": "",
             "Social": {
