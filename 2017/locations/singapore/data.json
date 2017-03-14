@@ -119,13 +119,13 @@
         {
           "SessionId": "DEV2",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "TBD",
+          "Title": "Using Azure Function to Build Serverless SharePoint App",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "#",
+            "Name": "Riwut Libinuko",
+            "Description": "In this session we will explore what is azure function and how we can leverage it to build serverless application. We will then use this serverless architecture to build customization for SharePoint modern apps.",
             "ImageUrl": "#",
             "Social": {
-              "Website": "#"
+              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/4024516?fullName=riwut%20libinuko"
             }
           }
         },
@@ -284,15 +284,15 @@ Test (Xamarin TestCloud)
         {
           "SessionId": "ITPRO3",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "TBD",
+          "Title": "Accelerating your Journey to the Cloud",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "TBD",
+            "Name": "Milton Koh",
+            "Description": "Feeling skeptical about the Cloud? Not sure if that will bring any benefits to you personally, to your job or to your organization? Wait no more, come to my session and we will trash all this out. :)",
             "ImageUrl": "",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Twitter": "#",
+              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5001323?fullName=Sheng%20Wei%20Milton%20%20Goh",
+              "Facebook": "#"
             }
           }
         },
