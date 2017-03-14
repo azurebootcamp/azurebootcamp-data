@@ -178,15 +178,10 @@
             "Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios.
 
 Test (Xamarin TestCloud)
-
 • Distribute (Hockey App) 
-
 • Crashes (part of HockeyApp) 
-
 • Analytics (Xamarin Insights) 
-
-• Tables (Repository: Connected to Azure) 
-
+• Tables (Repository: Connected to Azure)
 • Identity (Authentication: Connected to Azure)",
             "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
             "Social": {
@@ -419,7 +414,7 @@ Test (Xamarin TestCloud)
         {
           "SessionId": "DATA3",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "Bleed Blue for the clouds – SQL Azure",
+          "Title": "Bleed Blue for the clouds - SQL Azure",
           "Speaker": {
             "Name": "Dharmendra Keshari",
             "Description": "Bleed Bright Blue for the clouds in the Sky. Yes I would be presenting Microsoft Azure and how SQL Server DBA's can benefit with Azure as your platform. This session would introduce you to Microsoft SQL Azure and helps to put Production DBA's mind at ease that their jobs will not be going away with Azure. This session would give a complete clarity and good foundation of where to start and what would be the next step with the Azure. It would cover on how to plan for Azure and demonstrate on DTU Calculator on Azure suitability and also important tools that are very handy and crucial to understand.",
