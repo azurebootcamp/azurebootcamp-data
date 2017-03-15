@@ -90,7 +90,7 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "9:00 AM - 10:00 AM",
+          "Time": "9:00 AM - 09:45 AM",
           "Title": "Keynote",
           "Speaker": {
             "Name": "TBD",
@@ -112,7 +112,7 @@
             "Description": "This session will walk you through two serverless offering from Azure: Functions which enables you to host and execute your code and Logic Apps which is the managed-workflow on the cloud",
             "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAtEAAAAJDU3ZDIxMjdiLTQzYTItNDQ2Mi1hNjY0LWVkMTgyODcxMjFiZQ.jpg",
             "Social": {
-              "Twitter": "#"
+              "Website": "http://wely-lau.net/"
             }
           }
         },
@@ -248,11 +248,8 @@ Test (Xamarin TestCloud)
           "Speaker": {
             "Name": "MS Anand",
             "Description": "Attend this session to understand the different options available for building highly available IaaS solutions on Azure. We will cover which options work best for different scenarios and will also include demos. The technologies that we will cover during this session include (but not limited to): Availability Sets, VM Scale Sets, Traffic Manager, Recovery Services.",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/anandms.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
             }
           }
         },
@@ -265,9 +262,6 @@ Test (Xamarin TestCloud)
             "Description": "Security has never stopped being a hot topic in the wave of digital transformation. Moving to cloud does not mean your system is protected. The responsibility of information security is still shared by both parties: cloud provider and you, and has been a challenge to you in the design & implementation. This session will give you a practical design for a secure system hosted on Microsoft Azure. There will be also the model and lesson learnt from Government Cloud which is the principle to the architecture design & implementation",
             "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/4033607",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
             }
           }
         },
@@ -285,9 +279,9 @@ Test (Xamarin TestCloud)
             "Description": "Feeling skeptical about the Cloud? Not sure if that will bring any benefits to you personally, to your job or to your organization? Wait no more, come to my session and we will trash all this out. :)",
             "ImageUrl": "",
             "Social": {
-              "Twitter": "#",
+              "Twitter": "https://twitter.com/miltongoh",
               "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5001323?fullName=Sheng%20Wei%20Milton%20%20Goh",
-              "Facebook": "#"
+              "Facebook": "https://www.facebook.com/miltongoh"
             }
           }
         },
@@ -314,15 +308,14 @@ Test (Xamarin TestCloud)
         {
           "SessionId": "ITPRO5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD",
+          "Title": "Architect Hybrid Cloud",
           "Speaker": {
             "Name": "Mohamed Faizal",
             "Description": "TBD",
-            "ImageUrl": "",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
+              "Twitter": "http://www.twitter.com/kmdfaizal",
+              "Facebook": "https://www.facebook.com/kmdfaizal"
             }
           }
         },
@@ -385,9 +378,6 @@ Test (Xamarin TestCloud)
             "Description": "An entry level session, that will walk them through the algorithms available within Azure ML (some of them) and then step by step walk them through one or two examples that they can practise. Complete hands on exercise.",
             "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/22a/0c5/21b7e54.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
             }
           }
         },
@@ -401,8 +391,6 @@ Test (Xamarin TestCloud)
             "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAJvAAAAJDMyZTZkOGQyLTYxYmItNGUzNC04NzdlLTgyODZmMjk4NTBiNg.jpg",
             "Social": {
               "Linkedin": "https://www.linkedin.com/in/alexchanhw",
-              "Website": "#",
-              "Facebook": "#"
             }
           }
         },
@@ -422,7 +410,6 @@ Test (Xamarin TestCloud)
             "Social": {
               "Linkedin": "https://www.linkedin.com/in/dharmendra-keshari-a7043398",
               "Website": "http://www.dharmendrakeshari.com/about",
-              "Facebook": "#"
             }
           }
         },
@@ -441,7 +428,6 @@ Test (Xamarin TestCloud)
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
             "Social": {
               "Twitter": "http://www.twitter.com/altfo",
-              "Website": "#",
               "Facebook": "https://www.facebook.com/altfo"
             }
           }
