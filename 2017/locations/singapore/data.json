@@ -140,12 +140,12 @@
           "Title": "TBD",
           "Speaker": {
             "Name": "Sandeep Joshi",
-            "Description": "TBD",
-            "ImageUrl": "",
+            "Description": "An accomplished technology leader with a successful track record for building high growth engineering organizations and tranforming traditional organization teams to be agile. He builds usable software products and known for his delivery exellence in technology circles. He is a MVP for Visual Studio Application Lifecycle and loves to talk about architecture, cloud, devops and developer productivity.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sandeepjoshi.jpg",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -157,15 +157,15 @@
         {
           "SessionId": "DEV4",
          "Time": "2:30 PM - 3:30 PM",
-          "Title": "TBD",
+          "Title": "Topci on Blockchain & IoT",
           "Speaker": {
             "Name": "Ujjwal Kumar",
-            "Description": "TBD",
-            "ImageUrl": "",
+            "Description": "Ujjwal is Sr Technical Evangelist in Microsoft Singapore and he focuses on Azure",
+            "ImageUrl": "http://www.pgconnects.com/bangalore/wp-content/uploads/sites/6/2015/03/Ujjwal-Kumar-500x500.jpg",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
             }
           }
         },
@@ -437,12 +437,12 @@ Test (Xamarin TestCloud)
           "Title": "TBD",
           "Speaker": {
             "Name": "Senthamil Selvan",
-            "Description": "TBD",
-            "ImageUrl": "",
+            "Description": "Senthamil Selvan is awarded as Microsoft MVP in Windows Development. He has 11+ years of experience in Microsoft Platform including Windows Forms, SharePoint and Universal Apps development. He has published several Windows Apps in the Store - 8 Windows Phone and 5 Windows Store Apps.",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
             "Social": {
-                "Twitter": "#",
-                "Website": "#",
-                "Facebook" :"#"
+              "Twitter": "http://www.twitter.com/altfo",
+              "Website": "#",
+              "Facebook": "https://www.facebook.com/altfo"
             }
           }
         },
