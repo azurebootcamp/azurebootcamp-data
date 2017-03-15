@@ -16,7 +16,7 @@
   },
   "Organizers": [
     {
-      "Name": "Faizal Mohamed",
+      "Name": "Mohamed Faizal",
       "Social": {
         "Email": "kmdfaizal@yahoo.com"
       }
@@ -123,7 +123,7 @@
           "Speaker": {
             "Name": "Riwut Libinuko",
             "Description": "In this session we will explore what is azure function and how we can leverage it to build serverless application. We will then use this serverless architecture to build customization for SharePoint modern apps.",
-            "ImageUrl": "#",
+            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/Riwut-Libinoko.jpg",
             "Social": {
               "Website": "https://mvp.microsoft.com/en-us/PublicProfile/4024516?fullName=riwut%20libinuko"
             }
@@ -143,9 +143,6 @@
             "Description": "An accomplished technology leader with a successful track record for building high growth engineering organizations and tranforming traditional organization teams to be agile. He builds usable software products and known for his delivery exellence in technology circles. He is a MVP for Visual Studio Application Lifecycle and loves to talk about architecture, cloud, devops and developer productivity.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sandeepjoshi.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
             }
           }
         },
@@ -157,15 +154,12 @@
         {
           "SessionId": "DEV4",
          "Time": "2:30 PM - 3:30 PM",
-          "Title": "Topci on Blockchain & IoT",
+          "Title": "Topic on Blockchain & IoT",
           "Speaker": {
             "Name": "Ujjwal Kumar",
             "Description": "Ujjwal is Sr Technical Evangelist in Microsoft Singapore and he focuses on Azure",
             "ImageUrl": "http://www.pgconnects.com/bangalore/wp-content/uploads/sites/6/2015/03/Ujjwal-Kumar-500x500.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
             }
           }
         },
@@ -185,9 +179,7 @@ Test (Xamarin TestCloud)
 • Identity (Authentication: Connected to Azure)",
             "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
             "Social": {
-              "Twitter": "#",
               "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy",
-              "Facebook": "#"
             }
           }
         },
@@ -295,13 +287,10 @@ Test (Xamarin TestCloud)
           "Time": "2:30 PM - 3:30 PM",
           "Title": "Azure Networking Updates",
           "Speaker": {
-            "Name": "Kunal Bhatia",
+            "Name": "Kunal Bhatia, Microsoft",
             "Description": "Quick update on Azure Networking new features, enhancements - Vnets, Security, ExpressRoute etc",
             "ImageUrl": "",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
             }
           }
         },
@@ -311,7 +300,7 @@ Test (Xamarin TestCloud)
           "Title": "Architect Hybrid Cloud",
           "Speaker": {
             "Name": "Mohamed Faizal",
-            "Description": "TBD",
+            "Description": "Mohamed Faizal, MSFT, has 18+years' experience in Enterprise Solutions, SharePoint, Cloud Architect (PaaS/SaaS) with extensive experience on developing .NET, SharePoint 2007,2010 and 2013 solutions on the cloud or on premise. Faizal has consulted for many enterprise companies and government agencies",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
             "Social": {
               "Twitter": "http://www.twitter.com/kmdfaizal",
@@ -408,8 +397,7 @@ Test (Xamarin TestCloud)
             "Description": "Bleed Bright Blue for the clouds in the Sky. Yes I would be presenting Microsoft Azure and how SQL Server DBA's can benefit with Azure as your platform. This session would introduce you to Microsoft SQL Azure and helps to put Production DBA's mind at ease that their jobs will not be going away with Azure. This session would give a complete clarity and good foundation of where to start and what would be the next step with the Azure. It would cover on how to plan for Azure and demonstrate on DTU Calculator on Azure suitability and also important tools that are very handy and crucial to understand.",
             "ImageUrl": "",
             "Social": {
-              "Linkedin": "https://www.linkedin.com/in/dharmendra-keshari-a7043398",
-              "Website": "http://www.dharmendrakeshari.com/about",
+              "Website": "http://www.dharmendrakeshari.com/about"
             }
           }
         },
