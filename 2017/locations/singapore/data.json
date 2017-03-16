@@ -10,8 +10,8 @@
     "Facebook": "https://www.facebook.com/MWAPSG"
   },
   "Callout": {
-    "Text": "Call for Speakers",
-    "Link": "http://1drv.ms/1mz8P36",
+    "Text": "RSVP Today ",
+    "Link": "https://www.meetup.com/mssgug/events/236349222",
     "Type": "default"
   },
   "Organizers": [
@@ -287,7 +287,7 @@ Test (Xamarin TestCloud)
           "Time": "2:30 PM - 3:30 PM",
           "Title": "Azure Networking Updates",
           "Speaker": {
-            "Name": "Kunal Bhatia, Microsoft",
+            "Name": "Kunal Bhatia",
             "Description": "Quick update on Azure Networking new features, enhancements - Vnets, Security, ExpressRoute etc",
             "ImageUrl": "",
             "Social": {
