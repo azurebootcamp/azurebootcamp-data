@@ -169,22 +169,7 @@
 					"Title": "Azure.mobile.com - Visual Studio Mobile Services",
 					"Speaker": {
 						"Name": "Ben ishiyama-levy",
-						"Description": "\"Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios.",
-
-						"Test" "(Xamarin",
-						"TestCloud)" "�",
-						"Distribute" "(Hockey",
-						"App)" "�",
-						"Crashes" "(part",
-						"of" "HockeyApp)",
-						"�" "Analytics",
-						"(Xamarin" "Insights)",
-						"�" "Tables",
-						"(Repository": "Connected",
-						"to" "Azure)",
-						"�" "Identity",
-						"(Authentication": "Connected",
-						"to" "Azure)\",",
+						"Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios, Test (Xamarin TestCloud), Distribute (HockeyApp), Crashes (part of HockeyApp), Analytic (Xamarin Insights), Tables (Repository: Connected to Azure), Identity (Authentication: Connected to Azure)",
 						"ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
 						"Social": {
 							"Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy"
