@@ -103,21 +103,21 @@
 							"Time": "9:00 AM - 9:15 AM",
 							"Title": "Break"
 						},
-						{
-							"SessionId": "DEV1",
-							"Time": "9:15 AM - 10:15 AM",
-							"Title": "TBD",
-							"Speaker": {
-								"Name": "TBD",
-								"Description": "TBD",
-								"ImageUrl": "",
-								"Social": {
-									"Twitter": "#",
-									"Website": "#",
-									"Facebook": "#"
-								}
-							}
-						},
+            {
+              "SessionId": "DEV1",
+              "Time": "9:15 AM - 10:15 AM",
+              "Title": "TBD",
+              "Speaker": {
+                "Name": "Punit Ganshani",
+                "Description": "Punit MSFT, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a Book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various International forums in Asia, UK, Brazil and US",
+                "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+                "Social": {
+                  "Twitter": "http://www.twitter.com/ganshani",
+                  "Website": "http://www.ganshani.com",
+                  "Facebook": "http://www.facebook.com/PunitBGanshani"
+                }
+              }
+            },
 						{
 							"SessionId": "DEV2",
 							"Time": "10:15 AM - 11:15 AM",
