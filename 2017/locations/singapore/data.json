@@ -6,7 +6,7 @@
 		"Address": "One Marina Boulevard, Singapore"
 	},
 	"Social": {
-		"Meetup": "https://www.meetup.com/mssgug/events/236349222/",
+		"Meetup": "https://www.meetup.com/mssgug/events/236349222",
 		"Facebook": "https://www.facebook.com/MWAPSG"
 	},
 	"Callout": {
@@ -51,26 +51,14 @@
 			"Name": "TBD",
 			"Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
 			"Link": "#",
-			"Category": "1|Gold Sponsor"
-		},
-		{
-			"Name": "TBD",
-			"Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
-			"Link": "#",
-			"Category": "2|Silver Sponsors"
-		},
-		{
-			"Name": "TBD",
-			"Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
-			"Link": "#",
 			"Category": "3|Lucky Draw Sponsors"
 		},
-		{
-			"Name": "TBD",
-			"Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
-			"Link": "#",
-			"Category": "4|Global Sponsors"
-		}
+    {
+      "Name": "Microsoft DX",
+      "Image": "https://global.azurebootcamp.net/wp-content/uploads/2013/04/microsoft-dx.png",
+      "Link": "#",
+      "Category": "4|Global Sponsors"
+    }
 	],
 	"Prizes": [
 		{
@@ -243,16 +231,17 @@
 						},
 						{
 							"SessionId": "ITPRO1",
-							"Time": "9:15 AM - 10:15 AM",
-							"Title": "Architect Hybrid Cloud",
-							"Speaker": {
-								"Name": "Mohamed Faizal",
-								"Description": "Mohamed Faizal, MSFT, has 18+years' experience in Enterprise Solutions, SharePoint, Cloud Architect (PaaS/SaaS) with extensive experience on developing .NET, SharePoint 2007,2010 and 2013 solutions on the cloud or on premise. Faizal has consulted for many enterprise companies and government agencies",
-								"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
-								"Social": {
-									"Twitter": "http://www.twitter.com/kmdfaizal",
-									"Facebook": "https://www.facebook.com/kmdfaizal"
-								}
+                  "Time": "9:15 AM - 10:15 AM",
+                  "Title": "Accelerating your Journey to the Cloud",
+                  "Speaker": {
+                    "Name": "Milton Koh",
+                    "Description": "Feeling skeptical about the Cloud? Not sure if that will bring any benefits to you personally, to your job or to your organization? Wait no more, come to my session and we will trash all this out. :)",
+                    "ImageUrl": "",
+                    "Social": {
+                      "Twitter": "https://twitter.com/miltongoh",
+                      "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5001323?fullName=Sheng%20Wei%20Milton%20%20Goh",
+                      "Facebook": "https://www.facebook.com/miltongoh"
+                    }
 							}
 						},
 						{
@@ -284,214 +273,214 @@
 							"Time": "12:15 PM - 1:15 PM",
 							"Title": "Lunch"
 						},
-						{
-							"SessionId": "ITPRO4",
-							"Time": "1:15 PM - 2:15 PM",
-							"Title": "Accelerating your Journey to the Cloud",
-							"Speaker": {
-								"Name": "Milton Koh",
-								"Description": "Feeling skeptical about the Cloud? Not sure if that will bring any benefits to you personally, to your job or to your organization? Wait no more, come to my session and we will trash all this out. :)",
-								"ImageUrl": "",
-								"Social": {
-									"Twitter": "https://twitter.com/miltongoh",
-									"Website": "https://mvp.microsoft.com/en-us/PublicProfile/5001323?fullName=Sheng%20Wei%20Milton%20%20Goh",
-									"Facebook": "https://www.facebook.com/miltongoh"
-								}
-							}
-						},
-						{
-							"SessionId": "Common5",
-							"Time": "2:15 PM - 2:30 PM",
-							"Title": "Break"
-						},
-						{
-							"SessionId": "ITPRO5",
-							"Time": "2:30 PM - 3:30 PM",
-							"Title": "Azure Networking Updates",
-							"Speaker": {
-								"Name": "Kunal Bhatia",
-								"Description": "Quick update on Azure Networking new features, enhancements - Vnets, Security, ExpressRoute etc",
-								"ImageUrl": "",
-								"Social": {
-								}
-							}
-						},
-						{
-							"SessionId": "ITPRO6",
-							"Time": "3:30 PM - 4:30 PM",
-							"Title": "Azure Security",
+            {
+              "SessionId": "ITPRO4",
+              "Time": "1:15 PM - 2:15 PM",
+              "Title": "Architect Hybrid Cloud",
               "Speaker": {
-                "Name": "Sakthis Kumar",
-                "Description": "Sakthis, Microsoft Azure MVP has 17+ years of IT experience spanning enterprise consulting, architecting hybrid solutions using Microsoft technologies like Exchange, SharePoint, Windows Server, Directory Services, Office 365 Platform, Azure.",
-                "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sakthis.jpg",
+                "Name": "Mohamed Faizal",
+                "Description": "Mohamed Faizal, MSFT, has 18+years' experience in Enterprise Solutions, SharePoint, Cloud Architect (PaaS/SaaS) with extensive experience on developing .NET, SharePoint 2007,2010 and 2013 solutions on the cloud or on premise. Faizal has consulted for many enterprise companies and government agencies",
+                "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/faizal.jpg",
                 "Social": {
-                  "Twitter": "https://twitter.com/Sakthis",
-                  "Facebook": "https://www.facebook.com/rsakthis"
+                  "Twitter": "http://www.twitter.com/kmdfaizal",
+                  "Facebook": "https://www.facebook.com/kmdfaizal",
+                  
+                    }
+                  }
+                },
+                {
+                  "SessionId": "Common5",
+                  "Time": "2:15 PM - 2:30 PM",
+                  "Title": "Break"
+                },
+                {
+                  "SessionId": "ITPRO5",
+                  "Time": "2:30 PM - 3:30 PM",
+                  "Title": "Azure Networking Updates",
+                  "Speaker": {
+                    "Name": "Kunal Bhatia",
+                    "Description": "Quick update on Azure Networking new features, enhancements - Vnets, Security, ExpressRoute etc",
+                    "ImageUrl": "",
+                    "Social": {
+                    }
+                  }
+                },
+                {
+                  "SessionId": "ITPRO6",
+                  "Time": "3:30 PM - 4:30 PM",
+                  "Title": "Azure Security",
+                  "Speaker": {
+                    "Name": "Sakthis Kumar",
+                    "Description": "Sakthis, Microsoft Azure MVP has 17+ years of IT experience spanning enterprise consulting, architecting hybrid solutions using Microsoft technologies like Exchange, SharePoint, Windows Server, Directory Services, Office 365 Platform, Azure.",
+                    "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sakthis.jpg",
+                    "Social": {
+                      "Twitter": "https://twitter.com/Sakthis",
+                      "Facebook": "https://www.facebook.com/rsakthis"
+                    }
+                  }
+                },
+                {
+                  "SessionId": "ITPRO7",
+                  "Time": "4:30 PM - 5:30 PM",
+                  "Title": "TBD",
+                  "Speaker": {
+                    "Name": "TBD",
+                    "Description": "TBD",
+                    "ImageUrl": "",
+                    "Social": {
+                      "Twitter": "#",
+                      "Website": "#",
+                      "Facebook": "#"
+                    }
+                  }
+                },
+                {
+                  "SessionId": "Common6",
+                  "Time": "5:30 PM - 6:00 PM",
+                  "Title": "Closing & Luck Draw"
                 }
-							}
-						},
-						{
-							"SessionId": "ITPRO7",
-							"Time": "4:30 PM - 5:30 PM",
-							"Title": "TBD",
-							"Speaker": {
-								"Name": "TBD",
-								"Description": "TBD",
-								"ImageUrl": "",
-								"Social": {
-									"Twitter": "#",
-									"Website": "#",
-									"Facebook": "#"
-								}
-							}
-						},
-						{
-							"SessionId": "Common6",
-							"Time": "5:30 PM - 6:00 PM",
-							"Title": "Closing & Luck Draw"
-						}
-					]
-		},
-		{
-			"Name": "Data Track",
-					"Sessions": [
-						{
-							"SessionId": "Common1",
-							"Time": "8:00 AM - 8:30 AM",
-							"Title": "Registration"
-						},
-						{
-							"SessionId": "Common2",
-							"Time": "8:30 AM - 9:00 AM",
-							"Title": "Keynote",
-							"Speaker": {
-								"Name": "TBD",
-								"Description": "TBD",
-								"ImageUrl": "",
-								"Social": {
-									"Twitter": "#",
-									"Website": "#",
-									"Facebook": "#"
-								}
-							}
-						},
-						{
-							"SessionId": "Common3",
-							"Time": "9:00 AM - 9:15 AM",
-							"Title": "Break"
-						},
-						{
-							"SessionId": "DATA1",
-							"Time": "9:15 AM - 10:15 AM",
-							"Title": "TBD",
-							"Speaker": {
-								"Name": "TBD",
-								"Description": "TBD",
-								"ImageUrl": "",
-								"Social": {
-								}
-							}
-						},
+                ]
+              },
+              {
+                "Name": "Data Track",
+                "Sessions": [
+                  {
+                    "SessionId": "Common1",
+                    "Time": "8:00 AM - 8:30 AM",
+                    "Title": "Registration"
+                  },
+                  {
+                    "SessionId": "Common2",
+                    "Time": "8:30 AM - 9:00 AM",
+                    "Title": "Keynote",
+                    "Speaker": {
+                      "Name": "TBD",
+                      "Description": "TBD",
+                      "ImageUrl": "",
+                      "Social": {
+                        "Twitter": "#",
+                        "Website": "#",
+                        "Facebook": "#"
+                      }
+                    }
+                  },
+                  {
+                    "SessionId": "Common3",
+                    "Time": "9:00 AM - 9:15 AM",
+                    "Title": "Break"
+                  },
+                  {
+                    "SessionId": "DATA1",
+                    "Time": "9:15 AM - 10:15 AM",
+                    "Title": "TBD",
+                    "Speaker": {
+                      "Name": "TBD",
+                      "Description": "TBD",
+                      "ImageUrl": "",
+                      "Social": {
+                      }
+                    }
+                  },
 
-						{
-							"SessionId": "DATA2",
-							"Time": "10:15 AM - 11:15 AM",
-							"Title": "Getting Started With Azure Machine Learning",
-							"Speaker": {
-								"Name": "Setu Chokshi",
-								"Description": "An entry level session, that will walk them through the algorithms available within Azure ML (some of them) and then step by step walk them through one or two examples that they can practise. Complete hands on exercise.",
-								"ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/22a/0c5/21b7e54.jpg",
-								"Social": {
-								}
-							}
-						},
-						{
-							"SessionId": "DATA3",
-							"Time": "11:15 AM - 12:15 PM",
-							"Title": "Disrupting the Media and Broadcast industry",
-							"Speaker": {
-								"Name": "Alex Chan",
-								"Description": "Learn how you can you create your own Netflix using Azure Media Services. If that's not enough, use Media Analytics and Cognitive Services to create your own niche.",
-								"ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAJvAAAAJDMyZTZkOGQyLTYxYmItNGUzNC04NzdlLTgyODZmMjk4NTBiNg.jpg",
-								"Social": {
-									"Linkedin": "https://www.linkedin.com/in/alexchanhw"
-								}
-							}
-						},
-						{
-							"SessionId": "Common4",
-							"Time": "12:15 PM - 1:15 PM",
-							"Title": "Lunch"
-						},
-						{
-							"SessionId": "DATA4",
-							"Time": "1:15 PM - 2:15 PM",
-							"Title": "Bleed Blue for the clouds - SQL Azure",
-							"Speaker": {
-								"Name": "Dharmendra Keshari",
-								"Description": "Bleed Bright Blue for the clouds in the Sky. Yes I would be presenting Microsoft Azure and how SQL Server DBA's can benefit with Azure as your platform. This session would introduce you to Microsoft SQL Azure and helps to put Production DBA's mind at ease that their jobs will not be going away with Azure. This session would give a complete clarity and good foundation of where to start and what would be the next step with the Azure. It would cover on how to plan for Azure and demonstrate on DTU Calculator on Azure suitability and also important tools that are very handy and crucial to understand.",
-								"ImageUrl": "",
-								"Social": {
-									"Website": "http://www.dharmendrakeshari.com/about"
-								}
-							}
-						},
-						{
-							"SessionId": "Common5",
-							"Time": "2:15 PM - 2:30 PM",
-							"Title": "Break"
-						},
-						{
-							"SessionId": "DATA5",
-							"Time": "2:30 PM - 3:30 PM",
-							"Title": "TBD",
-							"Speaker": {
-								"Name": "Senthamil Selvan",
-								"Description": "Senthamil Selvan is awarded as Microsoft MVP in Windows Development. He has 11+ years of experience in Microsoft Platform including Windows Forms, SharePoint and Universal Apps development. He has published several Windows Apps in the Store - 8 Windows Phone and 5 Windows Store Apps.",
-								"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
-								"Social": {
-									"Twitter": "http://www.twitter.com/altfo",
-									"Facebook": "https://www.facebook.com/altfo"
-								}
-							}
-						},
-						{
-							"SessionId": "DATA6",
-							"Time": "3:30 PM - 4:30 PM",
-							"Title": "Azure Insights",
-							"Speaker": {
-								"Name": "Louis",
-								"Description": "TBD",
-								"ImageUrl": "",
-								"Social": {
-									"Twitter": "#",
-									"Website": "#",
-									"Facebook": "#"
-								}
-							}
-						},
-						{
-							"SessionId": "DATA7",
-							"Time": "4:30 PM - 5:30 PM",
-							"Title": "TBD",
-							"Speaker": {
-								"Name": "TBD",
-								"Description": "TBD",
-								"ImageUrl": "",
-								"Social": {
-									"Twitter": "#",
-									"Website": "#",
-									"Facebook": "#"
-								}
-							}
-						},
-						{
-							"SessionId": "Common6",
-							"Time": "5:30 PM - 6:00 PM",
-							"Title": "Closing & Lucky Draw"
-						}
+                  {
+                    "SessionId": "DATA2",
+                    "Time": "10:15 AM - 11:15 AM",
+                    "Title": "Getting Started With Azure Machine Learning",
+                    "Speaker": {
+                      "Name": "Setu Chokshi",
+                      "Description": "An entry level session, that will walk them through the algorithms available within Azure ML (some of them) and then step by step walk them through one or two examples that they can practise. Complete hands on exercise.",
+                      "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/22a/0c5/21b7e54.jpg",
+                      "Social": {
+                      }
+                    }
+                  },
+                  {
+                    "SessionId": "DATA3",
+                    "Time": "11:15 AM - 12:15 PM",
+                    "Title": "Disrupting the Media and Broadcast industry",
+                    "Speaker": {
+                      "Name": "Alex Chan",
+                      "Description": "Learn how you can you create your own Netflix using Azure Media Services. If that's not enough, use Media Analytics and Cognitive Services to create your own niche.",
+                      "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAJvAAAAJDMyZTZkOGQyLTYxYmItNGUzNC04NzdlLTgyODZmMjk4NTBiNg.jpg",
+                      "Social": {
+                        "Linkedin": "https://www.linkedin.com/in/alexchanhw"
+                      }
+                    }
+                  },
+                  {
+                    "SessionId": "Common4",
+                    "Time": "12:15 PM - 1:15 PM",
+                    "Title": "Lunch"
+                  },
+                  {
+                    "SessionId": "DATA4",
+                    "Time": "1:15 PM - 2:15 PM",
+                    "Title": "Bleed Blue for the clouds - SQL Azure",
+                    "Speaker": {
+                      "Name": "Dharmendra Keshari",
+                      "Description": "Bleed Bright Blue for the clouds in the Sky. Yes I would be presenting Microsoft Azure and how SQL Server DBA's can benefit with Azure as your platform. This session would introduce you to Microsoft SQL Azure and helps to put Production DBA's mind at ease that their jobs will not be going away with Azure. This session would give a complete clarity and good foundation of where to start and what would be the next step with the Azure. It would cover on how to plan for Azure and demonstrate on DTU Calculator on Azure suitability and also important tools that are very handy and crucial to understand.",
+                      "ImageUrl": "",
+                      "Social": {
+                        "Website": "http://www.dharmendrakeshari.com/about"
+                      }
+                    }
+                  },
+                  {
+                    "SessionId": "Common5",
+                    "Time": "2:15 PM - 2:30 PM",
+                    "Title": "Break"
+                  },
+                  {
+                    "SessionId": "DATA5",
+                    "Time": "2:30 PM - 3:30 PM",
+                    "Title": "TBD",
+                    "Speaker": {
+                      "Name": "Senthamil Selvan",
+                      "Description": "Senthamil Selvan is awarded as Microsoft MVP in Windows Development. He has 11+ years of experience in Microsoft Platform including Windows Forms, SharePoint and Universal Apps development. He has published several Windows Apps in the Store - 8 Windows Phone and 5 Windows Store Apps.",
+                      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/senthamil.jpg",
+                      "Social": {
+                        "Twitter": "http://www.twitter.com/altfo",
+                        "Facebook": "https://www.facebook.com/altfo"
+                      }
+                    }
+                  },
+                  {
+                    "SessionId": "DATA6",
+                    "Time": "3:30 PM - 4:30 PM",
+                    "Title": "Azure Insights",
+                    "Speaker": {
+                      "Name": "Louis",
+                      "Description": "TBD",
+                      "ImageUrl": "",
+                      "Social": {
+                        "Twitter": "#",
+                        "Website": "#",
+                        "Facebook": "#"
+                      }
+                    }
+                  },
+                  {
+                    "SessionId": "DATA7",
+                    "Time": "4:30 PM - 5:30 PM",
+                    "Title": "TBD",
+                    "Speaker": {
+                      "Name": "TBD",
+                      "Description": "TBD",
+                      "ImageUrl": "",
+                      "Social": {
+                        "Twitter": "#",
+                        "Website": "#",
+                        "Facebook": "#"
+                      }
+                    }
+                  },
+                  {
+                    "SessionId": "Common6",
+                    "Time": "5:30 PM - 6:00 PM",
+                    "Title": "Closing & Lucky Draw"
+                  }
 
-					]
-		}
-	]
-}	
+                ]
+              }
+              ]
+            }	
