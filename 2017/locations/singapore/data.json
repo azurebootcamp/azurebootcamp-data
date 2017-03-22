@@ -96,13 +96,13 @@
               "Time": "9:15 AM - 10:15 AM",
               "Title": "TBD",
               "Speaker": {
-                "Name": "Punit Ganshani",
-                "Description": "Punit MSFT, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a Book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various International forums in Asia, UK, Brazil and US",
-                "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+                "Name": "Uli Hitzel",
+                "Description": "#",
+                "ImageUrl": "#",
                 "Social": {
-                  "Twitter": "http://www.twitter.com/ganshani",
-                  "Website": "http://www.ganshani.com",
-                  "Facebook": "http://www.facebook.com/PunitBGanshani"
+                  "Twitter": "#",
+                  "Website": "#",
+                  "Facebook": "#"
                 }
               }
             },
@@ -183,17 +183,19 @@
 							"SessionId": "DEV7",
 							"Time": "4:30 PM - 5:30 PM",
 							"Title": "TBD",
-							"Speaker": {
-								"Name": "TBD",
-								"Description": "TBD",
-								"ImageUrl": "",
-								"Social": {
-									"Twitter": "#",
-									"Website": "#",
-									"Facebook": "#"
-								}
-							}
-						},
+              "Speaker": {
+                "Speaker": {
+                  "Name": "Punit Ganshani",
+                  "Description": "Punit MSFT, is Geek, founder of KonfDB and an author of 20+ International Whitepapers and a Book.  He is an expert at Application Design & Development, Performance Optimization and defining Architecture for hybrid systems involving Microsoft, Open-Source and Messaging Platforms.  He has spoken in various International forums in Asia, UK, Brazil and US",
+                  "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+                  "Social": {
+                    "Twitter": "http://www.twitter.com/ganshani",
+                    "Website": "http://www.ganshani.com",
+                    "Facebook": "http://www.facebook.com/PunitBGanshani"
+                  },
+                  }
+                }
+              },
 						{
 							"SessionId": "Common6",
 							"Time": "5:30 PM - 6:00 PM",
@@ -374,7 +376,7 @@
                     "Time": "9:15 AM - 10:15 AM",
                     "Title": "TBD",
                     "Speaker": {
-                      "Name": "TBD",
+                      "Name": "Ben Sadeghi",
                       "Description": "TBD",
                       "ImageUrl": "",
                       "Social": {
