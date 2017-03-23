@@ -322,15 +322,13 @@
                 {
                   "SessionId": "ITPRO7",
                   "Time": "4:30 PM - 5:30 PM",
-                  "Title": "TBD",
+                  "Title": "Azure Stack",
                   "Speaker": {
-                    "Name": "TBD",
-                    "Description": "TBD",
-                    "ImageUrl": "",
+                    "Name": "Steven Li Yan",
+                    "Description": "What Azure Stack is, the kind of hardware setup it needs to run, clearing misconception that it's private cloud in a box but really an extension of Azure, values of public cloud and how hybrid cloud can be a strategy to get there",
+                    "ImageUrl": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAjgAAAAJDk1Njc1YTMyLTg5OGEtNDg5ZS05MjVhLTczMWEzNzcyMzM0Mg.jpg",
                     "Social": {
-                      "Twitter": "#",
-                      "Website": "#",
-                      "Facebook": "#"
+                      "Website": "https://www.linkedin.com/in/steven-li-yan-0a9b33135",
                     }
                   }
                 },
