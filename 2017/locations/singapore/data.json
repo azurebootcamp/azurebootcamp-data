@@ -188,9 +188,7 @@
                 "Description": "Learn about Containers on Azure",
                 "ImageUrl": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAk6AAAAJDU3YjkxMTJhLTMyNjMtNDlmYy05ZGY3LTdhM2E4YWI5Mjk5Zg.jpg",
                 "Social": {
-                  "Twitter": "#",
-                  "Website": "linkedin.com/in/uhitzel",
-                  "Facebook": "#"
+                  "Website": "linkedin.com/in/uhitzel"
                 }
               }
             },
@@ -374,8 +372,8 @@
                     "Title": "TBD",
                     "Speaker": {
                       "Name": "Ben Sadeghi",
-                      "Description": "TBD",
-                      "ImageUrl": "",
+                      "Description": "Big Data & Advanced Analytics Specialist at Microsoft Azure",
+                      "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAm1AAAAJDMwN2Y0ZDI0LTNjNzctNDQzYi05ZDI5LTY1MWRjZjk5N2VhZQ.jpg",
                       "Social": {
                       }
                     }
