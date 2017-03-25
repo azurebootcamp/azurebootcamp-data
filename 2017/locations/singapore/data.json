@@ -47,18 +47,7 @@
 		}
 	],
 	"Sponsors": [
-		{
-			"Name": "TBD",
-			"Image": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
-			"Link": "#",
-			"Category": "3|Lucky Draw Sponsors"
-		},
-    {
-      "Name": "Microsoft DX",
-      "Image": "https://global.azurebootcamp.net/wp-content/uploads/2013/04/microsoft-dx.png",
-      "Link": "#",
-      "Category": "4|Global Sponsors"
-    }
+ 
 	],
   "Prizes": [
     {
