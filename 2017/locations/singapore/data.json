@@ -62,14 +62,19 @@
 	],
   "Prizes": [
     {
-      "ImageUrl": "http://compass.xbox.com/assets/23/0d/230dc52a-8f0e-40bf-bbd1-c51fdb8371e3.png?n=Homepage-360-UA_Upgrade-big_1056x594.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/xbox.png",
       "Link": "http://www.xbox.com/en-SG/xbox-one",
-      "Name": "Xbox One#"
+      "Name": "Xbox One"
     },
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/msiotkit.jpg",
       "Link": "https://www.adafruit.com/products/2733",
       "Name": "Microsoft IoT Kit with Raspberry Pi"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/rpi3.jpg",
+      "Link": "http://sg.element14.com/buy-raspberry-pi?ICID=I-HP-PP-raspberrypi-bundle-boards-01",
+      "Name": "Raspberry Pi 3 Boards"
     }
   ],
 	"Tracks": [
