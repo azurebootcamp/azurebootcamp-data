@@ -233,16 +233,16 @@
 							"SessionId": "ITPRO1",
                   "Time": "9:15 AM - 10:15 AM",
                   "Title": "Accelerating your Journey to the Cloud",
-                  "Speaker": {
-                    "Name": "Milton Koh",
-                    "Description": "Feeling skeptical about the Cloud? Not sure if that will bring any benefits to you personally, to your job or to your organization? Wait no more, come to my session and we will trash all this out. :)",
-                    "ImageUrl": "",
-                    "Social": {
-                      "Twitter": "https://twitter.com/miltongoh",
-                      "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5001323?fullName=Sheng%20Wei%20Milton%20%20Goh",
-                      "Facebook": "https://www.facebook.com/miltongoh"
-                    }
-							}
+              "Speaker": {
+                "Name": "Milton Koh",
+                "Description": "Feeling skeptical about the Cloud? Not sure if that will bring any benefits to you personally, to your job or to your organization? Wait no more, come to my session and we will trash all this out. :)",
+                "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/miltongoh.jpg",
+                "Social": {
+                  "Twitter": "https://twitter.com/miltongoh",
+                  "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5001323?fullName=Sheng%20Wei%20Milton%20%20Goh",
+                  "Facebook": "https://www.facebook.com/miltongoh"
+                }
+              }
 						},
 						{
 							"SessionId": "ITPRO2",
@@ -418,7 +418,7 @@
                     "Speaker": {
                       "Name": "Dharmendra Keshari",
                       "Description": "Bleed Bright Blue for the clouds in the Sky. Yes I would be presenting Microsoft Azure and how SQL Server DBA's can benefit with Azure as your platform. This session would introduce you to Microsoft SQL Azure and helps to put Production DBA's mind at ease that their jobs will not be going away with Azure. This session would give a complete clarity and good foundation of where to start and what would be the next step with the Azure. It would cover on how to plan for Azure and demonstrate on DTU Calculator on Azure suitability and also important tools that are very handy and crucial to understand.",
-                      "ImageUrl": "",
+                      "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVBAAAAJGVkZTVkOGVhLWQ0MzYtNDE1ZS1hYjhiLTJiNjRmZTdiMGY0MQ.jpg",
                       "Social": {
                         "Website": "http://www.dharmendrakeshari.com/about"
                       }
