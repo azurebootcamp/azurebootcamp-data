@@ -62,7 +62,7 @@
 	],
   "Prizes": [
     {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/xbox.png",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/xbox.jpg",
       "Link": "http://www.xbox.com/en-SG/xbox-one",
       "Name": "Xbox One"
     },
@@ -72,7 +72,7 @@
       "Name": "Microsoft IoT Kit with Raspberry Pi"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/rpi3.jpg",
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/rpi31.jpg",
       "Link": "http://sg.element14.com/buy-raspberry-pi?ICID=I-HP-PP-raspberrypi-bundle-boards-01",
       "Name": "Raspberry Pi 3 Boards"
     }
