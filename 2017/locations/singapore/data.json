@@ -69,13 +69,19 @@
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/msiotkit.jpg",
       "Link": "https://www.adafruit.com/products/2733",
-      "Name": "Microsoft IoT Kit with Raspberry Pi"
+      "Name": "Microsoft IoT Kit / RPi 3"
     },
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/rpi31.jpg",
       "Link": "http://sg.element14.com/buy-raspberry-pi?ICID=I-HP-PP-raspberrypi-bundle-boards-01",
-      "Name": "Raspberry Pi 3 Boards"
+      "Name": "Raspberry Pi 3"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/USB.png",
+      "Link": "#",
+      "Name": "USB Drives"
     }
+
   ],
 	"Tracks": [
 		{
