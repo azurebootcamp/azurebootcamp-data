@@ -60,13 +60,18 @@
       "Category": "4|Global Sponsors"
     }
 	],
-	"Prizes": [
-		{
-			"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
-			"Link": "#",
-			"Name": "#"
-		}
-	],
+  "Prizes": [
+    {
+      "ImageUrl": "http://compass.xbox.com/assets/23/0d/230dc52a-8f0e-40bf-bbd1-c51fdb8371e3.png?n=Homepage-360-UA_Upgrade-big_1056x594.png",
+      "Link": "http://www.xbox.com/en-SG/xbox-one",
+      "Name": "Xbox One#"
+    },
+    {
+      "ImageUrl": "http://compass.xbox.com/assets/23/0d/230dc52a-8f0e-40bf-bbd1-c51fdb8371e3.png?n=Homepage-360-UA_Upgrade-big_1056x594.png",
+      "Link": "https://www.adafruit.com/products/2733",
+      "Name": "Microsoft IoT Kit with Raspberry Pi"
+    }
+  ],
 	"Tracks": [
 		{
 			"Name": "Developer Track",
