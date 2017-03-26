@@ -111,7 +111,8 @@
               "Title": "Intelligent Bots: Zero to One",
               "Speaker": {
                 "Name": "Punit Ganshani, Microsoft",
-                "Description": "Bots aren't introverts, but can they strike a meaningful conversation with you? This session will take you in a flight to building a Bot with natural language processing and an intelligence of a human, hosting it on Azure and accessing through a digital channel of your choice. Punit, an Architect in Microsoft, helps customers envision their digital journey, modernise enterprise technology landscape and build cloud and cross platform device apps. He has authored a book and 22+ articles in international magazines and spoken in 30+ conferences. He is active on www.ganshani.com and on MSDN blogs",
+                "Description": "Bots aren't introverts, but can they strike a meaningful conversation with you? This session will take you in a flight to building a Bot with natural language processing and an intelligence of a human, hosting it on Azure and accessing through a digital channel of your choice. 
+                  Punit, an Architect in Microsoft, helps customers envision their digital journey, modernise enterprise technology landscape and build cloud and cross platform device apps. He has authored a book and 22+ articles in international magazines and spoken in 30+ conferences. He is active on www.ganshani.com and on MSDN blogs",
                 "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
                 "Social": {
                   "Twitter": "http://www.twitter.com/ganshani",
