@@ -320,7 +320,7 @@
                 {
                   "SessionId": "ITPRO6",
                   "Time": "3:30 PM - 4:30 PM",
-                  "Title": "Azure Security",
+                  "Title": "Securing Azure Assets",
                   "Speaker": {
                     "Name": "Sakthis Kumar",
                     "Description": "Sakthis, Microsoft Azure MVP has 17+ years of IT experience spanning enterprise consulting, architecting hybrid solutions using Microsoft technologies like Exchange, SharePoint, Windows Server, Directory Services, Office 365 Platform, Azure.",
