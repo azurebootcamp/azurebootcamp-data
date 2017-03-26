@@ -383,10 +383,10 @@
                   {
                     "SessionId": "DATA1",
                     "Time": "9:15 AM - 10:15 AM",
-                    "Title": "TDB",
+                    "Title": "Big Data Compute with Azure HDInsight",
                     "Speaker": {
                       "Name": "Ben Sadeghi",
-                      "Description": "TBD",
+                      "Description": "HDInsight - A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service",
                       "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAm1AAAAJDMwN2Y0ZDI0LTNjNzctNDQzYi05ZDI5LTY1MWRjZjk5N2VhZQ.jpg",
                       "Social": {
                         "Website": "https://www.linkedin.com/in/bensadeghi"
@@ -459,7 +459,7 @@
                   {
                     "SessionId": "DATA6",
                     "Time": "3:30 PM - 4:30 PM",
-                    "Title": "Azure Insights",
+                    "Title": "Azure Application Insights",
                     "Speaker": {
                       "Name": "Louis",
                       "Description": "TBD",
