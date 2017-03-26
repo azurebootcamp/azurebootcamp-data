@@ -383,12 +383,13 @@
                   {
                     "SessionId": "DATA1",
                     "Time": "9:15 AM - 10:15 AM",
-                    "Title": "TBD",
+                    "Title": "Big Data Compute with Azure HDInsight",
                     "Speaker": {
                       "Name": "Ben Sadeghi",
-                      "Description": "Big Data & Advanced Analytics Specialist at Microsoft Azure",
+                      "Description": "HDInsight - A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service",
                       "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAm1AAAAJDMwN2Y0ZDI0LTNjNzctNDQzYi05ZDI5LTY1MWRjZjk5N2VhZQ.jpg",
                       "Social": {
+                        "Website": "https://www.linkedin.com/in/bensadeghi"
                       }
                     }
                   },
@@ -414,7 +415,7 @@
                       "Description": "Learn how you can you create your own Netflix using Azure Media Services. If that's not enough, use Media Analytics and Cognitive Services to create your own niche.",
                       "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAJvAAAAJDMyZTZkOGQyLTYxYmItNGUzNC04NzdlLTgyODZmMjk4NTBiNg.jpg",
                       "Social": {
-                        "Linkedin": "https://www.linkedin.com/in/alexchanhw"
+                        "Website": "https://www.linkedin.com/in/alexchanhw"
                       }
                     }
                   },
