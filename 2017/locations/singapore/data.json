@@ -383,10 +383,10 @@
                   {
                     "SessionId": "DATA1",
                     "Time": "9:15 AM - 10:15 AM",
-                    "Title": "Big Data Compute with Azure HDInsight",
+                    "Title": "TDB",
                     "Speaker": {
                       "Name": "Ben Sadeghi",
-                      "Description": "HDInsight - A managed Apache Hadoop, Spark, Storm, HBase, and R cloud service",
+                      "Description": "TBD",
                       "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAm1AAAAJDMwN2Y0ZDI0LTNjNzctNDQzYi05ZDI5LTY1MWRjZjk5N2VhZQ.jpg",
                       "Social": {
                         "Website": "https://www.linkedin.com/in/bensadeghi"
@@ -445,7 +445,7 @@
                   {
                     "SessionId": "DATA5",
                     "Time": "2:30 PM - 3:30 PM",
-                    "Title": "TBD",
+                    "Title": "TBD on Hololens",
                     "Speaker": {
                       "Name": "Senthamil Selvan",
                       "Description": "Senthamil Selvan is awarded as Microsoft MVP in Windows Development. He has 11+ years of experience in Microsoft Platform including Windows Forms, SharePoint and Universal Apps development. He has published several Windows Apps in the Store - 8 Windows Phone and 5 Windows Store Apps.",
