@@ -112,6 +112,7 @@
           "SessionId": "DEV1",
           "Time": "9:15 AM - 10:15 AM",
           "Title": "Intelligent Bots: Zero to One",
+          "Room":  "TBD",
           "Speaker": {
             "Name": "Punit Ganshani",
             "Organization": "Microsoft",
@@ -128,6 +129,7 @@
           "SessionId": "DEV2",
           "Time": "10:15 AM - 11:15 AM",
           "Title": "Serverless Computing with Azure Functions and Logic Apps",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Wely Lau",
             "Organization": "Microsoft",
@@ -142,6 +144,7 @@
           "SessionId": "DEV3",
           "Time": "11:15 AM - 12:15 PM",
           "Title": "Using Azure Function to Build Serverless SharePoint App",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Riwut Libinuko",
             "Organization": "MVP",
@@ -161,6 +164,7 @@
           "SessionId": "DEV4",
           "Time": "1:15 PM - 2:15 PM",
           "Title": "Scaling DevOps beyond teams with Azure",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Sandeep Joshi",
             "Organization": "MVP",
@@ -179,6 +183,7 @@
           "SessionId": "DEV5",
           "Time": "2:30 PM - 3:30 PM",
           "Title": "Topic on Blockchain & IoT",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Ujjwal Kumar",
             "Organization": "Microsoft",
@@ -192,6 +197,7 @@
           "SessionId": "DEV6",
           "Time": "3:30 PM - 4:30 PM",
           "Title": "Azure.mobile.com - Visual Studio Mobile Services",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Ben ishiyama-levy",
             "Organization": "MVP",
@@ -206,6 +212,7 @@
           "SessionId": "DEV7",
           "Time": "4:30 PM - 5:30 PM",
           "Title": "Containers on Azure",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Uli Hitzel",
             "Organization": "Microsoft",
@@ -255,6 +262,7 @@
           "SessionId": "ITPRO1",
           "Time": "9:15 AM - 10:15 AM",
           "Title": "Accelerating your Journey to the Cloud",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Milton Koh",
             "Organization": "MVP",
@@ -271,6 +279,7 @@
           "SessionId": "ITPRO2",
           "Time": "10:15 AM - 11:15 AM",
           "Title": "A Practical approach to High Availability in Azure",
+          "Room": "TBD",
           "Speaker": {
             "Name": "MS Anand",
             "Organization": "Microsoft",
@@ -284,6 +293,7 @@
           "SessionId": "ITPRO3",
           "Time": "11:15 AM - 12:15 PM",
           "Title": "Design A Secure Azure IaaS - Lesson Learnt from Government Cloud",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Thuan Ng",
             "Organization": "MVP",
@@ -302,6 +312,7 @@
           "SessionId": "ITPRO4",
           "Time": "1:15 PM - 2:15 PM",
           "Title": "Architect Hybrid Cloud",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Mohamed Faizal",
             "Organization": "Microsoft",
@@ -323,6 +334,7 @@
           "SessionId": "ITPRO5",
           "Time": "2:30 PM - 3:30 PM",
           "Title": "Azure Networking Updates",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Kunal Bhatia",
             "Organization": "Microsoft",
@@ -336,6 +348,7 @@
           "SessionId": "ITPRO6",
           "Time": "3:30 PM - 4:30 PM",
           "Title": "Securing Azure Assets",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Sakthis Kumar",
             "Organization": "MVP",
@@ -352,6 +365,7 @@
           "SessionId": "ITPRO7",
           "Time": "4:30 PM - 5:30 PM",
           "Title": "Azure Stack",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Steven Li Yan",
             "Organization": "Microsoft",
@@ -401,6 +415,7 @@
           "SessionId": "DATA1",
           "Time": "9:15 AM - 10:15 AM",
           "Title": "Big Data Compute with Azure HDInsight",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Ben Sadeghi",
             "Organization": "Microsoft",
@@ -416,6 +431,7 @@
           "SessionId": "DATA2",
           "Time": "10:15 AM - 11:15 AM",
           "Title": "Getting Started With Azure Machine Learning",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Setu Chokshi",
             "Organization": "Community",
@@ -429,6 +445,7 @@
           "SessionId": "DATA3",
           "Time": "11:15 AM - 12:15 PM",
           "Title": "Disrupting the Media and Broadcast industry",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Alex Chan",
             "Organization": "Community",
@@ -448,6 +465,7 @@
           "SessionId": "DATA4",
           "Time": "1:15 PM - 2:15 PM",
           "Title": "Bleed Blue for the clouds - SQL Azure",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Dharmendra Keshari",
             "Organization": "Community",
@@ -467,6 +485,7 @@
           "SessionId": "DATA5",
           "Time": "2:30 PM - 3:30 PM",
           "Title": "TBD on Hololens",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Senthamil Selvan",
             "Organization": "MVP",
@@ -482,6 +501,7 @@
           "SessionId": "DATA6",
           "Time": "3:30 PM - 4:30 PM",
           "Title": "Azure Application Insights",
+          "Room": "TBD",
           "Speaker": {
             "Name": "Louis Leong",
             "Organization": "Microsoft",
@@ -498,6 +518,7 @@
           "SessionId": "DATA7",
           "Time": "4:30 PM - 5:30 PM",
           "Title": "TBD",
+          "Room": "TBD",
           "Speaker": {
             "Name": "TBD",
             "Description": "TBD",
