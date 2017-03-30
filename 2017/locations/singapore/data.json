@@ -500,16 +500,16 @@
         {
           "SessionId": "DATA6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Azure Application Insights - Xamarin",
+          "Title": "Xamarin Application Insights",
           "Room": "TBD",
           "Speaker": {
             "Name": "Louis Leong",
             "Organization": "Microsoft",
             "Description": "TBD",
-            "ImageUrl": "",
+            "ImageUrl": "https://onedrive.live.com/?authkey=%21ACUT6Bv6fuzofI4&cid=FD0FCF31F79F679A&id=FD0FCF31F79F679A%21195869&parId=FD0FCF31F79F679A%21531&o=OneUp",
             "Social": {
               "Twitter": "#",
-              "Website": "#",
+              "Website": "https://www.linkedin.com/in/louisleongwy/",
               "Facebook": "#"
             }
           }
