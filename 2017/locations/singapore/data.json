@@ -1,4 +1,4 @@
-{
+﻿{
   "Event": {
     "Date": "22-04-2017"
   },
@@ -196,7 +196,7 @@
         {
           "SessionId": "DEV6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Azure.mobile.com - Visual Studio Mobile Services",
+          "Title": "Azure.mobile.com - Xamarin / VS Mobile Services",
           "Room": "TBD",
           "Speaker": {
             "Name": "Ben ishiyama-levy",
@@ -500,7 +500,7 @@
         {
           "SessionId": "DATA6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Azure Application Insights",
+          "Title": "Azure Application Insights - Xamarin",
           "Room": "TBD",
           "Speaker": {
             "Name": "Louis Leong",
