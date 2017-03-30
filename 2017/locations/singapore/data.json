@@ -183,7 +183,7 @@
 						{
 							"SessionId": "DEV6",
 							"Time": "3:30 PM - 4:30 PM",
-							"Title": "Azure.mobile.com - Visual Studio Mobile Services",
+							"Title": "Azure.mobile.com - Xamarin / Visual Studio Mobile Services",
 							"Speaker": {
 								"Name": "Ben ishiyama-levy, MVP",
 								"Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios, Test (Xamarin TestCloud), Distribute (HockeyApp), Crashes (part of HockeyApp), Analytic (Xamarin Insights), Tables (Repository: Connected to Azure), Identity (Authentication: Connected to Azure)",
@@ -459,7 +459,7 @@
                   {
                     "SessionId": "DATA6",
                     "Time": "3:30 PM - 4:30 PM",
-                    "Title": "Azure Application Insights",
+                    "Title": "Azure Application Insights - Xamarin",
                     "Speaker": {
                       "Name": "Louis, Microsoft",
                       "Description": "TBD",
