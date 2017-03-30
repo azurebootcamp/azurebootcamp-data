@@ -333,14 +333,15 @@
         {
           "SessionId": "ITPRO5",
           "Time": "2:30 PM - 3:30 PM",
-          "Title": "Azure Networking Updates",
+          "Title": "Azure Networking New Capabilities",
           "Room": "TBD",
           "Speaker": {
             "Name": "Kunal Bhatia",
             "Organization": "Microsoft",
-            "Description": "Quick update on Azure Networking new features, enhancements - Vnets, Security, ExpressRoute etc",
-            "ImageUrl": "",
+            "Description": "This session will provide a recap of some Azure Networking capabilities and scenarios  announced in the last few months - Shared Vnet, High Performance Networking, Load Balancer etc.",
+            "ImageUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMQAAAAJGI3M2I1OGMwLWZkM2MtNGY3YS1hNDFjLTliMmM2ZmY0Njg3MA.jpg",
             "Social": {
+              "Website": "https://www.linkedin.com/in/kunalbhatia123"
             }
           }
         },
