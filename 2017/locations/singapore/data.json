@@ -196,7 +196,7 @@
         {
           "SessionId": "DEV6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Azure.mobile.com - Xamarin / VS Mobile Services",
+          "Title": "Azure.mobile.com - Xamarin & VS Mobile Services",
           "Room": "TBD",
           "Speaker": {
             "Name": "Ben ishiyama-levy",
@@ -341,7 +341,7 @@
             "Description": "This session will provide a recap of some Azure Networking capabilities and scenarios  announced in the last few months - Shared Vnet, High Performance Networking, Load Balancer etc.",
             "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/KunalBhatia.jpg",
             "Social": {
-              "Website": "https://www.linkedin.com/in/kunalbhatia123"
+              "Website": "https://www.linkedin.com/in/kunalbhatia123",
                 "Twitter": "#"
             }
           }
