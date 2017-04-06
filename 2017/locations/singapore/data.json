@@ -69,9 +69,9 @@
       "Name": "Raspberry Pi 3"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/USB.png",
+      "ImageUrl": "#https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/azpass.png",
       "Link": "#",
-      "Name": "USB Drives"
+      "Name": "Azure Passes"
     },
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
