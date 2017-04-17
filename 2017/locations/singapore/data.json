@@ -525,14 +525,11 @@
           "Title": "TBD",
           "Room": "22CF15",
           "Speaker": {
-            "Name": "TBD",
-            "Description": "TBD",
-            "ImageUrl": "",
-            "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
-            }
+            "Name": "Saranya Sriram",
+            "Organization": "Microsoft",
+            "Description": "",
+            "ImageUrl": "https://github.com/azurebootcamp/azurebootcamp-data/raw/master/2016/locations/singapore/saranya.jpg",
+            "Social": {            }
           }
         },
         {
