@@ -198,21 +198,6 @@
         {
           "SessionId": "DEV6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Azure.mobile.com - Xamarin & VS Mobile Services",
-          "Room": "22CF12",
-          "Speaker": {
-            "Name": "Ben ishiyama-levy",
-            "Organization": "MVP",
-            "Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios, Test (Xamarin TestCloud), Distribute (HockeyApp), Crashes (part of HockeyApp), Analytic (Xamarin Insights), Tables (Repository: Connected to Azure), Identity (Authentication: Connected to Azure)",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
-            "Social": {
-              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy"
-            }
-          }
-        },
-        {
-          "SessionId": "DEV7",
-          "Time": "4:30 PM - 5:30 PM",
           "Title": "Containers on Azure",
           "Room": "22CF12",
           "Speaker": {
@@ -222,6 +207,21 @@
             "ImageUrl": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAk6AAAAJDU3YjkxMTJhLTMyNjMtNDlmYy05ZGY3LTdhM2E4YWI5Mjk5Zg.jpg",
             "Social": {
               "Website": "http://linkedin.com/in/uhitzel"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV7",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "Azure.mobile.com - Xamarin & VS Mobile Services",
+          "Room": "22CF12",
+          "Speaker": {
+            "Name": "Ben ishiyama-levy",
+            "Organization": "MVP",
+            "Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios, Test (Xamarin TestCloud), Distribute (HockeyApp), Crashes (part of HockeyApp), Analytic (Xamarin Insights), Tables (Repository: Connected to Azure), Identity (Authentication: Connected to Azure)",
+            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
+            "Social": {
+              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy"
             }
           }
         },
@@ -313,7 +313,7 @@
         {
           "SessionId": "ITPRO4",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "Architect Hybrid Cloud",
+          "Title": "Azure Governance",
           "Room": "22BR01",
           "Speaker": {
             "Name": "Mohamed Faizal",
