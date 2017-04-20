@@ -368,12 +368,12 @@
         {
           "SessionId": "ITPRO7",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "Azure Stack",
+          "Title": "Operations Management Suite: Planning for Failure",
           "Room": "22BR01",
           "Speaker": {
             "Name": "Steven Li Yan",
             "Organization": "Microsoft",
-            "Description": "What Azure Stack is, the kind of hardware setup it needs to run, clearing misconception that it's private cloud in a box but really an extension of Azure, values of public cloud and how hybrid cloud can be a strategy to get there",
+            "Description": "Learn how you can build a contingency plan for your on premise as well as Azure assets and protect your services from probable causes of failure. Learn about backing up and replicating on premise solutions onto Azure and scheduling daily backup of Azure VMs. During the demo session, a ransomware attack will be simulated and see how to recover fast.",
             "ImageUrl": "https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAjgAAAAJDk1Njc1YTMyLTg5OGEtNDg5ZS05MjVhLTczMWEzNzcyMzM0Mg.jpg",
             "Social": {
               "Website": "https://www.linkedin.com/in/steven-li-yan-0a9b33135"
@@ -522,14 +522,14 @@
         {
           "SessionId": "DATA7",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "TBD",
+          "Title": "Building Intelligent Apps and Securing using Azure Security Center",
           "Room": "22CF15",
           "Speaker": {
             "Name": "Saranya Sriram",
             "Organization": "Microsoft",
-            "Description": "",
-            "ImageUrl": "https://github.com/azurebootcamp/azurebootcamp-data/raw/master/2016/locations/singapore/saranya.jpg",
-            "Social": {            }
+            "Description": "In this session, we will take a quick look at how a modern, intelligent cross platform Application that can is built for real time data feed, visualization and predictive analytics, might look like on Azure platform - tools. Building & deploying Apps is half the story. The key to a successful deployment on Cloud is securing the deployments. We will introduce Azure Security Center to the audience with step-by-step demo of how to secure a newly created Azure environment including patch & baseline assessment of the VMs, identifying & securing open endpoints to the Internet using NSGs and NGFW using 3rd party solution, identifying & securing Azure storage and SQL Azure instances, identifying & securing Azure Web App instance and setting a security policy for the subscription.",
+            "ImageUrl": "https://github.com/azurebootcamp/azurebootcamp-data/raw/master/2017/locations/singapore/saranya.jpg",
+            "Social": {}
           }
         },
         {
