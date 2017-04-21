@@ -165,13 +165,13 @@
         {
           "SessionId": "DEV4",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "Scaling DevOps beyond teams with Azure",
+          "Title": "Using Azure Notification Hub with Xamarin",
           "Room": "22CF12",
           "Speaker": {
-            "Name": "Sandeep Joshi",
+            "Name": "Sohel Shekha",
             "Organization": "MVP",
-            "Description": "In today’s agile world, instant feedback if key to delivery desired business value. DevOps practices plays a key role in getting the software in hands of the user by using CI and CD practices. While pockets of teams enable DevOps practices, scaling DevOps at organization level requires governance and tooling support. In this session, we will look at some of the tools available with Windows Azure to scale your DevOps practices beyond teams.",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/sandeepjoshi.jpg",
+            "Description": "Xamarin Mobile Lead",
+            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002598",
             "Social": {
             }
           }
