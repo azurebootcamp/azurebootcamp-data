@@ -264,7 +264,7 @@
           "SessionId": "ITPRO1",
           "Time": "9:15 AM - 10:15 AM",
           "Title": "Accelerating your Journey to the Cloud",
-          "Room": "22BR01",
+          "Room": "BPC",
           "Speaker": {
             "Name": "Milton Goh",
             "Organization": "MVP",
@@ -281,7 +281,7 @@
           "SessionId": "ITPRO2",
           "Time": "10:15 AM - 11:15 AM",
           "Title": "A Practical approach to High Availability in Azure",
-          "Room": "22BR01",
+          "Room": "BPC",
           "Speaker": {
             "Name": "MS Anand",
             "Organization": "Microsoft",
@@ -295,7 +295,7 @@
           "SessionId": "ITPRO3",
           "Time": "11:15 AM - 12:15 PM",
           "Title": "Design A Secure Azure IaaS - Lesson Learnt from Government Cloud",
-          "Room": "22BR01",
+          "Room": "BPC",
           "Speaker": {
             "Name": "Thuan Ng",
             "Organization": "MVP",
@@ -314,7 +314,7 @@
           "SessionId": "ITPRO4",
           "Time": "1:15 PM - 2:15 PM",
           "Title": "Azure Governance",
-          "Room": "22BR01",
+          "Room": "BPC",
           "Speaker": {
             "Name": "Mohamed Faizal",
             "Organization": "Microsoft",
@@ -336,7 +336,7 @@
           "SessionId": "ITPRO5",
           "Time": "2:30 PM - 3:30 PM",
           "Title": "Azure Networking New Capabilities",
-          "Room": "22BR01",
+          "Room": "BPC",
           "Speaker": {
             "Name": "Kunal Bhatia",
             "Organization": "Microsoft",
@@ -352,7 +352,7 @@
           "SessionId": "ITPRO6",
           "Time": "3:30 PM - 4:30 PM",
           "Title": "Securing Azure Assets",
-          "Room": "22BR01",
+          "Room": "BPC",
           "Speaker": {
             "Name": "Sakthis Kumar",
             "Organization": "MVP",
@@ -369,7 +369,7 @@
           "SessionId": "ITPRO7",
           "Time": "4:30 PM - 5:30 PM",
           "Title": "Operations Management Suite: Planning for Failure",
-          "Room": "22BR01",
+          "Room": "BPC",
           "Speaker": {
             "Name": "Steven Li Yan",
             "Organization": "Microsoft",
